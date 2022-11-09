@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Peru Algoritmo Decisiones Automatizadas",
+    "gl": "pe",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9A9Hzmh0bNAyIiehd4SuP1IqoQ2--ZJkMRoRtibFS_RVcRnCn9H0vUe1Hg&s"
+  },
+  "organic": [
+    {
+      "title": "EL IMPACTO DE LA INTELIGENCIA ARTIFICIAL EN LA PROTECCIÓN DE DATOS PERSONALES",
+      "link": "https://www.tytl.com.pe/el-impacto-de-la-inteligencia-artificial-en-la-proteccion-de-datos-personales/",
+      "snippet": "Cabe preguntarse lo siguiente: ¿Qué sucedería si una IA discrimina a un usuario en una decisión automatizada? Si bien los algoritmos son ...",
+      "date": "2 sept 2020",
+      "position": 1
+    },
+    {
+      "title": "El Sesgo Algorítmico y la Protección de Datos Personales - Torres y Torres Lara - Abogados",
+      "link": "https://www.tytl.com.pe/el-sesgo-algoritmico-y-la-proteccion-de-datos-personales/",
+      "snippet": "El autor analiza cómo las decisiones automatizadas de la inteligencia ... Esto sucedió porque el algoritmo no había sido entrenado con ...",
+      "date": "8 nov 2019",
+      "position": 2
+    },
+    {
+      "title": "El tratamiento de datos personales mediante el uso de inteligencia artificial en la toma de decisiones automatizadas | FerradaNehme",
+      "link": "https://fn.cl/comunicaciones/el-tratamiento-de-datos-personales-mediante-el-uso-de-inteligencia-artificial-en-la-toma-de-decisiones-automatizadas",
+      "snippet": "En otras palabras, cuando hablamos de machine learning, es el propio algoritmo el que crea nuevos algoritmos mediante la identificación de ...",
+      "date": "12 ago 2021",
+      "position": 3
+    },
+    {
+      "title": "[PDF] DEPARTAMENTO DE DERECHO Y CIENCIA POLÍTICA - Universidad Católica San Pablo",
+      "link": "https://repositorio.ucsp.edu.pe/bitstream/20.500.12590/16977/1/LLERENA_DELGADO_GAB_JUR.pdf",
+      "snippet": "... ALGORITMOS DE IA. 9.1. Alcances de las decisiones automatizadas. ... la correcta impartición de justicia basado en el uso de algoritmos que buscan dar.",
+      "position": 4
+    },
+    {
+      "title": "El Sesgo Algorítmico y la Protección de Datos Personales - Enfoque Derecho | El Portal de Actualidad Jurídica de THĒMIS",
+      "link": "https://www.enfoquederecho.com/2019/11/07/el-sesgo-algoritmico-y-la-proteccion-de-datos-personales/",
+      "snippet": "Esto sucedió porque el algoritmo no había sido entrenado con ... En ese sentido, una decisión automatizada estará permitida cuando ésta sea ...",
+      "date": "7 nov 2019",
+      "position": 5
+    },
+    {
+      "title": "Programa en Machine Learning para la toma de decisiones - Educación Ejecutiva de UTEC",
+      "link": "https://educacion-ejecutiva.utec.edu.pe/programa-machine-learning-toma-decisiones",
+      "snippet": "A ello se suman los avances tecnológicos enfocados en la computación; como es el caso del Aprendizaje Automatizado o Machine Learning.",
+      "position": 6
+    },
+    {
+      "title": "Inteligencia artificial y diversidad: ¿cuál es la relación? | Bosch en Peru",
+      "link": "https://www.bosch.com.pe/noticias-e-historias/aiot/inteligencia-artificial-y-diversidad/",
+      "snippet": "... y aplicación de algoritmos, la inteligencia artificial (IA) llegó al mundo programada para optimizar y mejorar diversos procesos de toma de decisiones.",
+      "position": 7
+    },
+    {
+      "title": "[PDF] CONSTITUCIÓN, DERECHOS FUNDAMENTALES, INTELIGENCIA ARTIFICIAL Y ALGORITMOS - Revista - PUCP",
+      "link": "https://revistas.pucp.edu.pe/index.php/themis/article/download/24863/23650/",
+      "snippet": "A lo largo del año 2020, en el Perú y en el mundo se ha incrementado exponencialmente ... plio para las decisiones automatizadas de protec-.",
+      "date": "28 feb 2021",
+      "position": 8
+    },
+    {
+      "title": "¿Qué es machine learning? - Perú - IBM",
+      "link": "https://www.ibm.com/pe-es/cloud/learn/machine-learning",
+      "snippet": "Deep learning automatiza gran parte de la fase de extracción de ... Un proceso de decisión: en general, los algoritmos de machine learning ...",
+      "date": "15 jul 2020",
+      "position": 9
+    }
+  ]
+}

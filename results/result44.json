@@ -1,0 +1,103 @@
+{
+  "searchParameters": {
+    "q": "Costa Rica Observatorio Algoritmos",
+    "gl": "cr",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb0c8nB2lMnuwudyq7-2C4AQNkRdFqOPU1t6H0EgCI-6Nd4qeq6sGf820lt4&s"
+  },
+  "organic": [
+    {
+      "title": "Entre Netflix y algoritmos - Universidad de Costa Rica",
+      "link": "https://www.ucr.ac.cr/noticias/2019/10/08/entre-netflix-y-algoritmos.html",
+      "snippet": "Rara vez las personas se preguntan por cuestiones que no ven o no entienden. La cotidianidad está llena de procesos complejos que pasan ...",
+      "date": "8 oct 2019",
+      "position": 1
+    },
+    {
+      "title": "Académicos plantan cara a los retos de la inteligencia artificial - Universidad de Costa Rica",
+      "link": "https://www.ucr.ac.cr/noticias/2022/10/25/academicos-plantan-cara-a-los-retos-de-la-inteligencia-artificial.html",
+      "snippet": "en los coches autónomos y en nuevos robots que se están creando y esa inteligencia va a ir tomando decisiones por sí misma mediante algoritmos y ...",
+      "date": "25 oct 2022",
+      "position": 2
+    },
+    {
+      "title": "Home | fAIrLAC",
+      "link": "https://fairlac.iadb.org/",
+      "snippet": "fAIr LAC ha establecido cuatro hubs: Jalisco (México), Costa Rica, Colombia y Uruguay. El objetivo es que se conviertan en referentes locales en el uso ...",
+      "position": 3
+    },
+    {
+      "title": "costarica - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/costarica/",
+      "snippet": "... Reflexiones sobre las transferencias de datos personales y las excepciones a la autodeterminación informativa en Costa Rica de la Ley de Protección de ...",
+      "position": 4
+    },
+    {
+      "title": "Con la... - Dirección de Bibliotecas Públicas Costa Rica | Facebook",
+      "link": "https://facebook.com/dbp.sinabi.mcj.cr/posts/1906665389520319/?locale=ne_NP",
+      "snippet": "Stuart Russell, investigador de la Universidad de California en Berkeley y defensor de los \"valores humanos\" de la IA, dice que los algoritmos de las redes ...",
+      "position": 5
+    },
+    {
+      "title": "¿Cómo tomar mejores decisiones con ayuda de algoritmos? | Software ERP",
+      "link": "https://softland.cr/blog/noticias/como-tomar-mejores-decisiones-con-ayuda-de-algoritmos/",
+      "snippet": "La Aurora de Heredia, Costa Rica. Tel: +506 2509-3800 800-SOFTLAND (800-7638-526) Email: informes@softland.cr.",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 6
+    },
+    {
+      "title": "Los algoritmos | Meer",
+      "link": "https://www.meer.com/es/56313-los-algoritmos",
+      "snippet": "En todo caso, tendré que hacerle caso al algoritmo e ir algún día a Lavertezzo. ... Escritor y catedrático de la Universidad de Costa Rica.",
+      "date": "28 jul 2019",
+      "position": 7
+    },
+    {
+      "title": "[PDF] Alerta Temprana a San José por un Debajo de la Península de Nicoya",
+      "link": "https://www.cne.go.cr/CEDO-CRID/CEDO-CRID%20v2.0/CEDO/pdf/spa/doc11676/doc11676-a.pdf",
+      "snippet": "Observatorio Vulcanológico y Sismológico de Costa Rica ... Nicoya en el Pacífico norte de Costa Rica. ... algoritmo de identificación de eventos y.",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Consejo Académico - Universidad Nacional",
+      "link": "https://www.consaca.una.ac.cr/index.php/documentos/category/24-actas-2011?download=363:acta-15-2011&start=20",
+      "snippet": "ALGORITMO PARA LA DISTRIBUCIÓN DEL PRESUPUESTO DE OPERACIÓN EN ... OBSERVATORIO VULCANOLÓGICO Y SISMOLÓGICO DE COSTA RICA (OVSICORI).",
+      "date": "22 jun 2011",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "BID inteligencia artificial"
+    },
+    {
+      "query": "Ejemplos de ayuda del BID"
+    },
+    {
+      "query": "Inteligencia Artificial Gobierno"
+    },
+    {
+      "query": "Repositorio BID"
+    },
+    {
+      "query": "Inteligencia artificial en Latinoamérica"
+    },
+    {
+      "query": "Género e inteligencia artificial"
+    },
+    {
+      "query": "Inteligencia artificial Bogotá"
+    },
+    {
+      "query": "Inteligencia artificial y política PDF"
+    }
+  ]
+}

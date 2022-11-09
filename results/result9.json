@@ -1,0 +1,108 @@
+{
+  "searchParameters": {
+    "q": "Argentina Observatorio Decisiones Automatizadas",
+    "gl": "ar",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvn1yHZXoNECKe4viYFpnUklt_yMOp2dQUOUig3ki8l8k-LTQEP8xFd4j1fg&s"
+  },
+  "organic": [
+    {
+      "title": "Funciones del Observatorio Nacional Big Data - Argentina.gob.ar",
+      "link": "https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/grupo-de-trabajo-de-servicios-de-7",
+      "snippet": "El **Observatorio Nacional de Big Data** es un espacio interdisciplinario que ... en el uso de tecnologías de procesamiento automatizado de la información.",
+      "attributes": {
+        "Falta(n)": "Decisiones | Debe incluir lo siguiente:Decisiones"
+      },
+      "position": 1
+    },
+    {
+      "title": "[PDF] Requisitos mínimos para la Reforma de la Ley de Protección de Datos Personales de Argentina",
+      "link": "https://www.argentina.gob.ar/sites/default/files/2022/08/lineamientos_basicos_para_la_ley_de_proteccion_de_datos_argentina-1.pdf",
+      "snippet": "La referencia al RGPD es importante en este contexto dado que Argentina, ... Derecho a no ser sometido a decisiones automatizadas o parcialmente.",
+      "position": 2
+    },
+    {
+      "title": "Recomendaciones para ley de datos personales en Argentina - Access Now",
+      "link": "https://www.accessnow.org/argentina-recomendaciones-ley-datos-personales/",
+      "snippet": "Consagrar el derecho a no ser sometido a decisiones automatizadas o parcialmente automatizadas. Legislar para garantizar que el tratamiento ...",
+      "date": "17 ago 2022",
+      "position": 3
+    },
+    {
+      "title": "Debate por la actualización de la Ley de Protección de Datos Personales",
+      "link": "https://www.vialibre.org.ar/debate-por-la-actualizacion-de-la-ley-de-proteccion-de-datos-personales/",
+      "snippet": "Consagrar el derecho a no ser sometido a decisiones automatizadas o ... Libre y el Observatorio de Derecho Informático Argentino (O.D.I.A).",
+      "date": "15 sept 2022",
+      "position": 4
+    },
+    {
+      "title": "[PDF] Importación de servicios audiovisuales digitales en Argentina - Incidencia de las plataformas - INCAA",
+      "link": "http://www.incaa.gov.ar/wp-content/uploads/2022/09/Servicios-digitales-plataformas-importacion-220830.pdf",
+      "snippet": "El Observatorio Audiovisual del INCAA tiene como uno de sus objetivos ... el sector público ni el privado— como insumos para la toma de decisiones o para ...",
+      "position": 5
+    },
+    {
+      "title": "Boletín de Noticias del Observatorio Argentino del Ciberespacio – Marzo 2022",
+      "link": "https://ciberprisma.org/2022/04/06/boletin-de-noticias-del-observatorio-argentino-del-ciberespacio-marzo-2022/",
+      "snippet": "El Observatorio Argentino del Ciberespacio (OAC), ... de determinadas audiencias e influir en la toma de decisiones humanas o automatizadas.",
+      "date": "6 abr 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoIEG0suI79pEqvLrT-gNsQHS232dFPXv5d6KBdaDVs43SwsSCfG_20Hg&s",
+      "position": 6
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "Por ello, es necesario evaluar las implicaciones éticas que están asociadas con la ejecución de servicios digitales y decisiones automatizadas ...",
+      "date": "15 ago 2022",
+      "position": 7
+    },
+    {
+      "title": "Trayectoria normativa de la inteligencia artificial en los países de Latinoamérica con un marco jurídico para la protección de datos: límites y posibilidades de las políticas integradoras",
+      "link": "https://revistalatam.digital/article/210207/",
+      "snippet": "Estos dos últimos países, Argentina y Uruguay, son referencias para la ... la legislación de 2012 para abordar las decisiones automatizadas.",
+      "date": "25 ago 2021",
+      "position": 8
+    },
+    {
+      "title": "[PDF] protección de datos personales en perfilados y decisiones automatizadas en argentina - Repositorio Digital San Andrés",
+      "link": "https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18919/1/%5BP%5D%5BW%5D%20M.%20Ges%20Sirv%C3%A9n%2C%20Agustina.pdf",
+      "snippet": "Decisiones automatizadas, perfilados, protección de datos personales, afectaciones a derechos fundamentales, normativa jurídica vigente en Argentina,.",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "AAIP Anteproyecto"
+    },
+    {
+      "query": "Anteproyecto Protección de Datos"
+    },
+    {
+      "query": "Nueva ley de protección de datos"
+    },
+    {
+      "query": "Reforma a la Ley de Protección de datos personales"
+    },
+    {
+      "query": "Proyecto de ley protección de datos personales"
+    },
+    {
+      "query": "IPv6"
+    },
+    {
+      "query": "IPv6 Argentina"
+    },
+    {
+      "query": "Plataformas OTT"
+    }
+  ]
+}

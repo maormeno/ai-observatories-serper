@@ -1,0 +1,109 @@
+{
+  "searchParameters": {
+    "q": "Mexico Algoritmo Decisiones Automatizadas",
+    "gl": "mx",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos y decisiones judiciales en México - YouTube",
+      "link": "https://youtube.com/watch?v=RVn_B7GrS_U",
+      "snippet": "Acompáñanos a este panel con perspectiva de género ...",
+      "date": "23 feb 2022",
+      "attributes": {
+        "Duración": "1:21:03",
+        "Publicado": "23 feb 2022"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/RVn_B7GrS_U/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3l8EX7fwRxw6f-7iNMRZtvtU965ag",
+      "position": 1
+    },
+    {
+      "title": "México, ¿listo para ampliar protección de datos al uso de algoritmos? - Consumotic",
+      "link": "https://consumotic.mx/tecnologia/mexico-listo-para-ampliar-proteccion-de-datos-al-uso-de-algoritmos/",
+      "snippet": "Sin embargo, se sigue poniendo en duda si en México la ley mexicana, ... de sus datos cuando tiene una decisión desfavorable por parte de un algoritmo”.",
+      "position": 2
+    },
+    {
+      "title": "8 algoritmos que ya toman decisiones que afectan tu vida - Business Insider México",
+      "link": "https://businessinsider.mx/algoritmos-toman-decisiones-vida_tecnologia/",
+      "snippet": "De esta manera, procesos automatizados pueden estar generando enormes riesgos a amplias capas de la población, haciendo a colectivos más ...",
+      "date": "23 jun 2022",
+      "position": 3
+    },
+    {
+      "title": "Gobernanza Anticipatoria para la CDMX: Inteligencia Artificial - LabCDMXLabCDMX",
+      "link": "https://labcd.mx/experimentos/gobernanza-anticipatoria-para-la-cdmx-inteligencia-artificial/",
+      "snippet": "El desarrollo y utilización de algoritmos de aprendizaje automatizado, ... de la inteligencia artificial en la vida pública de la Ciudad de México, ...",
+      "position": 4
+    },
+    {
+      "title": "La tecnología como un nuevo Estado de Derecho en México",
+      "link": "https://derechoenaccion.cide.edu/la-tecnologia-como-un-nuevo-estado-de-derecho-en-mexico/",
+      "snippet": "Lo anterior posibilita el surgimiento de la falta de transparencia en la toma de decisiones automatizadas en el mercado bursátil.",
+      "date": "5 nov 2020",
+      "position": 5
+    },
+    {
+      "title": "Tonto el humano más cercano: cuando el algoritmo se equivoca, la culpa es tuya - EL PAÍS",
+      "link": "https://elpais.com/retina/2019/06/20/tendencias/1561022523_779671.html",
+      "snippet": "La responsabilidad de las decisiones automatizadas que acaban mal no suele atribuirse al sistema que ha fallado sino a la persona más ...",
+      "date": "21 jun 2019",
+      "position": 6
+    },
+    {
+      "title": "Algoritmos que desafían a las leyes | Economía - EL PAÍS",
+      "link": "https://elpais.com/economia/2018/11/08/actualidad/1541673953_042799.html",
+      "snippet": "El uso de algoritmos para la toma de decisiones automatizadas por parte de las empresas e instituciones es cada vez más frecuente.",
+      "date": "13 nov 2018",
+      "position": 7
+    },
+    {
+      "title": "¿Qué es la toma de decisiones automatizada? | Telcel Empresas",
+      "link": "https://www.telcel.com/empresas/tendencias/notas/definicion-toma-de-decisiones-automatizada",
+      "snippet": "Las decisiones automatizadas son la solución ideal cuando la organización debe ... a menudo pueden transferirse a algoritmos informáticos, siempre que, ...",
+      "position": 8
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 9
+    },
+    {
+      "title": "El Ministerio de Trabajo interpreta el alcance de las obligaciones empresariales de información sobre el uso de algoritmos | Garrigues",
+      "link": "https://www.garrigues.com/es_ES/noticia/ministerio-trabajo-interpreta-alcance-obligaciones-empresariales-informacion-uso-algoritmos",
+      "snippet": "... de inteligencia artificial para tomar decisiones automatizadas, ... por parte del algoritmo para la toma de decisiones automatizadas, ...",
+      "date": "13 jun 2022",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Uso de tecnologías de comunicación en el conocimiento del derecho"
+    },
+    {
+      "query": "Nuevas tecnologías aplicadas en el derecho"
+    },
+    {
+      "query": "El impacto de la informática en el derecho"
+    },
+    {
+      "query": "La influencia del derecho en la vida social y tecnológica"
+    },
+    {
+      "query": "Tecnología para abogados"
+    },
+    {
+      "query": "Como influye la tecnología en Derecho"
+    },
+    {
+      "query": "El derecho y las nuevas tecnologías"
+    },
+    {
+      "query": "Las nuevas tecnologías frente al derecho"
+    }
+  ]
+}

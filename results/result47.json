@@ -1,0 +1,86 @@
+{
+  "searchParameters": {
+    "q": "Costa Rica Algoritmo Algoritmos",
+    "gl": "cr",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb0c8nB2lMnuwudyq7-2C4AQNkRdFqOPU1t6H0EgCI-6Nd4qeq6sGf820lt4&s"
+  },
+  "organic": [
+    {
+      "title": "Entre Netflix y algoritmos - Universidad de Costa Rica",
+      "link": "https://www.ucr.ac.cr/noticias/2019/10/08/entre-netflix-y-algoritmos.html",
+      "snippet": "Es decir, en lugar de que una persona tenga que realizar un proceso de forma manual todo el tiempo, el algoritmo simplifica la acción y la ...",
+      "date": "8 oct 2019",
+      "position": 1
+    },
+    {
+      "title": "Estructuras de Datos y Algoritmos: Los bloques de nuestra vida digital - Delfino.cr",
+      "link": "https://delfino.cr/2021/11/estructuras-de-datos-y-algoritmos-los-bloques-de-nuestra-vida-digital",
+      "snippet": "Estructuras de Datos y Algoritmos: Los bloques de nuestra vida digital ... de https://openwebinars.net/blog/que-es-un-algoritmo-informatico/.",
+      "date": "21 nov 2021",
+      "position": 2
+    },
+    {
+      "title": "Sistema multi-algoritmo para la clasificación de coberturas de la tierra en el bosque seco tropical del Área de Conservación Guanacaste, Costa Rica - SciELO",
+      "link": "http://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S0379-39822018000100058",
+      "snippet": "Por otro lado, los algoritmos Neural Network se consideran semiparamétricos al estimar la densidad de probabilidad de una categoría []. Por consiguiente, este ...",
+      "position": 3
+    },
+    {
+      "title": "¿Cómo tomar mejores decisiones con ayuda de algoritmos? | Software ERP",
+      "link": "https://softland.cr/blog/noticias/como-tomar-mejores-decisiones-con-ayuda-de-algoritmos/",
+      "snippet": "La Aurora de Heredia, Costa Rica. Tel: +506 2509-3800 800-SOFTLAND (800-7638-526) Email: informes@softland.cr.",
+      "position": 4
+    },
+    {
+      "title": "Roban dinero de cuentas por medio de algoritmos en Costa Rica - YouTube",
+      "link": "https://youtube.com/watch?v=th310cM7kHE",
+      "snippet": "Víctimas tienen que esperar hasta seis meses para que les ...",
+      "date": "13 sept 2022",
+      "attributes": {
+        "Duración": "8:32",
+        "Publicado": "13 sept 2022"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/th310cM7kHE/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3mluJL0z03zbkY7-87eZuhCEix-5Q",
+      "position": 5
+    },
+    {
+      "title": "Un análisis comparativo de los algoritmos Fast Radial Symmetry Transform y Hough Transform para la detección automática de granos de café en imágenes - Repositorio TEC",
+      "link": "https://repositoriotec.tec.ac.cr/handle/2238/9372",
+      "snippet": "In this work we present a strategy that contributes to the overall solution of a problem presented by the Costa Rica Co ee Institute (ICAFE).",
+      "position": 6
+    },
+    {
+      "title": "Diseño de un Algoritmo mediante procesamiento de imágenes para la determinación y ... - Repositorio TEC",
+      "link": "https://repositoriotec.tec.ac.cr/handle/2238/10625",
+      "snippet": "... de imágenes para la determinación y control de la posición del brazo Amatrol Pegasus I en el Instituto Tecnológico de Costa Rica Sede San Carlos.",
+      "attributes": {
+        "Falta(n)": "Algoritmos | Debe incluir lo siguiente:Algoritmos"
+      },
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4oKuWrwffrDHKJgAS8zomOICk4YvpWYOeXyhl3Y66rTfJcJqtT8F0xE&s",
+      "position": 7
+    },
+    {
+      "title": "Vista Equipo: Análisis y Diseño de Algoritmos - Repositorio Centroamericano SIIDCA",
+      "link": "https://repositoriosiidca.csuca.org/Record/RepoREUNED335/Details",
+      "snippet": "Análisis y Diseño de Algoritmos ... Universidad Estatal a Distancia de Costa Rica 2011-11-25T17:02:38Z 2011-11-25T17:02:38Z 2011-11-25T17:02:38Z Otro ...",
+      "position": 8
+    },
+    {
+      "title": "Roban dinero de cuentas por medio de algoritmos en Costa Rica",
+      "link": "https://www.telediario.cr/television/programas/nacional-roban-dinero-cuentas-algoritmos-costa-rica",
+      "snippet": "Víctimas tienen que esperar hasta seis meses para que les devuelvan el dinero. Redacción Multimedios Costa Rica / 12.09.2022 23:36:34.",
+      "date": "12 sept 2022",
+      "attributes": {
+        "Falta(n)": "Algoritmo | Debe incluir lo siguiente:Algoritmo"
+      },
+      "position": 9
+    }
+  ]
+}

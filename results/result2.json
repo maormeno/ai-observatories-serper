@@ -1,0 +1,89 @@
+{
+  "searchParameters": {
+    "q": "Chile Observatorio Algoritmos",
+    "gl": "cl",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sCiJpVqWSDT7j88Su5xMkFikJbQGTLCnjMPWFSaTr36mI4QP6NuUFOAoWUY&s"
+  },
+  "organic": [
+    {
+      "title": "Proyecto CLIRAI: Data Observatory disponibilizará algoritmos para la síntesis de imágenes de interferómetros a la comunidad astronómica | ANID",
+      "link": "https://www.anid.cl/blog/2022/06/01/proyecto-clirai-data-observatory-disponibilizara-algoritmos-para-la-sintesis-de-imagenes-de-interferometros-a-la-comunidad-astronomica/",
+      "snippet": "miércoles 1 de junio de 2022. El proyecto perfeccionará algoritmos desarrollados en Chile para la obtención de imágenes de mayor precisión y confiabilidad ...",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 1
+    },
+    {
+      "title": "Experiencias pioneras de algoritmos de recomendación en el campo de las artes desarrolladas en Chile - Denis Parra - Observatorio Cultural",
+      "link": "http://observatorio.cultura.gob.cl/index.php/2021/04/21/oc-38-articulo-4/",
+      "snippet": "En Chile, las iniciativas son hasta ahora acotadas aunque ... Algoritmos de recomendación y sistemas de inteligencia artificial en la ...",
+      "date": "21 abr 2021",
+      "position": 2
+    },
+    {
+      "title": "algoritmos de recomendación archivos - Observatorio Cultural",
+      "link": "http://observatorio.cultura.gob.cl/index.php/tag/algoritmos-de-recomendacion/",
+      "snippet": "Experiencias pioneras de algoritmos de recomendación en el campo de las artes desarrolladas en Chile – Denis Parra · Read More. Ministerio de las Culturas, ...",
+      "position": 3
+    },
+    {
+      "title": "OptIA: Home",
+      "link": "https://optia.cl/",
+      "snippet": "Observatorio Público para la Transparencia e Inclusión Algorítmica. ... comparten la preocupación por el impacto de la implementación y uso de algoritmos, ...",
+      "position": 4
+    },
+    {
+      "title": "Ministerio de Ciencia estrena “Chile I.A.”, una serie de podcasts sobre Inteligencia Artificial",
+      "link": "https://www.minciencia.gob.cl/noticias/ministerio-de-ciencia-estrena-chile-ia-una-serie-de-podcasts-sobre-inteligencia-artificial/",
+      "snippet": "Además, conversará sobre algoritmos sin sesgos y sobre la ética de datos con foco en políticas públicas con María Paz Hermosilla, directora del ...",
+      "date": "2 nov 2021",
+      "position": 5
+    },
+    {
+      "title": "Proceso de elaboración de la Política de IA",
+      "link": "https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/proceso-de-elaboracion/",
+      "snippet": "... temáticos de la Política de Inteligencia Artificial, realizar un diagnóstico de la situación en Chile con respecto a tres ejes -factores habilitantes, ...",
+      "position": 6
+    },
+    {
+      "title": "UdeC integra el único proyecto chileno elegido para procesar datos de nuevo observatorio",
+      "link": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2021/08/13/udec-integra-el-unico-proyecto-chileno-elegido-para-procesar-datos-de-nuevo-observatorio.html",
+      "snippet": "ALeRCE será broker del Vera C. Rubin, que iniciará su operación en 2024. La iniciativa se creó en 2017 y usa algoritmos de inteligencia ...",
+      "date": "13 ago 2021",
+      "position": 7
+    },
+    {
+      "title": "Desarrollo de Algoritmos de Aprendizaje Automático y Predictivos para monitoreo de cultivos - Opia.CL",
+      "link": "https://opia.fia.cl/601/w3-article-88397.html",
+      "snippet": "El objetivo del proyecto es obtener un prototipo funcional a pequeña escala para validar la idoneidad y factibilidad del uso de técnicas de Inteligencia ...",
+      "position": 8
+    },
+    {
+      "title": "Algoritmos y Responsabilidad - GobLab UAI",
+      "link": "https://goblab.uai.cl/algoritmos-y-responsabilidad/",
+      "snippet": "Recientemente a AlgorithmWatch y al observatorio de avisaje de la NYU se les denegó el acceso a información vital para el estudio del ...",
+      "date": "31 ago 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IAX_Vj7IotlgyYUOhYCFSoUtOGgE5tA0zUyeSjyeH6MxX8SumlylnHc&s",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Data Observatory Chile"
+    },
+    {
+      "query": "Optia"
+    },
+    {
+      "query": "Equipo Optia"
+    }
+  ]
+}

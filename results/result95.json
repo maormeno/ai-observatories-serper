@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Panama Algoritmo Algoritmos",
+    "gl": "pa",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos de aprendizaje avanzado - Blog Tigo Panamá",
+      "link": "https://blog.tigo.com.pa/tigo-business/tecnologia-business/algoritmos-de-aprendizaje-avanzado/",
+      "snippet": "Ahora bien, el algoritmo no puede aprender ni funcionar correctamente sin datos que validen esas similitudes. Por otra parte, son buenos para ...",
+      "date": "25 nov 2021",
+      "position": 1
+    },
+    {
+      "title": "Un algoritmo para la industria de los influencers - Ciudad del Saber",
+      "link": "https://ciudaddelsaber.org/un-algoritmo-para-la-industria-de-los-influencers-2/",
+      "snippet": "... está repleta de mensajes encriptados, algoritmos, acrónimos de ... digital que marca pautas de innovación en Panamá y la región, ...",
+      "date": "16 jun 2020",
+      "position": 2
+    },
+    {
+      "title": "Estudio comparativo de los algoritmos simplex y simplex revisado. - UP-RID",
+      "link": "http://up-rid.up.ac.pa/1885/",
+      "snippet": "Masters thesis, Universidad de Panamá. ... Estudia el algoritmo simplex revisado por forma producto de la inversa y descomposición LU y ...",
+      "date": "3 oct 2021",
+      "position": 3
+    },
+    {
+      "title": "Algoritmos | Desarrollo de Software Universidad Tecnologica de Panamá",
+      "link": "https://utpdesarrollopanama.wordpress.com/tag/algoritmos/",
+      "snippet": "ALGORITMO DESRROYADO POR ALEXIS Y POR GIL DE DOS FORMAS DISTINTAS · 1-inicio · 2-num1, num2, num3, cuadrad ,cubo, cuarta, suma · 3-leer num1 num2 num3 · 4-suma=num1 ...",
+      "position": 4
+    },
+    {
+      "title": "¿Transformación o revolución digital?: Marcas a la conquista de los algoritmos - Stratego",
+      "link": "http://www.stratego.com.pa/transformacion-o-revolucion-digital-marcas-a-la-conquista-de-los-algoritmos/",
+      "snippet": "Las tecnologías emergentes continúan alterando la forma en que se hace negocios a nivel mundial. En Panamá, las empresas no escapan a esta realidad, ...",
+      "position": 5
+    },
+    {
+      "title": "Análisis Y Diseño De Algorítmos - 668 - UTP - StuDocu",
+      "link": "https://www.studocu.com/latam/course/universidad-tecnologica-de-panama/analisis-y-diseno-de-algoritmos/4084806",
+      "snippet": "Universidad · Universidad Tecnológica de Panamá; Análisis Y Diseño De Algorítmos. Sigue esta asignatura. Documentos (7). Mensajes · Estudiantes (3) ...",
+      "position": 6
+    },
+    {
+      "title": "Algoritmo Solucionde Problema - Algoritmos y solución de problemas Fundamentos de Programación Otoño - StuDocu",
+      "link": "https://www.studocu.com/latam/document/universidad-tecnologica-de-panama/base-de-datos-i/algoritmo-solucionde-problema/24802679",
+      "snippet": "Se presenta un algoritmo de solución para diferentes problemas. algoritmos solución de problemas fundamentos de programación otoño 2008 mtro. luis eduardo ...",
+      "position": 7
+    },
+    {
+      "title": "Diseño de un algoritmo para el problema de asignación de profesores a asignaturas del ...",
+      "link": "http://www.investigadores.utp.ac.pa/proyectos/843",
+      "snippet": "Dirección: Avenida Universidad Tecnológica de Panamá, Vía Puente Centenario, Campus Metropolitano Víctor Levi Sasso. E-mail: investigadores.activos@utp.ac.pa.",
+      "position": 8
+    },
+    {
+      "title": "Comparación de los algoritmos de búsqueda en problemas de videojuegos de estrategia",
+      "link": "https://revistas.utp.ac.pa/index.php/ric/article/view/2897",
+      "snippet": "Universidad Tecnológica de Panamá ... de los algoritmos, se demuestra que el algoritmo más eficiente en la búsqueda de la solución de los ...",
+      "date": "15 dic 2020",
+      "position": 9
+    },
+    {
+      "title": "Registros de 'blockchain' y criptografía - La Estrella de Panamá",
+      "link": "https://www.laestrella.com.pa/cafe-estrella/tecnologia/220119/registros-blockchain-criptografia",
+      "snippet": "La criptografía usa algoritmos y aunque existe una lista de estos, del que escuchamos más es del algoritmo SHA-256 (secure hash algorithm), ...",
+      "date": "19 ene 2022",
+      "position": 10
+    }
+  ]
+}

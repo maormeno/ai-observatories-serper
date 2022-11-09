@@ -1,0 +1,79 @@
+{
+  "searchParameters": {
+    "q": "El Salvador Algoritmo Decisiones Automatizadas",
+    "gl": "sv",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlpbysUP15Y7yOUiX5XHcqR8_AqhkX-PsO0nhuFxewNdXufA6-BZLKKZs0A&s"
+  },
+  "organic": [
+    {
+      "title": "Inteligencia Artificial para automatizar la toma de decisiones | Software ERP – Soluciones empresariales, recursos humanos – Softland El Salvador",
+      "link": "https://softland.com.sv/inteligencia-artificial-para-automatizar-la-toma-de-decisiones/",
+      "snippet": "La Inteligencia Artificial (IA), se compone de un conjunto de algoritmos que tienen como objetivo disponer en las máquinas las mismas capacidades deductivas ...",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 1
+    },
+    {
+      "title": "Empatía automatizada: la historia de Salvador | Digital Future Society",
+      "link": "https://digitalfuturesociety.com/es/empatia-automatizada-la-historia-de-salvador/",
+      "snippet": "Los gobiernos utilizan cada vez más sistemas automatizados ... En el caso de Salvador, el algoritmo que decidía si debía recibir sus ...",
+      "date": "25 mar 2019",
+      "position": 2
+    },
+    {
+      "title": "(PDF) Decisiones Automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos. | Adrián Palma Ortigosa - Academia.edu",
+      "link": "https://www.academia.edu/38774845/Decisiones_Automatizadas_en_el_RGPD_El_uso_de_algoritmos_en_el_contexto_de_la_protecci%C3%B3n_de_datos",
+      "snippet": "PALABRAS CLAVE: Big data, decisiones automatizadas, inteligencia artificial, evaluación de perfiles, derecho de explicación. Abstract: In this paper is ...",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoJRJHGOp1z7KztmPKGJjeJOh2qDpqhO3oyYiKB-iFKYDkrlhIqCKvUM&s",
+      "position": 3
+    },
+    {
+      "title": "Twitter descarta algoritmo de corte de imágenes por diferencias sobre minorías",
+      "link": "https://diarioelsalvador.com/twitter-descarta-algoritmo-de-corte-de-imagenes-por-diferencias-sobre-minorias/81648/",
+      "snippet": "Twitter informó el miércoles que descartó un sistema automatizado de ... dejar las decisiones de corte de imágenes en manos de los usuarios.",
+      "date": "19 may 2021",
+      "position": 4
+    },
+    {
+      "title": "Los superjuguetes duran todo el verano - ISDI",
+      "link": "https://www.isdi.education/es/blog/relaciones-laborales-algoritmos-inteligencia-artificial",
+      "snippet": "Así pues, considerando la normativa laboral y la de protección de datos, el uso de los algoritmos y de la I.A, las decisiones automatizadas ...",
+      "date": "5 may 2022",
+      "position": 5
+    },
+    {
+      "title": "LABORAlgorithm - Esade Research",
+      "link": "https://www.esade.edu/faculty-research/es/instituto-estudios-laborales/investigacion/proyectos-de-investigacion/laboralgorithm",
+      "snippet": "Tratamiento jurídico del uso de Big Data, tecnología inteligente y algoritmos para la elaboración de perfiles y toma de decisiones automatizada en el ámbito ...",
+      "position": 6
+    },
+    {
+      "title": "[PDF] Utilización de metodologías de Inteligencia Artificial y sus aplicaciones en El Salvador - REDICCES",
+      "link": "http://www.redicces.org.sv/jspui/bitstream/10972/1950/1/7.%20Utilizacion%20de%20metodologias%20de%20Inteligencia%20Artificial%20y%20sus%20aplicaciones%20en%20El%20Salvador.pdf",
+      "snippet": "de decisiones políticas importantes, resolución de juicios legales, ... Redes Neuronales Artificiales (RNA) y Algoritmos Genéticos (AG) entre otras, ...",
+      "position": 7
+    },
+    {
+      "title": "[PDF] EL ARTE DE LA TOMA DE DECISIONES.pdf - UNIVERSIDAD DE EL SALVADOR",
+      "link": "https://ri.ues.edu.sv/id/eprint/5432/1/EL%20ARTE%20DE%20LA%20TOMA%20DE%20DECISIONES.pdf",
+      "snippet": "la toma de decisiones a un algoritmo son rápidamente abrumados por las ... de toma de decisiones automatizado, pero todavía había algunas ...",
+      "date": "8 nov 2013",
+      "position": 8
+    },
+    {
+      "title": "Algoritmos, sesgos y discriminación en su uso: A propósito de recientes sentencias sobre el tema | Centro Interamericano de Administraciones Tributarias",
+      "link": "https://www.ciat.org/ciatblog-algoritmos-sesgos-y-discriminacion-en-su-uso-a-proposito-de-recientes-sentencias-sobre-el-tema/",
+      "snippet": "Hoy vivimos en un mundo cada vez más automatizado donde los algoritmos[1] son utilizados para la toma de decisiones basadas en sistemas de ...",
+      "date": "8 feb 2021",
+      "position": 9
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "searchParameters": {
+    "q": "Bolivia Observatorio Inteligencia Artificial",
+    "gl": "bo",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 1
+    },
+    {
+      "title": "BID y UNESCO lanzan nueva edición del Observatorio de Inteligencia Artificial | IADB",
+      "link": "https://www.iadb.org/es/noticias/bid-y-unesco-lanzan-nueva-edicion-del-observatorio-de-inteligencia-artificial",
+      "snippet": "El BID y la UNESCO actualizan el mayor mapeo de iniciativas de inteligencia artificial de la región orientadas a diseñar políticas públicas ...",
+      "date": "24 ago 2021",
+      "position": 2
+    },
+    {
+      "title": "Virtual Educa Bolivia - ¡TE INVITAMOS A SER PARTE DE ESTA PLATAFORMA VIVA DE ...",
+      "link": "https://ne-np.facebook.com/VirtualEducaBolivia/photos/a.117287100027382/388551619567594/?type=3",
+      "snippet": "... PARTE DE ESTA PLATAFORMA VIVA DE CASOS DE USO DE INTELIGENCIA ARTIFICIAL! ... OBJETIVOS DEL OBSERVATORIO DE CASOS DE USO: Dar visibilidad regional e ...",
+      "position": 3
+    },
+    {
+      "title": "El desarrollo de la ética de la Inteligencia Artificial (IA) a nivel de ciudades y municipios de Latinoamérica | CAF",
+      "link": "https://www.caf.com/es/actualidad/eventos/2022/11/el-desarrollo-de-la-etica-de-la-inteligencia-artificial-ia-a-nivel-de-ciudades-y-municipios-de-latinoamerica/",
+      "snippet": "A esto se une la apuesta ambiciosa que viene planteando el Municipio frente a la creación del primer Observatorio Municipal para el uso responsable de IA de ...",
+      "position": 4
+    },
+    {
+      "title": "Decreto Supremo del 31 De Octubre De 1922 - 1 | D-Lex Bolivia | Portal Libre - Derechoteca",
+      "link": "https://www.derechoteca.com/legal-tech-bolivia-bo-d-lex-norma/decreto-supremo-31-10-1922-1-del-31-octubre-1922",
+      "snippet": "¿Necesitas informarte de Leyes y Decretos de Bolivia cada día? SI. ¿Te gustaría una experiencia de Legal Tech con Inteligencia Artificial - ML/AI?",
+      "position": 5
+    },
+    {
+      "title": "Decreto Supremo del 31 De Octubre De 1922 - 1 - D-Lex Bolivia - Derechoteca",
+      "link": "https://www.derechoteca.com/gacetabolivia/decreto-supremo-31-10-1922-1-del-31-octubre-1922/",
+      "snippet": "¿Necesitas informarte de Leyes y Decretos de Bolivia cada día? SI. ¿Te gustaría una experiencia de Legal Tech con Inteligencia Artificial - ML/ ...",
+      "date": "15 nov 2021",
+      "position": 6
+    },
+    {
+      "title": "Presentación:Primer diagnóstico Ciberdelincuencia en Bolivia - Fundación Construir",
+      "link": "https://www.fundacionconstruir.org/contenido/ciberdelincuenciabolivia/",
+      "snippet": "Becario en el Simposio de ciberseguridad de la OEA. Miembro de LACRALO-ICANN, Instituto de derecho e inteligencia artificial, Brasil y asociado ...",
+      "date": "18 feb 2021",
+      "position": 7
+    },
+    {
+      "title": "La UPB recibe un premio de Google para enseñar Inteligencia Artificial a jóvenes Bolivianos - Agencia de Noticias Fides",
+      "link": "https://www.noticiasfides.com/and/la-upb-recibe-un-premio-de-google-para-ensenar-inteligencia-artificial-a-jovenes-bolivianos-414918",
+      "snippet": "-. La Universidad Privada Boliviana (UPB) es galardonada con el premio Faculty Award de Google AI y TensorFlow. Este galardón anual dirigido a ...",
+      "date": "22 abr 2022",
+      "position": 8
+    },
+    {
+      "title": "Proponen inteligencia artificial para la lucha contra la corrupción en ...",
+      "link": "https://3dk.cl/2020/05/26/proponen-inteligencia-artificial-para-la-lucha-contra-la-corrupcion-en-el-pais/",
+      "snippet": "Bolivia: Observatorio ChileCompra es un sistema con Inteligencia Artificial que analiza en minutos, las más de 5000 compras y contrataciones diarias que ...",
+      "position": 9
+    },
+    {
+      "title": "Un nuevo observatorio para investigar sucesos estelares extraordinarios",
+      "link": "https://www.umsa.bo/umsa-noticias/-/asset_publisher/sIpuYXdbB9M8/content/un-nuevo-observatorio-para-investigar-sucesos-estelares-extraordinarios/20142",
+      "snippet": "El Planetario Max Schreier y la UMSA iniciarán investigaciones nunca antes realizadas en el ámbito académico en Bolivia.",
+      "date": "3 jun 2019",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "fAIr LAC Jalisco"
+    },
+    {
+      "query": "Conceptos fundamentales y uso responsable de la inteligencia artificial en el sector público"
+    }
+  ]
+}

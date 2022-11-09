@@ -1,0 +1,79 @@
+{
+  "searchParameters": {
+    "q": "Paraguay Observatorio Inteligencia Artificial",
+    "gl": "py",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M1uUyEBf0VdVxjpJ2ZI0JZVOsfBfTR1zNNt8FEqZkIkYrRrr1M45nAkO5g&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio Inteligencia Latinoamérica (Paraguay) - CEEDIA",
+      "link": "https://ceedia.org/observatorio-inteligencia-artificial-latinoamerica-paraguay/",
+      "snippet": "Centro de Estudios Estratégicos de Derecho de la Inteligencia Artificial. Inicio · Sobre Nosotros; Jurisprudencia Internacional IA y Mundo Digital.",
+      "position": 1
+    },
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 2
+    },
+    {
+      "title": "Inteligencia Artificial - Facultad Politécnica - Universidad Nacional de Asunción",
+      "link": "https://www.pol.una.py/diplomados-mitic/inteligencia-artificial/",
+      "snippet": "Campus, San Lorenzo – Paraguay. Teléfono (+595-21) 588 7000 – C.C. 2111. Políticas de Privacidad; Cookies; Feedback; Mapa del Sitio.",
+      "position": 3
+    },
+    {
+      "title": "Noticias :: observatorio tics :: Ministerio de Tecnologías de la Información y Comunicación - MITIC",
+      "link": "https://www.mitic.gov.py/index.php/noticias/tag/observatorio%20tics?ccm_paging_p_b2537=17&ccm_order_by_b2537=cv.cvDatePublic&ccm_order_by_direction_b2537=desc&ccm_paging_p_b22532=19&ccm_order_by_b22532=cv.cvDatePublic&ccm_order_by_direction_b22532=desc&ccm_paging_p_b29936=1&ccm_order_by_b29936=cv.cvDatePublic&ccm_order_by_direction_b29936=desc&ccm_paging_p_b30336=27&ccm_order_by_b30336=cv.cvDatePublic&ccm_order_by_direction_b30336=desc",
+      "snippet": "Paraguay participará en Congreso que busca la transformación digital de ... Este año el Innovando Hackathon estará enfocado en la Inteligencia Artificial.",
+      "position": 4
+    },
+    {
+      "title": "Noticias :: observatorio tics :: Ministerio de Tecnologías de la Información y Comunicación - MITIC",
+      "link": "https://www.mitic.gov.py/index.php/noticias/tag/observatorio%20tics?ccm_paging_p_b2537=6&ccm_order_by_b2537=cv.cvDatePublic&ccm_order_by_direction_b2537=desc&ccm_paging_p_b22532=37&ccm_order_by_b22532=cv.cvDatePublic&ccm_order_by_direction_b22532=desc&ccm_paging_p_b30336=27&ccm_order_by_b30336=cv.cvDatePublic&ccm_order_by_direction_b30336=desc",
+      "snippet": "Este año el Innovando Hackathon estará enfocado en la Inteligencia Artificial ... Paraguay participa en Congreso Mundial de Agencias de Noticias y los ...",
+      "position": 5
+    },
+    {
+      "title": "Inteligencia artificial: una oportunidad económica para Paraguay - Ciencia del Sur",
+      "link": "https://cienciasdelsur.com/2022/07/28/inteligencia-artificial-en-paraguay-oportunidad-economica/",
+      "snippet": "En Paraguay ya existen empresas financieras y de telecomunicaciones ... Cuando escuchamos el término inteligencia artificial (IA) podríamos ...",
+      "date": "28 jul 2022",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 6
+    },
+    {
+      "title": "CUANDO LA INTELIGENCIA ARTIFICIAL... - Empleos.Net Paraguay - Facebook",
+      "link": "https://facebook.com/permalink.php?story_fbid=1700612693470181&id=1096502580547865",
+      "snippet": "Empleados digitales, cuando la IA llega a los departamentos de Recursos Humanos - ORH | Observatorio de Recursos Humanos. La inteligencia artificial es ...",
+      "position": 7
+    },
+    {
+      "title": "IMPACTO DE LA IA EN LOS RECURSOS... - Empleos.Net Paraguay | Facebook",
+      "link": "https://facebook.com/permalink.php?id=1096502580547865&story_fbid=1620960564768728",
+      "snippet": "OBSERVATORIORH.COM. El impacto de la Inteligencia Artificial en los Recursos Humanos en la era del Covid - ORH | Observatorio de Recursos Humanos.",
+      "position": 8
+    },
+    {
+      "title": "Inteligencia artificial – Observatorio Iberoamericano de Protección ...",
+      "link": "https://oiprodat.com/tag/inteligencia-artificial/",
+      "snippet": "Por Romina Florencia Cabrera La justicia en línea es el fruto de las nuevas posibilidades que ofrecen las Tecnologías de la Información y la Comunicación,.",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "fAIr LAC Jalisco"
+    }
+  ]
+}

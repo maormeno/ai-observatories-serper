@@ -1,0 +1,79 @@
+{
+  "searchParameters": {
+    "q": "Haiti Algoritmo Algoritmos",
+    "gl": "ht",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20h6MxrZCr94BMm0GQu1zU3Q-SHuveOQaQCOf0H_xNPbmS9wgVEA8LVK67Dg&s"
+  },
+  "organic": [
+    {
+      "title": "Cómo funcionan y cómo pueden afectarte los algoritmos que seleccionan candidatos de trabajo - BBC News Mundo",
+      "link": "https://www.bbc.com/mundo/noticias-36470464",
+      "snippet": "La próxima vez que solicites un trabajo, podría ser que quien decida tu suerte sea un algoritmo computacional.",
+      "date": "7 jun 2016",
+      "position": 1
+    },
+    {
+      "title": "Los algoritmos que controlan nuestro mundo - BBC",
+      "link": "https://www.bbc.com/mundo/noticias/2011/08/110823_tecnologia_algoritmos_mundo_nc",
+      "snippet": "Su arma: el algoritmo. Detrás de todo ingenioso servicio web hay un aun más ingenioso código web: desde mayoristas en línea (que calculan ...",
+      "date": "23 ago 2011",
+      "position": 2
+    },
+    {
+      "title": "Algoritmos, modo de empleo - Revista Acción",
+      "link": "https://accion.coop/informe-especial/algoritmos-modo-de-empleo/",
+      "snippet": "Es que, en concreto, los algoritmos son instrucciones que se accionan cuando se dan ciertas condiciones. Para Wikipedia, un algoritmo «es un ...",
+      "date": "7 sept 2021",
+      "position": 3
+    },
+    {
+      "title": "Algoritmos Urgentes | Un camionero conduce desde Puerto Príncipe (Haití) hasta Nagua siguiendo una ruta dada y llevando un camino que le permite, con el tanque de gasolin...",
+      "link": "https://facebook.com/groups/algoritmosurgentes/permalink/922992397861988/",
+      "snippet": "Diseñar un algoritmo para determinar en qué gasolineras tiene que parar y demostrar que el algoritmo encuentra siempre la solución óptima.",
+      "position": 4
+    },
+    {
+      "title": "Guía para comprender el algoritmo de cada red social - Entercomm",
+      "link": "https://entercommla.com/guia-para-comprender-el-algoritmo-de-cada-red-social/",
+      "snippet": "En este artículo te contaremos cuáles son los aspectos más importantes para los algoritmos de las redes sociales. Si bien hoy en día existe una ...",
+      "date": "13 dic 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsP-dD7aA_YD51GmqEnhJ0Rt1QPMwNgSyMuNh2kliyZJYU3kaccCBcYaY&s",
+      "position": 5
+    },
+    {
+      "title": "Algoritmo de optimización automática para la planificación de la demanda y la optimización del inventario | Adexa",
+      "link": "https://www.adexa.com/es/algoritmos-de-optimizaci%C3%B3n-autom%C3%A1tica-para-la-planificaci%C3%B3n-de-la-demanda/",
+      "snippet": "Más importante aún, ahora estamos en un punto en el que podemos mejorar el comportamiento de los algoritmos de pronóstico haciendo ...",
+      "date": "8 jun 2022",
+      "position": 6
+    },
+    {
+      "title": "Y si el algoritmo se equivoca, ¿a quién reclamo? - SOCIAL DIGITAL",
+      "link": "https://socialdigital.iadb.org/es/node/10899",
+      "snippet": "En Estados Unidos, por ejemplo, los algoritmos deben ser regulados por la Administración de Drogas y Alimentos, a menos que el médico pueda ...",
+      "date": "6 ene 2020",
+      "position": 7
+    },
+    {
+      "title": "Mi algoritmo es mejor que el tuyo - SOCIAL DIGITAL",
+      "link": "https://socialdigital.iadb.org/es/node/10849",
+      "snippet": "Alrededor de 106 compañías aplican algoritmos de aprendizaje automático en las áreas de salud mental, asistencia virtual, monitoreo de estilos ...",
+      "date": "19 nov 2018",
+      "position": 8
+    },
+    {
+      "title": "Algoritmo de recomendación: cómo usar y vender más online - SmartHint",
+      "link": "https://www.smarthint.co/es/algoritmo-de-recomendaci%C3%B3n/",
+      "snippet": "Los algoritmos de recomendación son la base del software que sugiere elementos a los usuarios en Internet. Cuando visitas una tienda física, es ...",
+      "date": "27 jul 2022",
+      "position": 9
+    }
+  ]
+}

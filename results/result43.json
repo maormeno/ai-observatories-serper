@@ -1,0 +1,109 @@
+{
+  "searchParameters": {
+    "q": "Costa Rica Observatorio Inteligencia Artificial",
+    "gl": "cr",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL68z0i8QP5lXNPBwrBaJidcHWdHdM52PUU_iGzls7BnCzJsn2xLxfJLY-A&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 1
+    },
+    {
+      "title": "Home | fAIrLAC",
+      "link": "https://fairlac.iadb.org/",
+      "snippet": "El observatorio es un esfuerzo por mapear las iniciativas que buscan cambiar la forma ... fAIr LAC ha establecido cuatro hubs: Jalisco (México), Costa Rica, ...",
+      "position": 2
+    },
+    {
+      "title": "Académicos plantan cara a los retos de la inteligencia artificial - Universidad de Costa Rica",
+      "link": "https://www.ucr.ac.cr/noticias/2022/10/25/academicos-plantan-cara-a-los-retos-de-la-inteligencia-artificial.html",
+      "snippet": "El VI Congreso Internacional de Bioética y Democracia frente a los retos de la inteligencia artificial se realiza por primera vez en Costa ...",
+      "date": "25 oct 2022",
+      "position": 3
+    },
+    {
+      "title": "Costa Rica avanza en el uso de inteligencia artificial para el manejo forestal sostenible",
+      "link": "https://youtube.com/watch?v=KxPJV1MeWwA",
+      "snippet": "Iniciativa surge de una alianza entre el gobierno de Estonia ...",
+      "date": "13 abr 2021",
+      "attributes": {
+        "Duración": "2:03",
+        "Publicado": "13 abr 2021"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/KxPJV1MeWwA/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3muS02uq1a4oy2buCPLS7fdWKQCAw",
+      "position": 4
+    },
+    {
+      "title": "Nueva edición del Observatorio de Inteligencia Artificial de América Latina y el Caribe",
+      "link": "https://www.comunicarseweb.com/noticia/nueva-edicion-del-observatorio-de-inteligencia-artificial-de-america-latina-y-el-caribe",
+      "snippet": "El Banco Interamericano de Desarrollo (BID) junto con la Oficina Regional de Ciencias de la UNESCO para América Latina y el Caribe, ...",
+      "date": "9 sept 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1E-9vb3EBUXzhTqv6sttKLUuRruV8wAvSyXCjxTC7hav77bvIWZH5hI&s",
+      "position": 5
+    },
+    {
+      "title": "Costa Rica promoverá el uso responsable de la inteligencia artificial con apoyo del BID",
+      "link": "https://www.presidencia.go.cr/comunicados/2021/09/costa-rica-promovera-el-uso-responsable-de-la-inteligencia-artificial-con-apoyo-del-bid/",
+      "snippet": "Hoy se presentó fAIr LAC Costa Rica, iniciativa que tiene como objetivo promover, educar y regular el desarrollo y uso ético de la inteligencia ...",
+      "date": "29 sept 2021",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 6
+    },
+    {
+      "title": "El desarrollo de la ética de la Inteligencia Artificial (IA) a nivel de ciudades y municipios de Latinoamérica | CAF",
+      "link": "https://www.caf.com/es/actualidad/eventos/2022/11/el-desarrollo-de-la-etica-de-la-inteligencia-artificial-ia-a-nivel-de-ciudades-y-municipios-de-latinoamerica/",
+      "snippet": "Hora: 08:00 AM Costa Rica, El Salvador; 09:00 AM Colombia, Ecuador, México, Panamá, Perú ...",
+      "position": 7
+    },
+    {
+      "title": "Aumenta contratación de ingenieros industriales por la inteligencia artificial y robotización",
+      "link": "https://ufidelitas.ac.cr/blog/ingenieria-industrial/aumenta-contratacion-de-ingenieros-industriales-por-la-inteligencia-artificial-y-robotizacion/",
+      "snippet": "La Ingeniería Industrial es la número 1 en el sector de manufactura y está entre las cuatro carreras con mayor demanda laboral en Costa Rica, ...",
+      "position": 8
+    },
+    {
+      "title": "Los efectos de la Digitalización, Inteligencia Artificial, Big Data e Industria 4.0 en el trabajo de la PYMES en LATINOAMERICA - Observatorio - América Latina Asia Pacífico",
+      "link": "https://www.observatorioasiapacifico.org/es/noticias-1/item/los-efectos-de-la-digitalizacion-inteligencia-artificial-big-data-e-industria-4-0-en-el-trabajo-de-la-pymes-en-latinoamerica.html",
+      "snippet": "Los efectos de la Digitalización, Inteligencia Artificial, Big Data e ... social y cultural de la región, particularmente en Argentina, Costa Rica, Ecuador, ...",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Inteligencia artificial en Latinoamérica"
+    },
+    {
+      "query": "Inteligencia Artificial Gobierno"
+    },
+    {
+      "query": "Proyectos del BID en Costa Rica"
+    },
+    {
+      "query": "Género e inteligencia artificial"
+    },
+    {
+      "query": "Auditoría algorítmica"
+    },
+    {
+      "query": "Inteligencia Artificial en Colombia"
+    },
+    {
+      "query": "Adopción ética y responsable de la inteligencia artificial en América Latina y el Caribe"
+    },
+    {
+      "query": "Ejemplos de ayuda del BID"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "searchParameters": {
+    "q": "Cuba Algoritmo Decisiones Automatizadas",
+    "gl": "cu",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "[PDF] CONTRIBUCIONES AL APRENDIZAJE AUTOMATIZADO A TRAVÉS DE LA TEORÍA DE LOS CONJUNTOS APROXIMADOS EXTENDIDA - Anales de la Academia de Ciencias de Cuba",
+      "link": "http://revistaccuba.sld.cu/index.php/revacc/article/download/153/153",
+      "snippet": "Rafael Bello Pérez (18%). Creación de métodos y algoritmos: Nueva medida denominada calidad de la similaridad de un sistema de decisión, nuevo método para ...",
+      "position": 1
+    },
+    {
+      "title": "Selección de un algoritmo para la clasificación de Nódulos Pulmonares Solitarios | Rivero Castro | Revista Cubana de Informática Médica",
+      "link": "http://revinformatica.sld.cu/index.php/rcim/article/view/146",
+      "snippet": "Palabras Clave: algoritmo de clasificación, aprendizaje automatizado, nódulos pulmonares solitarios, precisión. Licencia de Creative Commons",
+      "position": 2
+    },
+    {
+      "title": "Sistema para la generación de reglas de clasificación utilizando algoritmo de programación genético | Serie Científica de la Universidad de las Ciencias Informáticas",
+      "link": "https://publicaciones.uci.cu/index.php/serie/article/view/112?articlesBySameAuthorPage=2",
+      "snippet": "La extracción de conocimiento representa la base sobre la toma de decisiones en diversos procesos, siendo la minería de datos un área del conocimiento ...",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Diseño de un algoritmo basado en GenRul5 para el aprendizaje automatizado de reglas difusas - Universidad de las Ciencias Informáticas",
+      "link": "https://repositorio.uci.cu/bitstream/ident/8985/2/TD_07353_14.pdf",
+      "snippet": "investigación es diseñar un algoritmo para el aprendizaje automatizado de reglas difusas, que permita mejorar la capacidad de ayuda a la toma de decisiones ...",
+      "position": 4
+    },
+    {
+      "title": "[PDF] REPUBLICA DE CUBA UNIVERSIDAD DE HOLGUÍN FACULTAD DE INGENIERIA CENTRO DE ESTUDIOS CAD/CAM OPTIMIZACIÓN MULTIOBJETIVO DE LOS",
+      "link": "https://repositorio.uho.edu.cu/xmlui/bitstream/handle/uho/408/Tesis%20Jorge%20EL%20RUSO.pdf?sequence=1&isAllowed=y",
+      "snippet": "3.4 Procedimiento inicial del algoritmo ... Variables de coordinación y límites de las variables de decisión para ... como automatizadas CNC [14].",
+      "position": 5
+    },
+    {
+      "title": "Inteligencia artificial al servicio de la especulación financiera: Algoritmos del crimen organizado | Cubadebate",
+      "link": "http://www.cubadebate.cu/especiales/2019/08/26/inteligencia-artificial-al-servicio-de-la-especulacion-financiera-algoritmos-del-crimen-organizado/",
+      "snippet": "Es más, ni siquiera son mediadas por operadores sino por cálculos automatizados. Los tan mentados algoritmos son hoy la herramienta más ...",
+      "date": "26 ago 2019",
+      "position": 6
+    },
+    {
+      "title": "Jose Ruiz Shulcloper (jshulcloper) - Asociación Cubana de Reconocimiento de Patrones - ACRP",
+      "link": "http://www.cenatav.co.cu/index.php/profile/profile/userprofile/jshulcloper/",
+      "snippet": "“Desarrollo de algoritmos para la estructuración dinámica de información y su ... “Sistema automatizado para el análisis de datos y la estructuración ...",
+      "position": 7
+    },
+    {
+      "title": "SECURE-MR-FMEA código cubano para análisis integral de riesgo de prácticas con radiaciones ionizantes - Nucleus - Cubaenergia",
+      "link": "http://nucleus.cubaenergia.cu/index.php/nucleus/article/view/727/944",
+      "snippet": "SECURE-MR-FMEA cuban code for comprehensive risk analysis of practices with ... de los algoritmos de conversión se obtienen, de manera automatizada, ...",
+      "position": 8
+    },
+    {
+      "title": "La dictadura del algoritmo - YouTube",
+      "link": "https://youtube.com/watch?v=TVornWcWTAg",
+      "snippet": "La Dictadura del Algoritmo (Dir. Javier Gómez Sánchez ...",
+      "date": "7 jun 2021",
+      "attributes": {
+        "Duración": "52:04",
+        "Publicado": "7 jun 2021"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/TVornWcWTAg/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3m9_vSZV5Fu7k0IegJ5Bap0ncweEQ",
+      "position": 9
+    }
+  ]
+}

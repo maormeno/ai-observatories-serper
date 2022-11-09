@@ -1,0 +1,80 @@
+{
+  "searchParameters": {
+    "q": "Venezuela Algoritmo Decisiones Automatizadas",
+    "gl": "ve",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos de “Análisis del Discurso” aplicados a la Planificación Participativa desde la mirada de las Tecnologías Libres . | CENDITEL",
+      "link": "https://www.cenditel.gob.ve/blog/5503/",
+      "snippet": "Congreso de Ciencia y Tecnología en Venezuela (Cytven) 2015, se expusieron ... es pertinente la búsqueda de soluciones automatizadas para ...",
+      "date": "17 nov 2015",
+      "position": 1
+    },
+    {
+      "title": "[PDF] RESEÑA DE LIBRO: Huergo Lora A. -Dir.- Y Díaz González, G.M. -Coord.- (2020) La regulación de los algoritmos. Thomson Reuter - Revistas Electrónicas URBE",
+      "link": "http://ojs.urbe.edu/index.php/telos/article/download/3733/5314",
+      "snippet": "Universidad Privada Dr. Rafael Belloso Chacín, Venezuela ... decisiones suelen, como regla general, ser establecidas por algoritmos.",
+      "position": 2
+    },
+    {
+      "title": "Vista de Inteligencia artificial: Problemas y reflexiones para el Derecho Administrativo",
+      "link": "https://cidep.online/ojs/index.php/redav/article/view/161/redav-20-01-web",
+      "snippet": "Sin embargo, si nos encontramos frente a una IA que esencialmente toma decisiones a través de algoritmos que son en sí mismo opacos (no ...",
+      "date": "4 nov 2021",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Universidad Central de Venezuela Facultad de Ciencias Escuela de Computación Centro de Computación Distribuida y Paralela Herr - Saber UCV",
+      "link": "http://saber.ucv.ve/bitstream/10872/14747/1/Tesis.pdf",
+      "snippet": "tener un comportamiento automatizado; existen usuarios humanos que pueden ... Métodos, técnicas y algoritmos de la minería de datos ................. 28.",
+      "position": 4
+    },
+    {
+      "title": "Los superjuguetes duran todo el verano - ISDI",
+      "link": "https://www.isdi.education/es/blog/relaciones-laborales-algoritmos-inteligencia-artificial",
+      "snippet": "Así pues, considerando la normativa laboral y la de protección de datos, el uso de los algoritmos y de la I.A, las decisiones automatizadas ...",
+      "date": "5 may 2022",
+      "position": 5
+    },
+    {
+      "title": "Decisiones automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos. - La Administración al Día - INAP",
+      "link": "https://laadministracionaldia.inap.es/noticia.asp?id=1509629",
+      "snippet": "Decisión basada únicamente en un tratamiento automatizado ... Consecuencia de ello, aunque la decisión que tome el algoritmo sea utilizada ...",
+      "date": "30 may 2019",
+      "attributes": {
+        "Falta(n)": "Venezuela | Debe incluir lo siguiente:Venezuela"
+      },
+      "position": 6
+    },
+    {
+      "title": "Cuando el algoritmo discrimina - Esglobal",
+      "link": "https://www.esglobal.org/cuando-el-algoritmo-discrimina/",
+      "snippet": "En Venezuela, se empezó a implementar en 2012 hasta hoy un sistema ... En primer lugar, la toma de decisiones automatizada (o ADM) no debe ...",
+      "date": "28 abr 2021",
+      "position": 7
+    },
+    {
+      "title": "#Doctrina Un Algoritmo ¿te puede despedir en Argentina? - AL DÍA | ARGENTINA",
+      "link": "https://aldiaargentina.microjuris.com/2022/09/22/doctrina-un-algoritmo-te-puede-despedir-en-argentina/",
+      "snippet": "... donde nos preguntamos si un algoritmo te puede despedir y hasta qué nivel de decisiones automatizadas puede utilizar la inteligencia ...",
+      "date": "22 sept 2022",
+      "position": 8
+    },
+    {
+      "title": "¿Cuántos habitantes tiene Venezuela?: Una estimación a partir de imágenes satelitales y luces nocturnas. - Anova Policy Research",
+      "link": "https://thinkanova.org/2022/06/20/poblacion-satelital/",
+      "snippet": "Esta estimación se hizo mediante la utilización de algoritmos de aprendizaje automatizado (machine learning). En la etapa 2, ...",
+      "date": "20 jun 2022",
+      "position": 9
+    }
+  ]
+}

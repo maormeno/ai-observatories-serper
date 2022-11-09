@@ -1,0 +1,105 @@
+{
+  "searchParameters": {
+    "q": "Ecuador Observatorio Decisiones Automatizadas",
+    "gl": "ec",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQnHt77DTHlp0Ln8Waw_k60IKXgkN1RuP7KXP1rEDMV7lkHMvkoNOjrgTpQ&s"
+  },
+  "organic": [
+    {
+      "title": "Decisiones judiciales asistidas - Observatorio Ciberderechos y Tecnosociedad",
+      "link": "https://www.uasb.edu.ec/ciberderechos/2021/06/15/decisiones-judiciales-asistidas/",
+      "snippet": "Los jueces como funcionarios y representantes encargados de impartir justicia, están dotados de conocimiento en Derecho que les permite tomar ...",
+      "date": "15 jun 2021",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 1
+    },
+    {
+      "title": "Se constituye el Observatorio para dar seguimiento a la implementación de la Ley de Protección de datos personales en Ecuador - Fundamedios",
+      "link": "https://www.fundamedios.org.ec/se-constituye-el-observatorio-para-dar-seguimiento-a-la-implementacion-de-la-ley-de-proteccion-de-datos-personales-en-ecuador/",
+      "snippet": "La mañana del pasado jueves, 29 de julio, académicos, representantes de organizaciones internacionales y de la sociedad civil ecuatoriana ...",
+      "date": "2 ago 2021",
+      "attributes": {
+        "Falta(n)": "Decisiones Automatizadas"
+      },
+      "position": 2
+    },
+    {
+      "title": "Estadísticas - Observatorio Metropolitano de Seguridad Ciudadana - Municipio de Quito",
+      "link": "http://www.omsc.quito.gob.ec/index.php/estadisticas",
+      "snippet": "Sitio oficial del Observatorio Metropolitano de Seguridad Ciudadana del ... que pudieran surgir para la toma de decisiones, en el menor tiempo posible, ...",
+      "position": 3
+    },
+    {
+      "title": "[PDF] toma de decisiones de marketing: estudios de casos ecuatorianos - UIDE",
+      "link": "https://www.uide.edu.ec/wp-content/uploads/2019/09/TOMADEDECISIONESDEMARKETING2.pdf",
+      "snippet": "Ecuador”, Revista Observatorio de la Economía Latinoamericana, Ecuador,. (Mayo 2015). Documento elaborado por la Oficina Comercial de ProChile en Ecuador en ...",
+      "position": 4
+    },
+    {
+      "title": "BOLETINES DE PRENSA – LEY DE PROTECCIÓN DE DATOS PERSONALES - Dirección Nacional de Registros Públicos",
+      "link": "https://www.registrospublicos.gob.ec/boletines-de-prensa-ley-de-proteccion-de-datos-personales/",
+      "snippet": "Quito, Ecuador.- Derecho a la portabilidad, a no ser objeto de una decisión basada únicamente en valoraciones automatizadas, consentimiento relativo a… ver ...",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Observatorio Económico - Facultad de Contabilidad y Auditoria",
+      "link": "https://fca.uta.edu.ec/v3.2/servicios/observatorio/boletines/b16.pdf",
+      "snippet": "Boletín de Coyuntura, N º 16; marzo 2018; ISSN 2528-7931; UTA – Ecuador; ... investigación científica y la toma de decisiones oportunas y adecuadas,.",
+      "position": 6
+    },
+    {
+      "title": "[DOC] word - ITSUP",
+      "link": "https://revistas.itsup.edu.ec/index.php/sinapsis/article/view/250/361",
+      "snippet": "Posicionamiento del observatorio turístico Bahía, para la gestión del destino ... monitoreando la oferta y demanda que permita la toma de decisiones y el ...",
+      "position": 7
+    },
+    {
+      "title": "Reportes digitales de UTPL permiten en tiempo real analizar los sismos | Blog",
+      "link": "https://noticias.utpl.edu.ec/reportes-digitales-de-utpl-permiten-en-tiempo-real-analizar-los-sismos",
+      "snippet": "Si te gustaría ser parte de estudios de este tipo o aportar al Observatorio Sísmico del Ecuador, ¡inscríbete hoy en nuestras carreras de ...",
+      "date": "16 mar 2018",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Observatorios de Políticas Públicas en las Américas",
+      "link": "https://www.oas.org/es/sap/dgpe/pub/observatoriosdepoliticaspublicas_s.pdf",
+      "snippet": "Ecuador. Sistema Nacional de Información – SNI. Observatorio de Seguridad ... En efecto, y considerando que la toma de decisiones en la gestión pública ...",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Observatorio Social del Ecuador"
+    },
+    {
+      "query": "Org Ecuador"
+    },
+    {
+      "query": "DMQ"
+    },
+    {
+      "query": "Observatorio Nacional"
+    },
+    {
+      "query": "Encuesta de victimización y percepción de inseguridad 2020 Ecuador"
+    },
+    {
+      "query": "Estadísticas de delitos en Ecuador"
+    },
+    {
+      "query": "Observatorio Seguridad"
+    },
+    {
+      "query": "Observatorio de la Ciudad"
+    }
+  ]
+}

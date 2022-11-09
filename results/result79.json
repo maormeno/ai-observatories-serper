@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Honduras Observatorio Inteligencia Artificial",
+    "gl": "hn",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysVmAub5MP212hYZJUrSBp8cdjFZOmNNSWJh4Z48Mm3W9B28lxHY0rQjYrA&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 1
+    },
+    {
+      "title": "UNITEC e investigadores internacionales inauguran el primer Observatorio de Covid-19 y dengue en Honduras - RadioHouse",
+      "link": "https://www.radiohouse.hn/2020/06/23/unitec-e-investigadores-internacionales-inauguran-el-primer-observatorio-de-covid-19-y-dengue-en-honduras/",
+      "snippet": "La plataforma digital fue donada a Honduras por los analistas de datos masivos Zectr y especialistas en inteligencia artificial y ...",
+      "date": "23 jun 2020",
+      "position": 2
+    },
+    {
+      "title": "Emergencia COVID-19 - IHCIETI- Instituto Hondureño de Ciencia, Tecnología e Innovación",
+      "link": "https://senacit.gob.hn/static/convocatoria-emergenciacovid19.html",
+      "snippet": "Como parte de la respuesta del Gobierno de la República de Honduras ante la emergencia del COVID-19, la SENACIT, a través de IHCIETI hace una llamado para ...",
+      "position": 3
+    },
+    {
+      "title": "Se lanza en Honduras el Observatorio Regional de Educación Inclusiva (OREI) - Unesco",
+      "link": "https://www.unesco.org/es/articles/se-lanza-en-honduras-el-observatorio-regional-de-educacion-inclusiva-orei",
+      "snippet": "Noticia. Se lanza en Honduras el Observatorio Regional de Educación Inclusiva (OREI). 4 de Mayo de 2015. Última actualización: 21 de Abril de 2022 ...",
+      "position": 4
+    },
+    {
+      "title": "Honduras ratifica la Convención relativa a la lucha contra las discriminaciones en la esfera de la enseñanza | UNESCO",
+      "link": "https://www.unesco.org/es/articles/honduras-ratifica-la-convencion-relativa-la-lucha-contra-las-discriminaciones-en-la-esfera-de-la",
+      "snippet": "En septiembre de 2013, Honduras se convirtió en el país número 100 en acceder a la condición de Estado parte de la Convención relativa a la ...",
+      "date": "21 abr 2022",
+      "position": 5
+    },
+    {
+      "title": "[PDF] No. 20_ 2021-0831 Boletín de tendencias - senacit",
+      "link": "https://www.ihcieti.gob.hn/media/2021/09/No.20_-2021-0831BoletinEdicionEspecial_IA-IHCIETI-07092021.pdf",
+      "snippet": "OBSERVATORIO PROSPECTIVO | IHCIETI. EDICIÓN ESPECIAL | NO. 20 | 31 DE AGOSTO 2021. TENDENCIAS EN. INTELIGENCIA. ARTIFICIAL ...",
+      "date": "7 sept 2021",
+      "attributes": {
+        "Falta(n)": "Honduras | Debe incluir lo siguiente:Honduras"
+      },
+      "position": 6
+    },
+    {
+      "title": "Vista de Modelo de Observatorio TIC para Honduras | Prisma Tecnológico - Revistas UTP",
+      "link": "https://revistas.utp.ac.pa/index.php/prisma/article/view/2847/4144",
+      "snippet": "La implementación de un observatorio TIC para Honduras coadyuvará a alcanzar lo antes ... telemedicina, inteligencia artificial (chatbot), biotecnología, ...",
+      "position": 7
+    },
+    {
+      "title": "Radio W105 - *UNITEC e investigadores internacionales ponen a disposición el primer ... - פייסבוק",
+      "link": "https://facebook.com/RadioW105/photos/a.10151579477220496/10157461300825496/?type=3&locale=he_IL&_rdr",
+      "snippet": "... el primer Observatorio de COVID-19 y DENGUE en Honduras* Tegucigalpa, M.D.C, ... y especialistas en inteligencia artificial y aprendizaje de máquinas, ...",
+      "position": 8
+    },
+    {
+      "title": "El desarrollo de la ética de la Inteligencia Artificial (IA) a nivel de ciudades y municipios de Latinoamérica | CAF",
+      "link": "https://www.caf.com/es/actualidad/eventos/2022/11/el-desarrollo-de-la-etica-de-la-inteligencia-artificial-ia-a-nivel-de-ciudades-y-municipios-de-latinoamerica/",
+      "snippet": "A esto se une la apuesta ambiciosa que viene planteando el Municipio frente a la creación del primer Observatorio Municipal para el uso responsable de IA de ...",
+      "position": 9
+    }
+  ]
+}

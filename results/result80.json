@@ -1,0 +1,75 @@
+{
+  "searchParameters": {
+    "q": "Honduras Observatorio Algoritmos",
+    "gl": "hn",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLaVrspmnydIa4arVAXbFe_fW7EMaQmBYIiuHKxouTA1Ci_CVGx5M4wCufQ&s"
+  },
+  "organic": [
+    {
+      "title": "Honduras - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/honduras/",
+      "snippet": "Por Daniel A. López Carballo A principios de 2014 comenzaba la socialización de la propuesta de texto del «Anteproyecto de Ley de Protección de Datos ...",
+      "position": 1
+    },
+    {
+      "title": "Colaboraciones desde Honduras - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/colaboradores/colaboraciones-desde-centroamerica/colaboraciones-desde-honduras/",
+      "snippet": "Colaboraciones desde Honduras ... 2019; Libertad de expresión, protección de datos, algoritmos y biometría, ¿una nueva retórica? 7 enero, 2019.",
+      "position": 2
+    },
+    {
+      "title": "[PDF] Boletín-No.-2.-18sept2020.-1-Observatorio.pdf - cloudfront.net",
+      "link": "https://d1mrtjpezxphht.cloudfront.net/wp-content/uploads/2020/09/Bolet%C3%ADn-No.-2.-18sept2020.-1-Observatorio.pdf",
+      "snippet": "El Observatorio COVID-19 y Dengue en Honduras se lanzó el 23 de junio de 2020 como ... aprendizaje automático y otros algoritmos. TABLERO DE.",
+      "date": "18 sept 2020",
+      "position": 3
+    },
+    {
+      "title": "Emergencia COVID-19 - IHCIETI- Instituto Hondureño de Ciencia, Tecnología e Innovación",
+      "link": "https://senacit.gob.hn/static/convocatoria-emergenciacovid19.html",
+      "snippet": "Como parte de la respuesta del Gobierno de la República de Honduras ante la emergencia del COVID-19, la SENACIT, a través de IHCIETI hace una llamado para ...",
+      "position": 4
+    },
+    {
+      "title": "Primeros avances del Observatorio de COVID-19 y Dengue en Honduras - Blog UNITEC",
+      "link": "https://blog.unitec.edu/2020/07/27/primeros-avances-del-observatorio-de-covid-19-y-dengue-en-honduras/",
+      "snippet": "El Observatorio COVID-19 y Dengue en Honduras se lanzó el 23 de junio ... utilizando el llamado aprendizaje automático y otros algoritmos.",
+      "date": "27 jul 2020",
+      "position": 5
+    },
+    {
+      "title": "Avances del primer observatorio de COVID-19 y Dengue en Honduras",
+      "link": "https://www.eldiariodehonduras.hn/index.php/entertainment/1495-avances-del-primer-observatorio-de-covid-19-y-dengue-en-honduras",
+      "snippet": "Avances del primer observatorio de COVID-19 y Dengue en Honduras ... real utilizando el llamado aprendizaje automático y otros algoritmos.",
+      "date": "4 ago 2020",
+      "position": 6
+    },
+    {
+      "title": "Qué son los “deepfakes”, los algoritmos que le harán creer cualquier cosa - LaPrensa.hn",
+      "link": "https://www.laprensa.hn/tecnologia/que-son-los-deepfakes-los-algoritmos-que-le-haran-creer-cualquier-cosa-AE4240460",
+      "snippet": "Las imágenes manipuladas se generan con algoritmos que “leen” los rostros ... presidenta y cofundadora del Observatorio del Impacto Ético y ...",
+      "date": "8 dic 2021",
+      "position": 7
+    },
+    {
+      "title": "[PDF] Datos, algoritmos y políticas: la redefinición del mundo digital - Repositorio CEPAL",
+      "link": "https://repositorio.cepal.org/bitstream/handle/11362/43477/7/S1800053_es.pdf",
+      "snippet": "más información, más precisión de los algoritmos predictivos y de aprendizaje), ... (ecosistema de innovación, observatorio de la Internet de las.",
+      "position": 8
+    },
+    {
+      "title": "Qué son los “deepfakes”, los algoritmos que le harán creer cualquier cosa",
+      "link": "https://www.latribuna.hn/2021/12/08/que-son-los-deepfakes-los-algoritmos-que-le-haran-creer-cualquier-cosa/",
+      "snippet": "Las imágenes manipuladas se generan con algoritmos que “leen” los rostros ... presidenta y cofundadora del Observatorio del Impacto Ético y ...",
+      "date": "8 dic 2021",
+      "position": 9
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "searchParameters": {
+    "q": "Panama Observatorio Algoritmos",
+    "gl": "pa",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLaVrspmnydIa4arVAXbFe_fW7EMaQmBYIiuHKxouTA1Ci_CVGx5M4wCufQ&s"
+  },
+  "organic": [
+    {
+      "title": "OPTIC - Observatorio de TIC en Panama - Slideshare",
+      "link": "https://es.slideshare.net/opticpanama/optic-observatorio-de-tic-en-panama",
+      "snippet": "OBSERVATORIO DE TIC EN PANAMÁ Dr. Jayguer Vásquez Torres | Investigador - Docente | UTP ... Proyecto Observatorio Panameño de las TIC - 1er Avance.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2k2ju2XKdrolRnPtnpIkYC13q6X1wUwCKFfSvHG-zzDhvrxXODRHeMQ&s",
+      "position": 1
+    },
+    {
+      "title": "Panamá - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/panama/",
+      "snippet": "Por Lia P. Hernández Pérez Actualmente en América Latina se están discutiendo una serie de iniciativas legislativas para la adecuación y regulación de sus ...",
+      "position": 2
+    },
+    {
+      "title": "Observadores en Panamá [OLD] - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/colaboradores/observadores-en-centroamerica-before-import/observadores-en-panama-before-import/",
+      "snippet": "Observadores en Panamá [OLD] ... BREXIT sin acuerdo 14 marzo, 2019; Libertad de expresión, protección de datos, algoritmos y biometría, ¿una nueva retórica?",
+      "position": 3
+    },
+    {
+      "title": "Portaltic.-Send@, Bosco y Tensor, entre los algoritmos más utilizados por la Administración Pública española - notipanamá",
+      "link": "https://www.notipanama.com.pa/sociedad/noticia-portaltic-send-bosco-tensor-algoritmos-mas-utilizados-administracion-publica-espanola-20220622134911.html",
+      "snippet": "Con motivo del Día de las Naciones Unidas para las Administraciones Públicas, que se celebra el 23 de junio, el Observatorio de Algoritmos ...",
+      "date": "22 jun 2022",
+      "position": 4
+    },
+    {
+      "title": "[PDF] Revisión del Gobierno Digital de Panamá Mejorando la Transformación Digital - AIG",
+      "link": "https://aig.gob.pa/descargas/2020/07/RevisionGobiernoDigital.pdf",
+      "snippet": "Observatorio Panameño de Tecnologías de Informa- ción y Comunicación (OPTIC), el porcentaje de ... decisiones basadas en algoritmos de inteligencia artifi-.",
+      "position": 5
+    },
+    {
+      "title": "[PDF] agenda-digital-2021-aig.pdf",
+      "link": "https://aig.gob.pa/descargas/2019/06/agenda-digital-2021-aig.pdf",
+      "snippet": "Gubernamental a lograr la transformación digital del Estado panameño, ... AGENDA DIGITAL NACIONAL - PANAMÁ 2021 ... 7.2 Observatorio Panameño de las TIC .",
+      "position": 6
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "La automatización de ciertos procesos en la gestión pública a través de algoritmos tiene potencial como herramienta de integridad, ...",
+      "date": "15 ago 2022",
+      "position": 7
+    },
+    {
+      "title": "Algoritmos de aprendizaje avanzado - Blog Tigo Panamá",
+      "link": "https://blog.tigo.com.pa/tigo-business/tecnologia-business/algoritmos-de-aprendizaje-avanzado/",
+      "snippet": "Algoritmos de aprendizaje avanzado ¿qué son? ¿ para qué se utilizan? las respuestas a estas interrogantes las tendrás si sigues leyendo ...",
+      "date": "25 nov 2021",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 8
+    },
+    {
+      "title": "La unión de algoritmos y derechos humanos, imprescindible durante la programación",
+      "link": "https://noticiasncc.com/cartelera/articulos-o-noticias/07/23/la-union-de-algoritmos-y-derechos-humanos-imprescindible-durante-la-programacion/",
+      "snippet": "Rodolfo Guerrero, CEO de Coffee Law S.C., habló sobre “Transversalidad digital: algoritmos y derechos humanos”, en Talent Land.",
+      "date": "23 jul 2022",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Panamá digital"
+    },
+    {
+      "query": "Prodapt Panamá"
+    },
+    {
+      "query": "Gobierno Digital"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "searchParameters": {
+    "q": "Nicaragua Algoritmo Decisiones Automatizadas",
+    "gl": "ni",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "[PDF] Las garantías frente a las decisiones automatizadas - Libreria Bosch",
+      "link": "https://libreriabosch.com/media/public/doc/Roig_Garantias_Resumen_Indice_Intro_Coleccion.pdf",
+      "snippet": "3.5. El control de los algoritmos mediante otros derechos del RGPD. 105. 3.6. Decisiones automatizadas: un ámbito idóneo para las evalua-.",
+      "position": 1
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 2
+    },
+    {
+      "title": "Modelo predictivo basado en Machine Learning dirigido a PYMES de venta, caso de estudio Bluefields - Uraccan",
+      "link": "https://revistas.uraccan.edu.ni/index.php/Interculturalidad/article/download/1027/3991?inline=1",
+      "snippet": "Bluefields Indian and Caribbean University., Nicaragua ... LGBM que es un algoritmo de tipo gradient boosting basado en árboles de decisión desarrollado en ...",
+      "position": 3
+    },
+    {
+      "title": "SIGMA AIR MANAGER 4.0 LLEGA A NICARAGUA ACOMPAÑANDO LA 4ta REVOLUCIÓN INDUSTRIAL",
+      "link": "https://teoptimiza.com/sigma-air-manager-4-0-llega-a-nicaragua-acompanando-la-4ta-revolucion-industrial/",
+      "snippet": "El SAM 4.0 cuenta con un avanzado algoritmo de decisión que le permite monitorear en tiempo real los requerimientos de aire comprimido de la planta y ...",
+      "position": 4
+    },
+    {
+      "title": "Los superjuguetes duran todo el verano - ISDI",
+      "link": "https://www.isdi.education/es/blog/relaciones-laborales-algoritmos-inteligencia-artificial",
+      "snippet": "Así pues, considerando la normativa laboral y la de protección de datos, el uso de los algoritmos y de la I.A, las decisiones automatizadas ...",
+      "date": "5 may 2022",
+      "position": 5
+    },
+    {
+      "title": "Descripción: Implementación y evaluación de los algoritmos de aprendizaje automatizado propuestos en la asignatura inteligencia Artificial. - Repositorio Centroamericano SIIDCA",
+      "link": "https://repositoriosiidca.csuca.org/Record/RepoUNI42",
+      "snippet": "... desarrollo de una aplicación de software que implemente las técnicas de aprendizaje automatizado, vecino más cercano, Naive Bayes y árboles de decisión, ...",
+      "position": 6
+    },
+    {
+      "title": "Diseño de un sistema domótico para la vivienda AI-118 del Residencial Bello Horizonte durante el período septiembre - diciembre de 2015 - Repositorio Institucional UNAN-Managua",
+      "link": "https://repositorio.unan.edu.ni/3166/",
+      "snippet": "Otra thesis, Universidad Nacional Autónoma de Nicaragua. ... información y la llevará a tomar decisiones de manera propia y automatizada, ...",
+      "date": "21 mar 2018",
+      "position": 7
+    },
+    {
+      "title": "Algoritmos, sesgos y discriminación en su uso: A propósito de recientes sentencias sobre el tema | Centro Interamericano de Administraciones Tributarias",
+      "link": "https://www.ciat.org/ciatblog-algoritmos-sesgos-y-discriminacion-en-su-uso-a-proposito-de-recientes-sentencias-sobre-el-tema/",
+      "snippet": "Hoy vivimos en un mundo cada vez más automatizado donde los algoritmos[1] son utilizados para la toma de decisiones basadas en sistemas de ...",
+      "date": "8 feb 2021",
+      "position": 8
+    },
+    {
+      "title": "Decisiones automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos. - La Administración al Día - INAP",
+      "link": "https://laadministracionaldia.inap.es/noticia.asp?id=1509629",
+      "snippet": "Decisión basada únicamente en un tratamiento automatizado ... Consecuencia de ello, aunque la decisión que tome el algoritmo sea utilizada ...",
+      "date": "30 may 2019",
+      "attributes": {
+        "Falta(n)": "Nicaragua | Debe incluir lo siguiente:Nicaragua"
+      },
+      "position": 9
+    }
+  ]
+}

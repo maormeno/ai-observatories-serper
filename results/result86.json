@@ -1,0 +1,89 @@
+{
+  "searchParameters": {
+    "q": "Nicaragua Observatorio Algoritmos",
+    "gl": "ni",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-oVciqUT61Sc7rD01RU0PS6CTKMkykDTKjprj1lysLA-wwTJzsvxrwAI8w&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio Ciudadano – Covid-19 Nicaragua",
+      "link": "https://observatorioni.org/",
+      "snippet": "COVID-19 en Nicaragua, actualizado al 13/07/2022 · Informe acumulado al 15 de julio de 2022.",
+      "attributes": {
+        "Falta(n)": "Algoritmos | Debe incluir lo siguiente:Algoritmos"
+      },
+      "sitelinks": [
+        {
+          "title": "Informes semanales",
+          "link": "https://observatorioni.org/informes-notas-y-semanales/"
+        },
+        {
+          "title": "Estadisticas de COVID-19 en...",
+          "link": "https://observatorioni.org/estadisticas-covid-19-nicaragua/"
+        }
+      ],
+      "position": 1
+    },
+    {
+      "title": "Estadisticas de COVID-19 en Nicaragua - Observatorio Ciudadano",
+      "link": "https://observatorioni.org/estadisticas-covid-19-nicaragua/",
+      "snippet": "Datos sobre personas afectadas por COVID-19 (casos confirmados por MINSA y casos reportados como sospechosos por el Observatorio. Muertes por neumonía y ...",
+      "attributes": {
+        "Falta(n)": "Algoritmos | Debe incluir lo siguiente:Algoritmos"
+      },
+      "position": 2
+    },
+    {
+      "title": "Observatorio Ciudadano COVID 19 Nicaragua | Facebook",
+      "link": "https://facebook.com/ObservatorioCovidNi/posts/observatorio-ciudadano-covid-19-en-nicaraguainforme-semanal-del-27-de-agosto-al-/170050234667910/?locale=hi_IN&_rdr",
+      "snippet": "Observatorio Ciudadano COVID-19 en Nicaragua Informe Semanal del 27 de agosto al 02 de septiembre 2020 #ReporteCOVID19ni 1. Al 02 de septiembre se...",
+      "position": 3
+    },
+    {
+      "title": "Observatorio Ciudadano COVID 19 Nicaragua - Facebook",
+      "link": "https://facebook.com/ObservatorioCovidNi/posts/170050234667910",
+      "snippet": "Observatorio Ciudadano COVID-19 en Nicaragua Informe Semanal del 27 de ... dato esta mal argumentado habra que ver el instrumento de medicion y em algoritmo.",
+      "position": 4
+    },
+    {
+      "title": "Qué son los \"deepfakes\", los algoritmos que le harán creer cualquier cosa - Vos TV",
+      "link": "https://www.vostv.com.ni/actualidad/21383-que-son-los-deepfakes-los-algoritmos-que-le-haran/",
+      "snippet": "Managua, Nicaragua; Diciembre 08, 2021; 10 a.m. ... presidenta y cofundadora del Observatorio del Impacto Ético y Social de la Inteligencia Artificial ...",
+      "position": 5
+    },
+    {
+      "title": "Nicaragua - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/nicaragua/",
+      "snippet": "Análisis de la Ley nicaragüense de Protección de Datos Personales ... protección de datos, algoritmos y biometría, ¿una nueva retórica? 7 enero, 2019.",
+      "position": 6
+    },
+    {
+      "title": "100%NOTICIAS on Twitter: \"#LoÚltimo #Nicaragua Observatorio Ciudadano registra 1,054 casos nuevos y 465 decesos por síntomas asociados al COVID-19 https://t.co/zsbVjQQIDr vía ...",
+      "link": "https://twitter.com/100noticiasni/status/1264212393095319552",
+      "snippet": "Sabías que un síntoma temprano del #coronavirus, o #COVID19 es la #Perdida del #olfato? #SmellTracker utiliza un algoritmo que representa la ...",
+      "date": "23 may 2020",
+      "position": 7
+    },
+    {
+      "title": "Nicaragua: la redada digital que desinfla la imagen virtual del régimen de Ortega y Murillo",
+      "link": "https://dw.com/es/nicaragua-la-redada-digital-que-desinfla-la-imagen-virtual-del-r%C3%A9gimen-de-ortega-y-murillo/a-59712848",
+      "snippet": "Casi mil cuentas vinculadas al Gobierno de Nicaragua fueron borradas por ... falsos y el uso malicioso del algoritmo\", reconoce la experta.",
+      "date": "3 nov 2021",
+      "position": 8
+    },
+    {
+      "title": "Interferón desaparece del algoritmo de tratamientos del MINSA en Nicaragua",
+      "link": "https://100noticias.com.ni/nacionales/101422-minsa-nicaragua-interferon-coronavirus/?mobile",
+      "snippet": "Leer más: Observatorio Ciudadano registra más de mil muertes asociadas al COVID-19 en Nicaragua. El especialista en la salud considera que ...",
+      "date": "6 jun 2020",
+      "position": 9
+    }
+  ]
+}

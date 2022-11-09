@@ -1,0 +1,111 @@
+{
+  "searchParameters": {
+    "q": "Brasil Algoritmo Algoritmos",
+    "gl": "br",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos estão por toda parte. Saiba por que você deve se preocupar - CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/business/algoritmos-estao-por-toda-parte-saiba-por-que-voce-deve-se-preocupar/",
+      "snippet": "Um algoritmo é um conjunto de regras ou etapas seguidas, geralmente por um computador, para produzir um resultado. E os algoritmos não estão ...",
+      "date": "21 nov 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEccGznsrTwdJgIiZHACkkF4mE8jBFtuYSVLuwj24ITFH8lB6mdxOrs4&s",
+      "position": 1
+    },
+    {
+      "title": "Brasileiros criam algoritmo que detecta fake news - BBC",
+      "link": "https://www.bbc.com/portuguese/geral-60478078",
+      "snippet": "André Biernath - @andre_biernath; Da BBC News Brasil em Londres ... Os algoritmos para flagrar as fake news ainda dão os primeiros passos ...",
+      "date": "23 feb 2022",
+      "position": 2
+    },
+    {
+      "title": "150 demissões em um segundo: os algoritmos que decidem quem deve ser mandado embora | Tecnologia - El País",
+      "link": "https://brasil.elpais.com/tecnologia/2021-10-10/150-demissoes-em-um-segundo-assim-funcionam-os-algoritmos-que-decidem-quem-deve-ser-mandado-embora.html",
+      "snippet": "Você será demitido por um algoritmo. ... Inscreva-se aqui para receber a newsletter diária do EL PAÍS Brasil: reportagens, análises, ...",
+      "date": "10 oct 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGW43xTtGUuypNXdRQRyWHwBq0muUg7gM9dqzl-0Y_uxlCPP9uSQDDDg&s",
+      "position": 3
+    },
+    {
+      "title": "'Brasileiro prefere não ver manipulação por algoritmos', diz pesquisador - VEJA",
+      "link": "https://veja.abril.com.br/cultura/brasileiro-prefere-nao-ver-manipulacao-por-algoritmos-diz-pesquisador/",
+      "snippet": "Por ser um processo aleatório, seguimos um método estatístico e não artificial. Toda análise envolve um processo algoritmo. Porém, quando temos ...",
+      "date": "2 jul 2021",
+      "position": 4
+    },
+    {
+      "title": "Algoritmos e autonomia: relações de poder e resistência no capitalismo de vigilância",
+      "link": "https://www.scielo.br/j/op/a/vryT7RHCQ8q8RvYXF3zKvZS/",
+      "snippet": "capitalismo de vigilância; privacidade; democracia; algoritmos; neoliberalismo ... para “criar um algoritmo capaz de pesquisar 15 milhões de documentos em ...",
+      "position": 5
+    },
+    {
+      "title": "Entenda o que é um Algoritmo e como funciona | COMUNIDADE HACKATHON BRASIL",
+      "link": "https://hackathonbrasil.com.br/entenda-o-que-e-um-algoritmo-e-como-funciona/",
+      "snippet": "Foi feito para otimizar processos, organizar ações e é muito usado na ciência da computação. Graças à inteligência artificial, os algoritmos estão cada vez mais ...",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXV78R9mnJNIbpVWRzlgUnEk3G5IZ_OM4nUO8zpjD_ABLfVGTQOVhusE&s",
+      "position": 6
+    },
+    {
+      "title": "O que são os algoritmos e como eles aprendem com você - YouTube",
+      "link": "https://youtube.com/watch?v=nj22l1gIll8",
+      "snippet": "Algoritmo é o nome que damos a uma sequência de ...",
+      "date": "8 may 2021",
+      "attributes": {
+        "Duración": "8:06",
+        "Publicado": "8 may 2021"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/nj22l1gIll8/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3lf0Wap4DXri7aIwztzzDwOEBhYlg",
+      "position": 7
+    },
+    {
+      "title": "Algoritmo – Wikipédia, a enciclopédia livre",
+      "link": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "snippet": "O conceito de algoritmo é frequentemente ilustrado pelo exemplo de uma receita culinária, embora muitos algoritmos sejam mais complexos.",
+      "position": 8
+    },
+    {
+      "title": "Quando o algoritmo é racista! - Revista Raça",
+      "link": "https://revistaraca.com.br/quando-o-algoritmo-e-racista/",
+      "snippet": "“Algoritmos, pela definição técnica, são sistematizações de procedimentos encadeados de forma lógica para realizar tarefas em um espaço ...",
+      "date": "17 may 2022",
+      "position": 9
+    },
+    {
+      "title": "[PDF] Algoritmos e Programação - IFMG",
+      "link": "https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao",
+      "snippet": "e-Tec Brasil. Aula 1 – Conceitos. Objetivos. Conceituar algoritmo. Conceituar lógica de programação. Estudar outros conceitos de informática.",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Influência dos algoritmos na opinião das pessoas"
+    },
+    {
+      "query": "O que é fake news"
+    },
+    {
+      "query": "Tecnologia Brasil"
+    },
+    {
+      "query": "Fato ou Fake"
+    },
+    {
+      "query": "O que é algoritmo"
+    },
+    {
+      "query": "Tech News Brasil"
+    },
+    {
+      "query": "Deep learning fake news"
+    },
+    {
+      "query": "Tecnologia e fake news"
+    }
+  ]
+}

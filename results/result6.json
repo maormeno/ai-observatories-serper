@@ -1,0 +1,83 @@
+{
+  "searchParameters": {
+    "q": "Chile Algoritmo Decisiones Automatizadas",
+    "gl": "cl",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Decisiones automatizadas: ¿Y si el algoritmo no es transparente? - Diario Financiero",
+      "link": "https://www.df.cl/opinion/columnistas/decisiones-automatizadas-y-si-el-algoritmo-no-es-transparente",
+      "snippet": "... base a algoritmos informáticos- para tomar decisiones automatizadas ... y Telefónica Chile en casi US$ 360 millones | Diario Financiero ...",
+      "date": "8 oct 2020",
+      "position": 1
+    },
+    {
+      "title": "El tratamiento de datos personales mediante el uso de inteligencia artificial en la toma de decisiones automatizadas | FerradaNehme",
+      "link": "https://fn.cl/comunicaciones/el-tratamiento-de-datos-personales-mediante-el-uso-de-inteligencia-artificial-en-la-toma-de-decisiones-automatizadas",
+      "snippet": "En otras palabras, cuando hablamos de machine learning, es el propio algoritmo el que crea nuevos algoritmos mediante la identificación de ...",
+      "date": "12 ago 2021",
+      "position": 2
+    },
+    {
+      "title": "Repositorio de Algoritmos Públicos de Chile - GobLab UAI",
+      "link": "https://goblab.uai.cl/repositorio-de-algoritmos-publicos-de-chile/",
+      "snippet": "... del repositorio de algoritmos públicos, que busca otorgar visibilidad a los sistemas de soporte o toma de decisiones automatizadas en el ...",
+      "date": "4 feb 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lnFziHlqRQDAq2JuSy2ADUss_jaU7BspZjdfksIJpYqZfq4spk_WSRU&s",
+      "position": 3
+    },
+    {
+      "title": "Repositorio de Algoritmos Públicos: un nuevo espacio para visualizar los sistemas de decisión automatizada del Estado - GobLab UAI",
+      "link": "https://goblab.uai.cl/repositorio-de-algoritmos-publicos/",
+      "snippet": "Para qué sirven los sistemas automatizados de toma de decisiones en el sector público chileno?",
+      "date": "27 oct 2021",
+      "position": 4
+    },
+    {
+      "title": "Sector público chileno avanza en inédita normativa de transparencia algorítmica en América Latina",
+      "link": "https://www.consejotransparencia.cl/sector-publico-chileno-avanza-en-inedita-normativa-de-transparencia-algoritmica-en-america-latina/",
+      "snippet": "... decisiones automatizadas si no podemos fiscalizar cómo están hechos los algoritmos”, enfatizó, Francisco Leturia, presidente del CPLT.",
+      "date": "14 jun 2022",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Big Data y su aplicación a las decisiones judiciales automatizadas - Repositorio UCHILE",
+      "link": "https://repositorio.uchile.cl/bitstream/handle/2250/187183/Big-Data-y-su-aplicacion-a-las-decisiones-judiciales-automatizadas.pdf?sequence=1",
+      "snippet": "tramitación judicial en Chile se lleva a cabo de manera ... la implementación de sistemas de toma de decisiones automatizadas en sede judicial. Una.",
+      "position": 6
+    },
+    {
+      "title": "Informe Anual - Algoritmos Públicos - GobLab UAI",
+      "link": "https://www.algoritmospublicos.cl/reports",
+      "snippet": "El Informe Anual del Repositorio de Algoritmos Públicos de Chile creado por ... de soporte o toma de decisiones automatizadas en el sector público chileno.",
+      "position": 7
+    },
+    {
+      "title": "Acerca del Repositorio - Algoritmos Públicos - GobLab UAI",
+      "link": "https://www.algoritmospublicos.cl/about",
+      "snippet": "Nuestro fin es otorgar visibilidad a los sistemas de soporte o toma de decisiones automatizadas en el sector público chileno, buscando incentivar a las ...",
+      "position": 8
+    },
+    {
+      "title": "[PDF] La transparencia y la no discriminación en el Estado de bienestar digital - SciELO Chile",
+      "link": "https://www.scielo.cl/pdf/rchdt/v10n2/0719-2584-rchdt-10-2-00301.pdf",
+      "snippet": "a través de algoritmos con impactos desastrosos en materia de discriminación ... rido los procesos automatizados de decisión basados en la ...",
+      "date": "31 dic 2021",
+      "position": 9
+    },
+    {
+      "title": "[PDF] derecho y nuevas tecnologías - Privacy Consulting",
+      "link": "https://privacyconsulting.cl/wp-content/uploads/2019/08/Romina-Garrido.pdf",
+      "snippet": "Magíster en Derecho de las Nuevas Tecnologías por la Universidad de Chile. ... En el área de las decisiones automatizadas, se utilizan varios algoritmos,.",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Algoritmos públicos"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "Brasil Observatorio Decisiones Automatizadas",
+    "gl": "br",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGR9RP0KHfI8UcijODC-Yy4VNfwYjQOfgf_8a4NTtx1MJ0xg9lMGYZU130ijM&s"
+  },
+  "organic": [
+    {
+      "title": "2019: La saga de la Autoridad - Observatório - Por Data Privacy",
+      "link": "https://www.observatorioprivacidade.com.br/es/memoria/2019-la-saga-de-la-autoridad/",
+      "snippet": "Memoria del Observatorio: Episodio 4/5 ... como ciertos tipos de sanciones y la revisión por persona natural de decisiones automatizadas.",
+      "position": 1
+    },
+    {
+      "title": "Memoria - Observatório - Por Data Privacy",
+      "link": "https://www.observatorioprivacidade.com.br/es/memoria/",
+      "snippet": "Para contar y explicar este largo proceso, el Observatorio de la Privacidad y Protección de Datos, proyecto del Data Privacy Brasil, entrevistó a 18 ...",
+      "attributes": {
+        "Falta(n)": "Decisiones Automatizadas"
+      },
+      "position": 2
+    },
+    {
+      "title": "Política de privacidad - Observatorio Regional Amazónico",
+      "link": "https://oraotca.org/politica-privacidad/?a=MOUTINHO%2C%20P.",
+      "snippet": "El Observatorio Regional Amazónico propicia el flujo de información entre ... Qué tipo de toma de decisiones automatizada y/o perfilado hacemos con los ...",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Carta Brasileira Cidades Inteligentes_espanhol.indd - Portal Gov.br",
+      "link": "https://www.gov.br/mdr/pt-br/assuntos/desenvolvimento-urbano/carta-brasileira-para-cidades-inteligentes/CartaBrasileaparaCiudadesInteligentes.pdf",
+      "snippet": "Agenda Nacional de Desarrollo Urbano Sostenible en Brasil. ... procesos de toma de decisiones automatizados o basados en la Inteligencia.",
+      "position": 4
+    },
+    {
+      "title": "[PDF] SISTEMAS DE IA EN LA EXPERIENCIA DEL SUPREMO TRIBUNAL FEDERAL BRASILEÑO Y LA CORTE CONSTITUCIONAL COLOMBIANA: ANÁLISIS PROSPEC - UnB",
+      "link": "https://periodicos.unb.br/index.php/RDET/article/download/35614/29761/104328",
+      "snippet": "en la función judicial de los más altos tribunales de Brasil y Colombia, ... algoritmo puede tomar decisiones automatizadas conforme a los criterios.",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Artículos - SciELO",
+      "link": "https://www.scielo.br/j/icse/a/4wGRTxnpfjGn88qcHkKMVYB/?format=pdf&lang=es",
+      "snippet": "de decisión en el contexto del tratamiento farmacológico en salud mental, pero cuyos ... En Brasil, el concepto de autonomía gana presencia en las políticas ...",
+      "position": 6
+    },
+    {
+      "title": "[PDF] Inteligencia Artificial: Decisiones Automatizadas en Cataluña - Gencat",
+      "link": "https://apdcat.gencat.cat/web/.content/03-documentacio/intelligencia_artificial/documents/Informe-IA-es.pdf",
+      "snippet": "concreto, en los algoritmos de decisión automatizada (ADA) por su potencial de ... Observatorio de la Salud de la Generalitat de Cataluña ...",
+      "position": 7
+    },
+    {
+      "title": "[PDF] E APLICABILIDADE PRÁTICA NO DIREITO - CNJ",
+      "link": "https://www.cnj.jus.br/wp-content/uploads/2022/04/inteligencia-artificial-e-a-aplicabilidade-pratica-web-2022-03-11-1.pdf",
+      "snippet": "trará importantes reflexões para o Poder Judiciário brasileiro. ... de fluxos automatizados e robotização, conjugados com a inteligência artificial.",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Observatorios de Políticas Públicas en las Américas",
+      "link": "https://www.oas.org/es/sap/dgpe/pub/observatoriosdepoliticaspublicas_s.pdf",
+      "snippet": "Observatorio Brasileño de la Economía Creativa ... En efecto, y considerando que la toma de decisiones en la gestión pública siempre es un proceso complejo.",
+      "position": 9
+    }
+  ]
+}

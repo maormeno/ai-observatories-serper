@@ -1,0 +1,93 @@
+{
+  "searchParameters": {
+    "q": "Colombia Observatorio Algoritmos",
+    "gl": "co",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "OCDE incluye iniciativa del Ministerio TIC al Observatorio de Políticas de Inteligencia Artificial",
+      "link": "https://www.mintic.gov.co/portal/715/w3-article-193192.html",
+      "snippet": "AI), la iniciativa del Ministerio de las TIC, Data Sandbox, como una de las 29 iniciativas de Colombia que impulsan la inteligencia ...",
+      "date": "16 oct 2021",
+      "position": 1
+    },
+    {
+      "title": "Un observatorio para vigilar algoritmos con impacto social - Newtral",
+      "link": "https://www.newtral.es/observatorio-para-vigilar-algoritmos-con-impacto-social/20211020/",
+      "snippet": "Un observatorio de algoritmos nace de la mano de una consultora que ... En Colombia, otro denominado SISBEN, utilizado para determinar qué ...",
+      "date": "20 oct 2021",
+      "position": 2
+    },
+    {
+      "title": "DNP en articulación con el Ministerio de Transporte desarrolló el proyecto de identificación de vías terciarias con inteligencia artificial",
+      "link": "https://www.dnp.gov.co/Paginas/DNP-y-MiniTransporte-desarrollo-el-proyecto-de-identificacion-de-vias-terciarias-con-inteligencia-artificial.aspx",
+      "snippet": "Para este proceso se aplican algoritmos de aprendizaje de máquina en ... entren a nuestro Observatorio Nacional de Logística, Transporte, ...",
+      "date": "25 feb 2022",
+      "position": 3
+    },
+    {
+      "title": "Imágenes Satelitales - Observatorio Nacional de Logística",
+      "link": "https://onl.dnp.gov.co/Paginas/Imagenes-Satelitales.aspx",
+      "snippet": "Identificación de vías terciarias con imágenes satelitales y algoritmos de inteligencia artificial. El proyecto consiste en aplicar inteligencia artificial para ...",
+      "position": 4
+    },
+    {
+      "title": "El Gobierno prepara mecanismos para medir el impacto social de los algoritmos - EL PAÍS",
+      "link": "https://elpais.com/tecnologia/2021-07-22/el-gobierno-prepara-mecanismos-para-medir-el-impacto-social-de-los-algoritmos.html",
+      "snippet": "Dependiente a su vez del Observatorio Nacional de Tecnología y Sociedad (Ontsi), esta entidad será la encargada de desarrollar los indicadores ...",
+      "date": "22 jul 2021",
+      "position": 5
+    },
+    {
+      "title": "Gobierno lanzó misión de expertos para trazar hoja de ruta en inteligencia artificial",
+      "link": "https://www.larepublica.co/economia/gobierno-lanzo-mision-de-expertos-para-trazar-hoja-de-ruta-en-inteligencia-artificial-3250623",
+      "snippet": "Cómo construir algoritmos que ayuden en la equidad de género. ... De acuerdo al Observatorio de #IA de la @OECD, Colombia es el país ...",
+      "date": "21 oct 2021",
+      "position": 6
+    },
+    {
+      "title": "El Marco Ético para la Inteligencia Artificial en Colombia: una oportunidad para implementar proyectos de IA que beneficien a toda la ciudadanía - CCIT",
+      "link": "https://www.ccit.org.co/articulos-tictac/el-marco-etico-para-la-inteligencia-artificial-en-colombia-una-oportunidad-para-implementar-proyectos-de-ia-que-beneficien-a-toda-la-ciudadania/",
+      "snippet": "Evaluación de algoritmos · Limpieza de datos · Explicación inteligente · Evaluación de la legitimidad · Definición y gestión de riesgos éticos ...",
+      "date": "30 mar 2022",
+      "position": 7
+    },
+    {
+      "title": "Colombia necesita una fábrica nacional de algoritmos",
+      "link": "https://cambiocolombia.com/articulo/tecnologia/colombia-necesita-una-fabrica-nacional-de-algoritmos",
+      "snippet": "La economía colombiana está en mora de decidir si el país será eterno ... de la industria nacional del software (porque los algoritmos, ...",
+      "date": "13 mar 2022",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 8
+    },
+    {
+      "title": "Destripando algoritmos: un buscador para conocer qué hay detrás de las decisiones de Google, Facebook o Netflix - El Español",
+      "link": "https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/espana/20211008/destripando-algoritmos-buscador-decisiones-google-facebook-netflix/616938814_0.html",
+      "snippet": "Eticas Foundation lanza un observatorio para dar al usuario la información disponible sobre quién los usa, quién los crea o qué amenazas ...",
+      "date": "8 oct 2021",
+      "position": 9
+    },
+    {
+      "title": "Repositorios y registros públicos de algoritmos",
+      "link": "https://forogpp.com/inteligencia-artificial-y-sector-publico/repositorios-y-registros-de-algoritmos/",
+      "snippet": "Colombia 2.1 “Tablero de seguimiento marco… ... 1.1 “Algoritmos públicos” – UAI ... 10.1 Observatorio de Algoritmos con Impacto Social – OASI (eticas ...",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Observatorio transporte"
+    },
+    {
+      "query": "DNP vías terciarias"
+    },
+    {
+      "query": "Proyectos tipo DNP"
+    }
+  ]
+}

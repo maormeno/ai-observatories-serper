@@ -1,0 +1,81 @@
+{
+  "searchParameters": {
+    "q": "Colombia Algoritmo Decisiones Automatizadas",
+    "gl": "co",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "[PDF] algoritmos inteligentes para la imposición de medidas de aseguramiento en colombia. - Universidad Militar Nueva Granada",
+      "link": "https://repository.unimilitar.edu.co/bitstream/handle/10654/40374/Ordo%C3%B1ezOrdo%C3%B1ezLizethVanessa2021_Presentacion.pdf?sequence=1&isAllowed=y",
+      "snippet": "La inteligencia artificial y los algoritmos predictivos. ... apoyo a decisiones automatizadas en la prevención de riesgos, realizando una evaluación de ...",
+      "position": 1
+    },
+    {
+      "title": "[PDF] RETOS PARA LA REGULACIÓN DEL BIG DATA Y LA INTELIGENCIA ARTIFICIAL: PRIVACIDAD, DEMOCRACIA Y DERECHOS HUMANOS TRABAJO DE GRADO",
+      "link": "http://repository.eafit.edu.co/bitstream/10784/17092/4/MONOGRAF%C3%8DA%20DE%20GRADO%20ANA%20MARIA%20TRUJILLO.pdf",
+      "snippet": "3.2 Los problemas que derivan del diseño de los algoritmos: la opacidad y los sesgos implícitos en perfiles y decisiones automáticas.",
+      "position": 2
+    },
+    {
+      "title": "Conozca estos tres algoritmos que son efectivos para proteger los datos personales",
+      "link": "https://www.larepublica.co/internet-economy/conozca-estos-tres-algoritmos-que-son-efectivos-para-proteger-los-datos-personales-3444299",
+      "snippet": "Más de la mitad de las empresas colombianas sufrieron ... aprendan y tomen mejores decisiones a medida que van analizando estos parámetros, ...",
+      "date": "10 sept 2022",
+      "position": 3
+    },
+    {
+      "title": "Inteligencia Artificial en decisiones | Software ERP - Softland Colombia",
+      "link": "https://softland.com.co/blog/noticias/inteligencia-artificial-para-la-toma-de-decisiones/",
+      "snippet": "Algoritmo de aprendizaje basado en el proceso de decisión de Markov que proporciona un marco matemático para ... Decisiones totalmente automatizadas.",
+      "position": 4
+    },
+    {
+      "title": "Vista de Decisiones automatizadas: problemas y soluciones jurídicas. Más allá de la protección de datos | Revista de Derecho Público",
+      "link": "http://www.revistasmarcialpons.es/revistaderechopublico/article/view/535/550",
+      "snippet": "Los algoritmos son diseñados por seres humanos que, de manera voluntaria o involuntaria, pueden introducir en los sistemas que programan los prejuicios y ...",
+      "position": 5
+    },
+    {
+      "title": "[PDF] BIG DATA, CONSUMIDOR ALGORÍTMICO Y PERFILACIÓN WEB”",
+      "link": "https://www.sic.gov.co/sites/default/files/eventos/memorias/SIC%20MLFR%20Derecho%20de%20los%20Mercados%2017-10-2.pdf",
+      "snippet": "¿Qué es un algoritmo? Enfoques IA ... ¿CÓMO ESTÁ COLOMBIA EN ACCESO A. INTERNET? ... decisión para sugerirla decisión óptima dado un conjuntoparticular.",
+      "position": 6
+    },
+    {
+      "title": "[PDF] Recomendaciones Generales para el Tratamiento de Datos en la Inteligencia Artificial - Superintendencia de Industria y Comercio",
+      "link": "https://www.sic.gov.co/sites/default/files/files/pdf/1%20RIPD%20(2019)%20RECOMENDACIONES%20GENERALES%20PARA%20EL%20TRATAMIENTO%20DE%20DATOS%20EN%20LA%20IA.pdf",
+      "snippet": "de algoritmos a la IA, los cuales son un ... decisiones O actúen de determinada manera¹. ... procedimientos físicos O automatizados.",
+      "position": 7
+    },
+    {
+      "title": "La decisión robótica: algoritmos, interpretación y justicia predictiva - SciELO Colombia",
+      "link": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-43662021000100045",
+      "snippet": "Por esta razón se habla cada vez más de agentes humanos como sistemas tecnológicos automatizados proyectados para tomar decisiones o expresar evaluaciones ...",
+      "position": 8
+    },
+    {
+      "title": "Guías de Software y programación | Colombia Aprende",
+      "link": "https://www.colombiaaprende.edu.co/recurso-coleccion/guias-de-software-y-programacion",
+      "snippet": "Algoritmos cotidiano. Los algoritmos son decisiones que tomamos todo el tiempo en nuestra vida diaria, desde las más simples y automáticas hasta las más ...",
+      "position": 9
+    },
+    {
+      "title": "El tratamiento de datos personales mediante el uso de inteligencia artificial en la toma de decisiones automatizadas | FerradaNehme",
+      "link": "https://fn.cl/comunicaciones/el-tratamiento-de-datos-personales-mediante-el-uso-de-inteligencia-artificial-en-la-toma-de-decisiones-automatizadas",
+      "snippet": "En otras palabras, cuando hablamos de machine learning, es el propio algoritmo el que crea nuevos algoritmos mediante la identificación de ...",
+      "date": "12 ago 2021",
+      "attributes": {
+        "Falta(n)": "Colombia | Debe incluir lo siguiente:Colombia"
+      },
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "CONPES 3920"
+    }
+  ]
+}

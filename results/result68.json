@@ -1,0 +1,80 @@
+{
+  "searchParameters": {
+    "q": "Guatemala Observatorio Algoritmos",
+    "gl": "gt",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Cómo los algoritmos gobiernan nuestras vidas - O.G.D.I",
+      "link": "https://ogdi.org/archivos/7604",
+      "snippet": "Las apps y plataformas que utilizamos a diario utilizan Inteligencia Artificial (IA) para tomar decisiones a partir de la enorme cantidad de ...",
+      "date": "29 nov 2019",
+      "position": 1
+    },
+    {
+      "title": "Observatorio OGDI Guatemala - YouTube",
+      "link": "https://www.youtube.com/channel/UCkfaVK2j2te_2HUINr2PIzg/videos?view=2&sort=dd&live_view=502&shelf_id=0",
+      "snippet": "Observatorio Guatemalteco de Delitos Informáticos -OGDI. ... Los algoritmos de encriptación y su utilidad en la ciberseguridad. 16 viewsStreamed 3 days ago.",
+      "position": 2
+    },
+    {
+      "title": "Observatorio OGDI Guatemala - YouTube",
+      "link": "https://youtube.com/c/ObservatorioOGDIGuatemala",
+      "snippet": "Observatorio Guatemalteco de Delitos Informáticos -OGDI. ... Los algoritmos de encriptación y su utilidad en la ciberseguridad ... Visita Guatemala.",
+      "position": 3
+    },
+    {
+      "title": "Guatemala - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/guatemala/",
+      "snippet": "Por Carlos Enrique Ortega Salguero En Guatemala se cuestiona mucho los siguiente ¿Se ... protección de datos, algoritmos y biometría, ¿una nueva retórica?",
+      "position": 4
+    },
+    {
+      "title": "Observadores en Guatemala [OLD] - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/colaboradores/observadores-en-centroamerica-before-import/observadores-en-guatemala-before-import/",
+      "snippet": "Observadores en Guatemala [OLD] ... 2019; Libertad de expresión, protección de datos, algoritmos y biometría, ¿una nueva retórica? 7 enero, 2019.",
+      "position": 5
+    },
+    {
+      "title": "Inteligencia Artificial y vulnerabilidad de los sistemas de seguridad en La Red (y otros problemas éticos) | IGF Guatemala was live. - Facebook",
+      "link": "https://facebook.com/IGFGT/videos/inteligencia-artificial-y-vulnerabilidad-de-los-sistemas-de-seguridad-en-la-red-/614426069972042/",
+      "snippet": "IGF Guatemala was live. ... Observatorio Contra El ...",
+      "date": "18 nov 2021",
+      "attributes": {
+        "Duración": "50:25",
+        "Publicado": "18 nov 2021"
+      },
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWTYj3tfTcVecDyC_K6GWwGoeP1m4lMjEE-DEG7vrBK0gXBc3aUXoi4T8",
+      "position": 6
+    },
+    {
+      "title": "Un algoritmo cuántico acorta la identificación de ondas gravitacionales",
+      "link": "https://elperiodico.com.gt/sociedad/ciencia-tec/2022/04/04/un-algoritmo-cuantico-acorta-la-identificacion-de-ondas-gravitacionales/",
+      "snippet": "... de ondas gravitacionales de detectores como el Observatorio Gravitacional de ... El algoritmo de Grover, desarrollado por el científico ...",
+      "date": "4 abr 2022",
+      "position": 7
+    },
+    {
+      "title": "Literatura | elPeriódico de Guatemala",
+      "link": "https://elperiodico.com.gt/tag/algoritmos/",
+      "snippet": "Noticias con la etiqueta: algoritmos. foto-articulo- Por: EFE. Instituto Cervantes creará un Observatorio del Español para el mundo digital. logoep2 ...",
+      "position": 8
+    },
+    {
+      "title": "Sistema de algoritmos - Prensa Libre",
+      "link": "https://www.prensalibre.com/tema/sistema-de-algoritmos/",
+      "snippet": "Prensa Libre le trae toda la información y noticias de Guatemala y el mundo sobre Sistema de algoritmos.",
+      "position": 9
+    },
+    {
+      "title": "PREVIO - | Diálogos",
+      "link": "https://www.dialogos.org.gt/blog/previo",
+      "snippet": "Modelo de alertas para la predicción de la violencia en Guatemala Desde el año 2020, el equipo del Observatorio de la Violencia de Diálogos ...",
+      "date": "20 sept 2022",
+      "position": 10
+    }
+  ]
+}

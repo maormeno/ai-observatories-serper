@@ -1,0 +1,86 @@
+{
+  "searchParameters": {
+    "q": "Ecuador Algoritmo Algoritmos",
+    "gl": "ec",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Algoritmo Ecuador (@algoritmofilm) • Instagram photos and videos",
+      "link": "https://www.instagram.com/algoritmofilm/?hl=es",
+      "snippet": "Algoritmo Ecuador. Película Ecuatoriana Estreno 3 de diciembre del 2021. Género: Comedia Familiar Producción Ejecutiva: Rogerio Moncayo. youtu.be/ ...",
+      "attributes": {
+        "Falta(n)": "Algoritmos | Debe incluir lo siguiente:Algoritmos"
+      },
+      "position": 1
+    },
+    {
+      "title": "¿Qué es un algoritmo? - Ecuador Verifica",
+      "link": "https://ecuadorverifica.org/2022/07/18/que-es-un-algoritmo/",
+      "snippet": "Al recibir un correo, un algoritmo decide si va a spam o a tu bandeja de entrada. ... A continuación, algunos ejemplos de algoritmos:.",
+      "date": "18 jul 2022",
+      "position": 2
+    },
+    {
+      "title": "Algoritmo - Facebook",
+      "link": "https://facebook.com/algoritmo.ec/",
+      "snippet": "Algoritmo. 12927 likes. Película Ecuatoriana - Idea original: Rogerio Moncayo Estreno: 3 de diciembre de 2021 www.algortimo.ec.",
+      "position": 3
+    },
+    {
+      "title": "'Algoritmo', la película protagonizada por Efraín Ruales que se será estrenada",
+      "link": "https://www.eltelegrafo.com.ec/noticias/sociedad/6/algoritmo-la-pelicula-protagonizada-por-efrain-ruales-que-se-sera-estrenada",
+      "snippet": "'Algoritmo' es un film ecuatoriano que está dirigido, ... “Si los algoritmos están al servicio del poder en cualquier ámbito, se convierte ...",
+      "date": "30 nov 2021",
+      "position": 4
+    },
+    {
+      "title": "ALGORITMO TRAILER OFICIAL - SCI-FI ECUATORIANO - YouTube",
+      "link": "https://youtube.com/watch?v=yNiZAiTpEFM",
+      "snippet": "Peliculas ecuatoriana filmada en la ciudad de Ibarra ...",
+      "date": "18 dic 2019",
+      "attributes": {
+        "Duración": "2:22",
+        "Publicado": "18 dic 2019"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/yNiZAiTpEFM/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3lwdKzqNBIyHDejfZmcMBX1tP-WUQ",
+      "position": 5
+    },
+    {
+      "title": "Algoritmos - Forbes Ecuador",
+      "link": "https://www.forbes.com.ec/tags/algoritmos-t9130",
+      "snippet": "Consejos para emprendedores: cómo funciona el algoritmo de TikTok. Algunos tips y datos para destacar tu marca o emprendimiento en la red social del momento ...",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYjiz35l3dsTV8COh2J-3qa7XEinu5qgU6F3-VNZn9hRdNbPg0fA9jvc&s",
+      "position": 6
+    },
+    {
+      "title": "Algoritmo: la película en que participó Efraín Ruales que se estrenará este diciembre",
+      "link": "https://www.eluniverso.com/larevista/sociedad/algoritmo-la-pelicula-protagonizada-por-efrain-ruales-que-se-estrenara-este-diciembre-nota/",
+      "snippet": "La película ecuatoriana está basada en una historia real que le sucedió al director Rogerio Moncayo.",
+      "date": "2 dic 2021",
+      "position": 7
+    },
+    {
+      "title": "Algorithmics - Ecuador",
+      "link": "https://ec.alg.academy/",
+      "snippet": "L@s niñ@s trabajan los conceptos básicos de programación y algoritmos, al tiempo que aprenden el lenguaje Python. A medida que se sumergen en la cultura y ...",
+      "position": 8
+    },
+    {
+      "title": "Los algoritmos son política - Ecuador Today",
+      "link": "https://ecuadortoday.media/2021/04/10/los-algoritmos-son-politica/",
+      "snippet": "Un algoritmo no hace más que reproducir desigualdades inherentes al sistema capitalista. Por esta razón, desde el Seminari Taifa convidan a ...",
+      "date": "10 abr 2021",
+      "position": 9
+    },
+    {
+      "title": "Algoritmo, la película ecuatoriana que reflexiona sobre exposición tecnológica y corrupción",
+      "link": "https://elmercurio.com.ec/2021/12/01/algoritmo-la-pelicula-ecuatoriana-que-reflexiona-sobre-exposicion-tecnologica-y-corrupcion/?amp",
+      "snippet": "La película «Algoritmo», que se estrena mañana en Ecuador, ... en ese sentido, cómo se están usando los algoritmos para obligar al individuo ...",
+      "date": "1 dic 2021",
+      "position": 10
+    }
+  ]
+}

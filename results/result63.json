@@ -1,0 +1,108 @@
+{
+  "searchParameters": {
+    "q": "El Salvador Observatorio Decisiones Automatizadas",
+    "gl": "sv",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Lanzamiento del nuevo portal del Observatorio Metropolitano del COAMSS/OPAMSS.",
+      "link": "https://opamss.org.sv/lanzamientoom/",
+      "snippet": "Contar con datos y estadística es clave, especialmente en el Área Metropolitana de San Salvador donde la toma de decisiones sobre el ...",
+      "date": "8 oct 2021",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 1
+    },
+    {
+      "title": ":: DGOA - Dirección General del Observatorio de Amenazas",
+      "link": "https://www.snet.gob.sv/",
+      "snippet": "Sitio web del Observatorio de Amenazas del Ministerio de Medio Ambiente de El Salvador.",
+      "attributes": {
+        "Falta(n)": "Decisiones Automatizadas"
+      },
+      "position": 2
+    },
+    {
+      "title": "MARN - Servicio Metorológico Nacional",
+      "link": "http://www.snet.gob.sv/ver/meteorologia/servicio+meteorologico/",
+      "snippet": "... (5 estaciones sinópticas entre automáticas y convencionales con una ... información que les permita tomar decisiones adecuadas y orientadas como medidas ...",
+      "position": 3
+    },
+    {
+      "title": "Belice cuenta con estaciones hidrológicas automatizadas para monitorear el agua del New River - Portal del SICA",
+      "link": "https://www.sica.int/noticias/belice-cuenta-con-estaciones-hidrologicas-automatizadas-para-monitorear-el-agua-del-new-river_1_130987.html",
+      "snippet": "El 27 de octubre, el Ministerio de Desarrollo Sostenible, Cambio Climático y Gestión de Riesgos de Desastres y el Ministerio de Recursos ...",
+      "date": "27 oct 2022",
+      "position": 4
+    },
+    {
+      "title": "[PDF] INFORME SOBRE LA VIOLENCIA HOMICIDA EN EL SALVADOR - | Diálogos",
+      "link": "https://dialogos.org.gt/wp-content/uploads/2020/06/Informe-automatizado-Homicidios-El-Salvador-a-31-marzo-2020-con-portada.pdf",
+      "snippet": "El Observatorio Regional sobre la Violencia de Diálogos se complace en presentar ... para los tomadores de decisión encargados de diseñar e implementar las ...",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Red de Observatorio de Buenas Prácticas TELESCOPI Observatorio de El Salvador Universidad Autónoma de Santa Ana UNASA Buena pr - UCA",
+      "link": "http://www2.uca.edu.sv/upload_w/7/archivo/1603755525-5f975e056560b.pdf",
+      "snippet": "Servicios estudiantiles sistematizados pero no automatizados en su totalidad. •. Software no resiliente ante los cambios operativos. •. Software de escritorio ...",
+      "position": 6
+    },
+    {
+      "title": "[PDF] LA RED DE OBSERVATORIOS DE RECURSOS HUMANOS DE SALUD",
+      "link": "https://centro.observatoriorh.org/sites/centro.observatoriorh.org/files/webfiles/fulltext/2018/xii_ctdrhus/6_observatorio_rhs_mramirez.pdf",
+      "snippet": "Observatorio de El Salvador ... Actualizaciones de seguridad permanente / automatizado ... información a los tomadores de decisiones?",
+      "date": "1 jun 2018",
+      "position": 7
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "Por ello, es necesario evaluar las implicaciones éticas que están asociadas con la ejecución de servicios digitales y decisiones automatizadas ...",
+      "date": "15 ago 2022",
+      "position": 8
+    },
+    {
+      "title": "A 14 años del terremoto del 13 de enero de 2001 - El Salvador - ReliefWeb",
+      "link": "https://reliefweb.int/report/el-salvador/14-os-del-terremoto-del-13-de-enero-de-2001",
+      "snippet": "News and Press Release in Spanish on El Salvador about Disaster ... (MARN) a través de la Dirección General del Observatorio Ambiental opera ...",
+      "date": "14 ene 2015",
+      "position": 9
+    },
+    {
+      "title": "Historia de la sismología en El Salvador - Wikipedia, la enciclopedia libre",
+      "link": "https://es.wikipedia.org/wiki/Historia_de_la_sismolog%C3%ADa_en_El_Salvador",
+      "snippet": "En el año de 1928 por decisión política y con el fallecimiento del Dr. Jorge Lardé y Arthés, el OBSERVATORIO SISMOLOGICO NACIONAL se unió al OBSERVATORIO ...",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Meteorología El Salvador"
+    },
+    {
+      "query": "Snet satélite"
+    },
+    {
+      "query": "Pronóstico SNET"
+    },
+    {
+      "query": "El Observatorio informa"
+    },
+    {
+      "query": "Instituto meteorológico El Salvador"
+    },
+    {
+      "query": "Snet Sismos"
+    },
+    {
+      "query": "SNET 48"
+    },
+    {
+      "query": "MARN: Radar"
+    }
+  ]
+}

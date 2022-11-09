@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "Bolivia Observatorio Algoritmos",
+    "gl": "bo",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvFhOKH0Z5LLyzBnvurY2mvJVeKXELgPOUxw1xPq8NBDU-vbPld0kz1O3Eg&s"
+  },
+  "organic": [
+    {
+      "title": "Aproximaciones sobre algoritmos, su cuestionable empleo y sus proyecciones admisibles como reto del estado constitucional - SciELO Bolivia",
+      "link": "http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2413-28102020000100004",
+      "snippet": "Algoritmo, Predicción, Etica, Utilidad, Constitución. Abstract. Every day, algorithms and the world of the Internet in people's daily life are more and more ...",
+      "position": 1
+    },
+    {
+      "title": "Aplicación del algoritmo de Vartia: el sector de educación primaria en Bolivia - iisec",
+      "link": "https://iisec.ucb.edu.bo/publicacion/aplicacion-del-algoritmo-de-vartia-el-sector-de-educacion-primaria-en-bolivia",
+      "snippet": "La evaluación de cambios en el bienestar, desde un enfoque microeconómico, se ha concentrado en el cálculo de la variación equivalente y compensatoria a ...",
+      "position": 2
+    },
+    {
+      "title": "Bolivia - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/bolivia/",
+      "snippet": "Por Edgar David Oliva Terán Entraré a otra esfera de la vida cotidiana, donde también la tecnología a puesto en conflicto el normal funcionamiento en el.",
+      "position": 3
+    },
+    {
+      "title": "Crean el Observatorio de Elecciones Bolivia para detección de anomalías",
+      "link": "https://www.opinion.com.bo/articulo/escenario-politico1/crean-observatorio-elecciones-bolivia-deteccion-anomalias/20201017175857791720.html",
+      "snippet": "Se trata de un portal que en una de sus secciones tiene algoritmos de detección de anomalías, los cuales buscan identificar cualquier ...",
+      "date": "17 oct 2020",
+      "position": 4
+    },
+    {
+      "title": "87FE-47-MODELO DE OPTIMIZACIÓN EN BASE A ALGORITMOS DE HORMIGAS PARA BIOFLUJOS DEL TRANSPORTE by Bienal de Arquitectura Boliviana - Issuu",
+      "link": "https://issuu.com/13bab/docs/87fe-47-documento-vania-susana-calle-quispe",
+      "snippet": "“El cual busca “un cambio de paradigma en la movilidad urbana, que conlleve unas serie de lineamientos de educación vial y equipamiento, bajo la ...",
+      "date": "25 oct 2019",
+      "position": 5
+    },
+    {
+      "title": "Algoritmo y noticia de datos como el futuro del periodismo transmediaimagético | Revista Latina de Comunicación Social",
+      "link": "https://nuevaepoca.revistalatinacs.org/index.php/revista/article/view/641",
+      "snippet": "Con la conclusión de este estudio, podemos entender el Periodismo Transmedia como un lenguaje perfecto para desarrollar contenidos basados ​​en Big Data, ...",
+      "position": 6
+    },
+    {
+      "title": "[PDF] Guía Boliviana de Diseño Sísmico - Universidad Autónoma Juan Misael Saracho",
+      "link": "https://www.uajms.edu.bo/relinter/wp-content/uploads/2020/10/SISMICO_2020.pdf",
+      "snippet": "El año 2006 tuve el honor de elaborar la Norma Boliviana de Diseño Sísmico NBDS-2006 por encargo del Ministerio de Obras Públicas, Servicios y Vivienda con ...",
+      "position": 7
+    },
+    {
+      "title": "Bolivianos examinan mediante algoritmos sus elecciones - Debate",
+      "link": "https://www.debate.com.mx/mundo/Bolivianos-examinan-mediante-algoritmos-sus-elecciones-20210411-0019.html",
+      "snippet": "Ariel Zeballos, fundador del Observatorio Elecciones Bolivia, destacó en entrevista que el análisis en masa de los datos generados durante ...",
+      "date": "11 abr 2021",
+      "position": 8
+    },
+    {
+      "title": "[PDF] BOLIVIA | Eurosocial",
+      "link": "https://eurosocial.eu/wp-content/uploads/2021/10/2_409_bolivia_septiembre_2021-002.pdf",
+      "snippet": "Servicio de Impuestos Nacionales. —SIN—. ◗ Ministerio de Justicia y Transparencia. Institucional. ◗ El Tribunal Supremo Electoral de Bolivia,.",
+      "position": 9
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "searchParameters": {
+    "q": "Uruguay Algoritmo Algoritmos",
+    "gl": "uy",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "algoritmos | Uruguay Educa",
+      "link": "https://uruguayeduca.anep.edu.uy/palabra-clave/algoritmos",
+      "snippet": "El artículo presenta un conjunto de problemas que pueden constituirse en una secuencia didáctica para trabajar con el algoritmo de la división.",
+      "position": 1
+    },
+    {
+      "title": "Inteligencia artificial: con algoritmos predicen qué liceales pueden abandonar o repetir y harán listas - EL PAÍS Uruguay",
+      "link": "https://www.elpais.com.uy/que-pasa/inteligencia-artificial-algoritmos-predicen-liceales-abandonar-repetir-haran-listas.html",
+      "snippet": "UTE, mientras, ya aplica un algoritmo para predecir el consumo de los hogares, que permite entre otras cosas apagar y prender calefones en ...",
+      "date": "21 ago 2022",
+      "position": 2
+    },
+    {
+      "title": "Entender qué son y cómo funcionan los algoritmos | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/politicas-y-gestion/entender-son-funcionan-algoritmos",
+      "snippet": "Los algoritmos son una serie de instrucciones que permiten hacer y ... a partir de su fotografía (input), se define mediante un algoritmo.",
+      "date": "4 feb 2021",
+      "position": 3
+    },
+    {
+      "title": "Guía para el estudio de Impacto Algorítmico | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/guia-para-estudio-impacto-algoritmico",
+      "snippet": "En este sentido, los algoritmos de inteligencia artificial (IA) habilitan procesos más eficaces y eficientes, optimizando el uso de los ...",
+      "date": "18 nov 2020",
+      "attributes": {
+        "Falta(n)": "Algoritmo | Debe incluir lo siguiente:Algoritmo"
+      },
+      "position": 4
+    },
+    {
+      "title": "[PDF] Algoritmos de Aproximación - EVA Fing",
+      "link": "https://eva.fing.edu.uy/mod/resource/view.php?id=60449",
+      "snippet": "Algoritmo. Comentarios. Algoritmos de Aproximación. Clase 13. Redes de Steiner. Pablo Romero. Lunes 19 de setiembre de 2016, Montevideo, Uruguay.",
+      "position": 5
+    },
+    {
+      "title": "Algoritmo de escape / Julia Castagno - CCE Montevideo",
+      "link": "https://cce.org.uy/es/evento/algoritmos-de-escape-julia-castagno/",
+      "snippet": "pintura, escultura, intervenciones en vía pública y performance. Ha representado a Uruguay en diferentes bienales y obtuvo diversos premios a lo ...",
+      "date": "19 oct 2021",
+      "position": 6
+    },
+    {
+      "title": "Conocer jugando con animales y algoritmos | la diaria | Uruguay",
+      "link": "https://ladiaria.com.uy/ciencia/articulo/2022/6/conocer-jugando-con-animales-y-algoritmos/",
+      "snippet": "El algoritmo más o menos veía lo mismo que los humanos. O, mejor dicho, veía más: al modelo hubo estados del juego que no se le pasaron por alto ...",
+      "date": "4 jun 2022",
+      "position": 7
+    },
+    {
+      "title": "La dictadura del algoritmo: inteligencia artificial y derechos fundamentales - Datysoc",
+      "link": "https://datysoc.org/2021/07/08/la-dictadura-del-algoritmo-inteligencia-artificial-y-derechos-fundamentales/",
+      "snippet": "El programa abordó, entre otras cuestiones, qué son los algoritmos, cómo se construyen, cuál es su uso actual por parte de empresas y del ...",
+      "date": "8 jul 2021",
+      "position": 8
+    },
+    {
+      "title": "Implementación de algoritmo para la estimación de los parámetros de líneas de transmisión basados en PMU - Colibri",
+      "link": "https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/21961",
+      "snippet": "Resumen: Actualmente Uruguay cuenta con una red de medida de sincrofasores a ... práctica de posibles algoritmos basados en Unidades de Medición Fasorial, ...",
+      "position": 9
+    },
+    {
+      "title": "análisis del estado del arte e instanciación de un algoritmo de deep learning para la predicción espacio temporal del crimen en Montevideo - Colibri",
+      "link": "https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/34175",
+      "snippet": "Título: Nuevas tendencias en la aplicación de algoritmos al combate del ... Facultad o Servicio que otorga el Título: Universidad de la República (Uruguay).",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Como funciona el algoritmo de Instagram"
+    },
+    {
+      "query": "Como se hace el algoritmo"
+    },
+    {
+      "query": "Aplica el algoritmo"
+    },
+    {
+      "query": "Marset Uruguay"
+    },
+    {
+      "query": "Algoritmo videos"
+    },
+    {
+      "query": "Primer Cartel Uruguayo"
+    },
+    {
+      "query": "Humo en Uruguay"
+    },
+    {
+      "query": "Noticias Uruguay"
+    }
+  ]
+}

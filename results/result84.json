@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Honduras Algoritmo Decisiones Automatizadas",
+    "gl": "hn",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "¿Se puede predecir la evolución de enfermedades a través de la inteligencia artificial?",
+      "link": "https://hch.tv/2022/09/19/se-puede-predecir-la-evolucion-de-enfermedades-a-traves-de-la-inteligencia-artificial/",
+      "snippet": "... y en la toma de decisiones automatizadas se han implementado en ... Sabemos que este conjunto de algoritmos tiene entre sus bondades la ...",
+      "date": "19 sept 2022",
+      "position": 1
+    },
+    {
+      "title": "Inteligencia Artificial | SEIDOR Honduras",
+      "link": "https://www.seidor.com/es-hn/soluciones/inteligencia-artificial",
+      "snippet": "Automatiza tareas, lleva las relaciones con tus clientes a otro nivel o ... las oportunidades de la Inteligencia Artificial en la toma de decisiones y en la ...",
+      "position": 2
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 3
+    },
+    {
+      "title": "Algoritmos, oscuros programas que manejan nuestra vida digital - LaPrensa.hn",
+      "link": "https://www.laprensa.hn/tecnologia/algoritmos-oscuros-programas-que-manejan-nuestra-vida-digital-DBlp1043550",
+      "snippet": "Simboliza los peligros y excesos de un mundo automatizado y condicionado a la ... y las decisiones que toman por nosotros los algoritmos.",
+      "date": "11 feb 2017",
+      "position": 4
+    },
+    {
+      "title": "Los superjuguetes duran todo el verano - ISDI",
+      "link": "https://www.isdi.education/es/blog/relaciones-laborales-algoritmos-inteligencia-artificial",
+      "snippet": "Así pues, considerando la normativa laboral y la de protección de datos, el uso de los algoritmos y de la I.A, las decisiones automatizadas ...",
+      "date": "5 may 2022",
+      "position": 5
+    },
+    {
+      "title": "[DOC] Honduras.docx - OHCHR",
+      "link": "https://www.ohchr.org/sites/default/files/Documents/HRBodies/CERD/GC36/Honduras.docx",
+      "snippet": "... la toma de decisiones automatizadas, análisis de datos predictivos y el uso de algoritmos e incorporación de otras tecnologías para predecir y combatir ...",
+      "position": 6
+    },
+    {
+      "title": "Algoritmos, sesgos y discriminación en su uso: A propósito de recientes sentencias sobre el tema | Centro Interamericano de Administraciones Tributarias",
+      "link": "https://www.ciat.org/ciatblog-algoritmos-sesgos-y-discriminacion-en-su-uso-a-proposito-de-recientes-sentencias-sobre-el-tema/",
+      "snippet": "Hoy vivimos en un mundo cada vez más automatizado donde los algoritmos[1] son utilizados para la toma de decisiones basadas en sistemas de ...",
+      "date": "8 feb 2021",
+      "position": 7
+    },
+    {
+      "title": "EL IMPACTO DE LA INTELIGENCIA ARTIFICIAL EN LA PROTECCIÓN DE DATOS PERSONALES - World Compliance Association",
+      "link": "https://www.worldcomplianceassociation.com/2767/articulo-el-impacto-de-la-inteligencia-artificial-en-la-proteccin-de-datos-personales.html",
+      "snippet": "Cabe preguntarse lo siguiente: ¿Qué sucedería si una IA discrimina a un usuario en una decisión automatizada? Si bien los algoritmos son fórmulas ...",
+      "position": 8
+    },
+    {
+      "title": "Cyber seguridad se gestionará entre seres humanos y máquinas - El Diario de Honduras",
+      "link": "http://eldiariodehonduras.hn/index.php/component/content/article?id=728:hondurenos-con-un-futuro-prometedor-que-terminaron-tras-la-rejas",
+      "snippet": "El aprendizaje automatizado usa técnicas estadísticas y algoritmos ... y procesos de toma de decisiones para ser un contribuyente valioso.",
+      "date": "30 ago 2019",
+      "position": 9
+    }
+  ]
+}

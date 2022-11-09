@@ -1,0 +1,99 @@
+{
+  "searchParameters": {
+    "q": "Chile Algoritmo Algoritmos",
+    "gl": "cl",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Los 10 algoritmos chilenos con más proyección, según los inversionistas",
+      "link": "https://isci.cl/los-10-algoritmos-chilenos-con-mas-proyeccion-segun-los-inversionistas/",
+      "snippet": "En simple, cuando se busca en Google su algoritmo es el que ordena los ... Al respecto, el bioquímico chileno, fundador de Paxis Biotech y ...",
+      "date": "9 sept 2021",
+      "position": 1
+    },
+    {
+      "title": "Algoritmos Públicos - GobLab UAI",
+      "link": "https://www.algoritmospublicos.cl/",
+      "snippet": "Repositorio Algoritmos Públicos. Conoce los sistemas de decisiones automatizadas que usa el Estado de Chile. Buscar. Criterios ...",
+      "position": 2
+    },
+    {
+      "title": "¿Chile, a merced de los algoritmos? - Radio Universidad de Chile",
+      "link": "https://radio.uchile.cl/2021/12/16/chile-a-merced-de-los-algoritmos/",
+      "snippet": "Una ojeada rápida a las redes sociales nos muestra un nivel de odio, violencia y desinformación que habría aumentado enormemente en Chile, ...",
+      "date": "16 dic 2021",
+      "position": 3
+    },
+    {
+      "title": "Repositorio de Algoritmos Públicos: un nuevo espacio para visualizar los sistemas de decisión automatizada del Estado - GobLab UAI",
+      "link": "https://goblab.uai.cl/repositorio-de-algoritmos-publicos/",
+      "snippet": "¿Para qué sirven los sistemas automatizados de toma de decisiones en el sector público chileno? El sector público -tanto en Chile como a ...",
+      "date": "27 oct 2021",
+      "position": 4
+    },
+    {
+      "title": "Contáctanos - Algoritmos y Mediciones Ambientales SpA",
+      "link": "https://www.algoritmospa.com/contactanos/",
+      "snippet": "Chile Seminario Nº 180 - Santiago (56 2) 2361 6600. Perú Calle Deraín 136 Int. 201 - Lima (51 1) 224 8029. Panamá Edificio Los Toneles 16F - Vista Hermosa",
+      "position": 5
+    },
+    {
+      "title": "Algoritmos y Mediciones Ambientales SpA | Lideres en Medio Ambiente",
+      "link": "https://www.algoritmospa.com/",
+      "snippet": "Soluciones medio ambientales, apoyamos a nuestros clientes en el cumplimiento normativo ambiental. Contamos con certificación ETFA otorgada por la SMA.",
+      "position": 6
+    },
+    {
+      "title": "Algoritmo | educarchile",
+      "link": "https://www.educarchile.cl/etiquetas-de-recursos/algoritmo",
+      "snippet": "Esta actividad introduce el concepto de “optimización” de algoritmos y su relación con los intereses y preferencias de quienes los desarrollan.",
+      "position": 7
+    },
+    {
+      "title": "ASESORIAS ALGORITMOS LTDA. - AIC",
+      "link": "https://www.aic.cl/aesorias-algoritmos-ltda/",
+      "snippet": "Asesorías Algoritmos Limitada, ha participado en la realización de importantes estudios y proyectos en Chile y en países vecinos. A continuación se citan de ...",
+      "position": 8
+    },
+    {
+      "title": "Algoritmos con rasgos humanos - - CIPER Chile",
+      "link": "https://www.ciperchile.cl/2022/06/30/algoritmos-con-rasgos-humanos/",
+      "snippet": "La idea de que los computadores —o, para usar la jerga de nuestros días, la «inteligencia artificial»— sean más astutos, inteligentes y ...",
+      "date": "30 jun 2022",
+      "attributes": {
+        "Falta(n)": "Algoritmo | Debe incluir lo siguiente:Algoritmo"
+      },
+      "position": 9
+    },
+    {
+      "title": "¿Qué valor tienen los algoritmos para la ciencia en Chile y el mundo? - La Tercera",
+      "link": "https://www.latercera.com/que-pasa/noticia/algoritmos-ciencia-chile-mundo/1001255/",
+      "snippet": "Tu rutina de la mañana, antes de salir al trabajo califica también como un algoritmo. Los algoritmos, tienen como objetivo resolver algún ...",
+      "date": "6 feb 2020",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Algoritmo ambiental"
+    },
+    {
+      "query": "Algoritmos medio ambiente"
+    },
+    {
+      "query": "Transparencia algorítmica en el sector público"
+    },
+    {
+      "query": "GobLab UAI"
+    },
+    {
+      "query": "Escuela de gobierno UAI"
+    },
+    {
+      "query": "Golab uai"
+    }
+  ]
+}

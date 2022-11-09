@@ -1,0 +1,77 @@
+{
+  "searchParameters": {
+    "q": "Argentina Algoritmo Decisiones Automatizadas",
+    "gl": "ar",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "#Doctrina Un Algoritmo ¿te puede despedir en Argentina? - AL DÍA | ARGENTINA",
+      "link": "https://aldiaargentina.microjuris.com/2022/09/22/doctrina-un-algoritmo-te-puede-despedir-en-argentina/",
+      "snippet": "... donde nos preguntamos si un algoritmo te puede despedir y hasta qué nivel de decisiones automatizadas puede utilizar la inteligencia ...",
+      "date": "22 sept 2022",
+      "position": 1
+    },
+    {
+      "title": "Justicia automatizada, sí o no: cómo funciona el software que ya se usa en CABA - Perfil",
+      "link": "https://www.perfil.com/noticias/sociedad/justicia-automatizada-como-funciona-el-software-que-ya-se-usa-en-caba.phtml",
+      "snippet": "Cómo funcionan los algoritmos en la Justicia | Tatiana Pollero ... Se sabe poco del Poder Judicial en la Argentina, pero hay dos temas en ...",
+      "date": "30 sept 2020",
+      "position": 2
+    },
+    {
+      "title": "[PDF] protección de datos personales en perfilados y decisiones automatizadas en argentina - Repositorio Digital San Andrés",
+      "link": "https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18919/1/%5BP%5D%5BW%5D%20M.%20Ges%20Sirv%C3%A9n%2C%20Agustina.pdf",
+      "snippet": "operaciones de elaboración de perfiles y decisiones automatizadas para la ... algoritmo de calificación, que calcula el valor total que representa la ...",
+      "position": 3
+    },
+    {
+      "title": "Tonto el humano más cercano: cuando el algoritmo se equivoca, la culpa es tuya - EL PAÍS",
+      "link": "https://elpais.com/retina/2019/06/20/tendencias/1561022523_779671.html",
+      "snippet": "La responsabilidad de las decisiones automatizadas que acaban mal no suele atribuirse al sistema que ha fallado sino a la persona más ...",
+      "date": "21 jun 2019",
+      "position": 4
+    },
+    {
+      "title": "Inteligencia artificial y justicia: ¿solución o simple herramienta? - iProfesional",
+      "link": "https://www.iprofesional.com/legales/370265-inteligencia-artificial-y-justicia-solucion-o-herramienta",
+      "snippet": "Estos sistemas funcionan con la utilización de algoritmos, ... Para el caso de aplicarse decisiones automatizadas será necesario un doble ...",
+      "date": "28 sept 2022",
+      "position": 5
+    },
+    {
+      "title": "La no discriminación de algoritmos en el trabajo y desafíos de la Ley N°21.431",
+      "link": "https://abogados.com.ar/la-no-discriminacion-de-algoritmos-en-el-trabajo-y-desafios-de-la-ley-n21431/30555",
+      "snippet": "... por parte de los mecanismos automatizados en la toma de decisiones. Establece que, en la implementación de los algoritmos, la empresa de ...",
+      "date": "1 jun 2022",
+      "position": 6
+    },
+    {
+      "title": "Empresas y algoritmos, en Tiempo Argentino - Natalia Zuazo",
+      "link": "https://nataliazuazo.com/prensa/tenemos-derecho-a-que-estas-empresas-nos-expliquen-su-algoritmo/",
+      "snippet": "Que haya un derecho a la explicación, es nuevo. También en parte porque las decisiones son cada vez más automatizadas. Ante la automatización del mundo, ...",
+      "position": 7
+    },
+    {
+      "title": "[PDF] Datos y algoritmos para el desarrollo | Fundar",
+      "link": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Datos-y-algoritmos-para-el-desarrollo.pdf",
+      "snippet": "implementación de decisiones basadas en datos y algoritmos de análisis requiere un ... puede brindar a la Argentina la posibilidad de generar una oferta de ...",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Propuesta de Anteproyecto de Ley de Protección de Datos Personales Agencia de Acceso a la Información Pública Septiembre 2022",
+      "link": "https://www.argentina.gob.ar/sites/default/files/2022/09/propuesta_de_anteproyecto_de_ley_vf.pdf",
+      "snippet": "territorio de la REPÚBLICA ARGENTINA, aun cuando el tratamiento de datos tenga ... La existencia o no de decisiones automatizadas o semiautomatizadas, ...",
+      "position": 9
+    },
+    {
+      "title": "Una perspectiva de derechos para el Plan Nacional de Inteligencia Artificial",
+      "link": "https://adc.org.ar/2019/07/18/una-perspectiva-de-derechos-para-el-plan-nacional-de-inteligencia-artificial/",
+      "snippet": "Si los algoritmos presentan sesgos que refuerzan prejuicios sociales, ... La toma de decisiones automatizadas por parte de sistemas de IA ...",
+      "date": "18 jul 2019",
+      "position": 10
+    }
+  ]
+}

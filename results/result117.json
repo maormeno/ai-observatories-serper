@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Venezuela Observatorio Decisiones Automatizadas",
+    "gl": "ve",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPX3Ay_amvazz9ziDt3xlaX9AMfLe5-Xn8xpqzwEEDgAM5-UbbrFbXBp7HQ&s"
+  },
+  "organic": [
+    {
+      "title": "Datos sobre el nuevo sistema automatizado de votación - OEV - Observatorio Electoral Venezolano",
+      "link": "https://oevenezolano.org/2020/10/boletin-51-datos-sobre-el-nuevo-sistema-automatizado-de-votacion/",
+      "snippet": "Es una máquina diseñada en Venezuela por técnicos venezolanos. ... para contribuir a una toma de decisiones responsable e informada.",
+      "date": "15 oct 2020",
+      "position": 1
+    },
+    {
+      "title": "Boletín 91 | Que la falta de información no compita en las elecciones - Observatorio Electoral Venezolano (OEV)",
+      "link": "https://oevenezolano.org/2022/09/boletin-91-que-la-falta-de-informacion-no-compita-en-las-elecciones/",
+      "snippet": "Cuando la ONU conceptualiza esta jornada expresa que ciudadanos informados pueden tomar decisiones informadas, por ejemplo, cuando van a las ...",
+      "date": "27 sept 2022",
+      "position": 2
+    },
+    {
+      "title": "Política de privacidad - Observatorio de Ecología Política de Venezuela",
+      "link": "https://www.ecopoliticavenezuela.org/politica-privacidad/",
+      "snippet": "... de toma de decisiones automatizada y/o perfilado hacemos con los datos del usuario; Requerimientos regulatorios de revelación de información del sector.",
+      "position": 3
+    },
+    {
+      "title": "Decreto N° 8.899, mediante el cual se dicta el Decreto que crea el Observatorio Venezolano de Seguridad Ciudadana (OVS) : Gaceta 39897: 2012 - Texto",
+      "link": "https://tugacetaoficial.com/leyes/decreto-n-8-899-mediante-el-cual-se-dicta-el-decreto-que-crea-el-observatorio-venezolano-de-seguridad-ciudadana-ovs-gaceta-39897-2012-texto/",
+      "snippet": "El Observatorio Venezolano de Seguridad Ciudadana es el órgano encargado de ... procesar, analizar e integrar en un sistema automatizado de datos, ...",
+      "position": 4
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "Por ello, es necesario evaluar las implicaciones éticas que están asociadas con la ejecución de servicios digitales y decisiones automatizadas ...",
+      "date": "15 ago 2022",
+      "position": 5
+    },
+    {
+      "title": "[PDF] modelo de observatorio nacional para la gerencia eficiente del software libre en los organismos y de - SABER UCV",
+      "link": "http://saber.ucv.ve/bitstream/10872/19711/1/Tesis%20Maestria%20Mixaida%20Delgado.pdf",
+      "snippet": "universidad Central de Venezuela, para examinar el trabajo intitulado ... Los procesos tecnológicos y automatizados se han apoderado de gran parte de las.",
+      "position": 6
+    },
+    {
+      "title": "Un observatorio de ciencia, tecnología e innovación para venezuela",
+      "link": "http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1012-25082002000300005",
+      "snippet": "UN OBSERVATORIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA VENEZUELA ... para la toma de decisiones en las instituciones venezolanas vinculadas a la ciencia, ...",
+      "position": 7
+    },
+    {
+      "title": "Cartilla Democrática IV: Garantías Electorales al sistema de votación automatizado en Venezuela - Observatorio Global de Comunicación y Democracia",
+      "link": "https://www.observademocracia.org/cartilla-democratica-iv-auditorias-y-garantias-electorales-al-sistema-de-votacion/",
+      "snippet": "El uso de sistemas electorales automatizados en Venezuela se remonta a 1972, cuando el entonces ... La decisión de convertir los cargos de gobernadores, ...",
+      "position": 8
+    },
+    {
+      "title": "Expertos recomiendan a la oposición no descartar asistencia del CNE en primarias",
+      "link": "https://efectococuyo.com/politica/expertos-oposicion-no-descartar-asistencia-cne-primarias/",
+      "snippet": "Sistema automatizado, infraestructura y logística, ... señaló el director del Observatorio Electoral Venezolano (OEV), Ignacio Avalos.",
+      "date": "27 jul 2022",
+      "position": 9
+    }
+  ]
+}

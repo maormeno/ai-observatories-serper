@@ -1,0 +1,92 @@
+{
+  "searchParameters": {
+    "q": "El Salvador Observatorio Inteligencia Artificial",
+    "gl": "sv",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Implementación de inteligencia artificial en redes sociales",
+      "link": "https://oni.innovacion.gob.sv/project/implementacion-de-inteligencia-artificial-en-redes-sociales/",
+      "snippet": "Implementación de inteligencia artificial en redes sociales · Desarrollar capacidades productivas del sector artesanal para la mejora de la calidad e innovación ...",
+      "position": 1
+    },
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 2
+    },
+    {
+      "title": "El Salvador | Primer país de Centroamérica en implementar la Recomendación de inteligencia artificial",
+      "link": "https://dplnews.com/el-salvador-es-el-primer-pais-de-centroamerica-en-implementar-la-recomendacion-de-inteligencia-artificial/",
+      "snippet": "Unesco. Mediante oficio dirigido a la Sra. Gabriela Ramos, Directora General Adjunta para Ciencias Sociales y Humanas de UNESCO, ...",
+      "date": "19 ago 2022",
+      "attributes": {
+        "Falta(n)": "Observatorio | Debe incluir lo siguiente:Observatorio"
+      },
+      "position": 3
+    },
+    {
+      "title": "Seminario \"Inteligencia artificial y protección de datos en investigación e innovación en salud\" - YouTube",
+      "link": "https://youtube.com/watch?v=KAgCwPXGYMs",
+      "snippet": "Seminario \"Inteligencia artificial y protección de datos en ...",
+      "date": "21 sept 2022",
+      "attributes": {
+        "Duración": "2:31:42",
+        "Publicado": "21 sept 2022"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/KAgCwPXGYMs/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3nDYaAwO5RH38M9L4Q161CV10H2KA",
+      "position": 4
+    },
+    {
+      "title": "Ingeniería y Tecnología | Consejo Nacional de Ciencia y Tenologia - CONACYT El Salvador",
+      "link": "https://www.conacyt.gob.sv/?page_id=6168",
+      "snippet": "ciencia, tecnología e innovación, observatorio, becas. ... Investigación: “La Inteligencia Artificial en la toma de decisiones en grupo en contextos ...",
+      "position": 5
+    },
+    {
+      "title": "Retos del transhumanismo en el trabajo social Inteligencia Artificial vs Inteligencia Emocional - Universidad Pedagógica de El Salvador",
+      "link": "https://www.pedagogica.edu.sv/2022/06/20/retos-del-transhumanismo-en-el-trabajo-social/",
+      "snippet": "Observatorio Educativo UPED ... RETOS DEL TRANSHUMANISMO EN EL TRABAJO SOCIAL: Inteligencia Artificial VS Inteligencia Emocional.",
+      "date": "20 jun 2022",
+      "position": 6
+    },
+    {
+      "title": "Observatorio Educativo Trabajo Social archivos - Universidad Pedagógica de El Salvador",
+      "link": "http://www.pedagogica.edu.sv/category/observatorio-educativo/observatorio-educativo-trabajo-social/",
+      "snippet": "FACULTAD DE EDUCACIÓNInicio >RETOS DEL TRANSHUMANISMO EN EL TRABAJO SOCIAL: Inteligencia Artificial VS Inteligencia Emocional Trabajo ...",
+      "date": "20 jun 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3hdfqGv1yjZDPCAONw99jeGHsnKsKft3JeOawwrviFTSOkhM0dKCYK4&s",
+      "position": 7
+    },
+    {
+      "title": "El desarrollo de la ética de la Inteligencia Artificial (IA) a nivel de ciudades y municipios de Latinoamérica | CAF",
+      "link": "https://www.caf.com/es/actualidad/eventos/2022/11/el-desarrollo-de-la-etica-de-la-inteligencia-artificial-ia-a-nivel-de-ciudades-y-municipios-de-latinoamerica/",
+      "snippet": "A esto se une la apuesta ambiciosa que viene planteando el Municipio frente a la creación del primer Observatorio Municipal para el uso responsable de IA de ...",
+      "position": 8
+    },
+    {
+      "title": "Crecer y CASATIC buscan impulsar la empleabilidad mediante Observatorio de Empleo, Talento 4.0",
+      "link": "https://www.crecer.com.sv/web/crecer-y-casatic-buscan-impulsar-la-empleabilidad/",
+      "snippet": "... CASATIC están dando vida al primer Observatorio de Empleo de El Salvador, ... arquitectura 3D, analista y científico de datos, inteligencia artificial, ...",
+      "position": 9
+    },
+    {
+      "title": "Observatorio IA | Observatorio de Inteligencia Artificial",
+      "link": "https://observatorio-ia.com/",
+      "snippet": "La inteligencia artificial conversacional (AI), a menudo considerada como el punto de mira entre el procesamiento del lenguaje natural (NLP) y la comprensión ...",
+      "attributes": {
+        "Falta(n)": "Salvador | Debe incluir lo siguiente:Salvador"
+      },
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "fAIr LAC Jalisco"
+    }
+  ]
+}

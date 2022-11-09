@@ -1,0 +1,89 @@
+{
+  "searchParameters": {
+    "q": "Guatemala Algoritmo Algoritmos",
+    "gl": "gt",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos - UMG - StuDocu",
+      "link": "https://www.studocu.com/gt/course/universidad-mariano-galvez-de-guatemala/algoritmos/4793105",
+      "snippet": "Estudias Algoritmos en Universidad Mariano Gálvez de Guatemala? En StuDocu encontrarás 36 Practical, Lecture notes, Mandatory assignments, ...",
+      "position": 1
+    },
+    {
+      "title": "Algoritmo Solucion de Problema - Derecho Administrativo - URegional de Guatemala",
+      "link": "https://www.studocu.com/gt/document/universidad-regional-de-guatemala/derecho-administrativo/algoritmo-solucion-de-problema/19559293",
+      "snippet": "algoritmos resolucion y procedimientos de analisis mmmmmmmmmmmm mmmmmmmmmmmmmm algoritmos solución de problemas fundamentos de programación otoño 2008 mtro.",
+      "position": 2
+    },
+    {
+      "title": "[PDF] Universidad de San Carlos de Guatemala Facultad de Ingeniería Escuela de Ingeniería en Ciencias y Sistemas ELABORACIÓN DE PRO - Biblioteca USAC",
+      "link": "http://biblioteca.usac.edu.gt/tesis/08/08_0349_CS.pdf",
+      "snippet": "Realizar experimentos que permitan evaluar el comportamiento del algoritmo genético con distintos parámetros. HIPÓTESIS. Los algoritmos genéticos son útiles ...",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Universidad de San Carlos de Guatemala Facultad de Ingeniería Escuela de Ingeniería en Ciencias y Sistemas ENCONTRANDO FUNCION",
+      "link": "http://www.repositorio.usac.edu.gt/11204/1/Luis%20Mauricio%20D%C3%A9leon%20Barquero.pdf",
+      "snippet": "titulado \"Encontrando Funciones de Regresión utilizando Algoritmos Genéticos\" ... misma función matemática con las mismas variables de entrada al algoritmo.",
+      "position": 4
+    },
+    {
+      "title": "Universidad Galileo elabora algoritmos que apoyan la detección y el pronóstico de COVID-19",
+      "link": "https://www.galileo.edu/historias-de-exito/universidad-galileo-elabora-algoritmos-que-apoyan-la-deteccion-y-el-pronostico-de-covid-19/",
+      "snippet": "Con el objetivo de apoyar el diagnóstico y asesoramiento de casos de COVID-19, Universidad Galileo desarrolló un algoritmo que utiliza ...",
+      "date": "29 abr 2020",
+      "position": 5
+    },
+    {
+      "title": "ALGORITMOS. GUÍA ILUSTRADA PARA PROGRAMADORES Y CURIOSOS. BHARGAVA, ADITYA Y.. Libro en papel. 9788441540989",
+      "link": "https://tienda.sophosenlinea.com/libro/algoritmos-guia-ilustrada-para-programadores-y-curiosos_253420",
+      "snippet": "ALGORITMOS. GUÍA ILUSTRADA PARA PROGRAMADORES Y CURIOSOS, BHARGAVA, ADITYA Y., Q.275. Un algoritmo no es más que un procedimiento paso a paso para resolver ...",
+      "position": 6
+    },
+    {
+      "title": "Algoritmos también radicalizan a quienes los usan - Diario de Centro América",
+      "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/algoritmos-tambien-radicalizan-a-quienes-los-usan/",
+      "snippet": "Según datos del Centro de Estudios Folclóricos de la Universidad de San Carlos de Guatemala, la fabricación y vuelo de barriletes se inició ...",
+      "date": "30 mar 2022",
+      "position": 7
+    },
+    {
+      "title": "Propuesta de implementación de enseñanza de algoritmos y \"Programación sin computadora\" en el segundo ciclo de primaria en el sistema educativo guatemalteco. - UVG",
+      "link": "https://repositorio.uvg.edu.gt/handle/123456789/2961",
+      "snippet": "La herramienta fue aplicada en cinco instituciones educativas de la ciudad de Guatemala. Se observó que los alumnos que recibieron el tratamiento experimentaron ...",
+      "attributes": {
+        "Falta(n)": "Algoritmo | Debe incluir lo siguiente:Algoritmo"
+      },
+      "position": 8
+    },
+    {
+      "title": "¿Qué es un algoritmo? - CNB",
+      "link": "https://cnbguatemala.org/index.php?title=%C2%BFQu%C3%A9_es_un_algoritmo?&tour=estrellas",
+      "snippet": "Los algoritmos son la clave detrás de Google, Facebook, IOS, Waze y prácticamente todo lo que involucra computadores.",
+      "date": "31 ene 2017",
+      "attributes": {
+        "Competencia": "1. Aplica los conocimientos adquiridos en la resolución de problemas ..."
+      },
+      "position": 9
+    },
+    {
+      "title": "Un algoritmo para deducir cómo sería un mensaje extraterrestre - elPeriódico de Guatemala",
+      "link": "https://elperiodico.com.gt/sociedad/ciencia-tec/2022/04/08/un-algoritmo-para-deducir-como-seria-un-mensaje-extraterrestre/",
+      "snippet": "Dado que aún no hemos detectado una señal de radio SETI, debemos hacer suposiciones sobre su forma para desarrollar algoritmos de búsqueda.",
+      "date": "8 abr 2022",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Algoritmos UMG"
+    },
+    {
+      "query": "Usando PSeInt"
+    }
+  ]
+}

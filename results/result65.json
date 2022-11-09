@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "El Salvador Algoritmo Algoritmos",
+    "gl": "sv",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS868yhNTcXvSOE2z-EsqYJljQ5yVlDozec9JnMD2HkgDGpLtWCCelv_WaAmbo&s"
+  },
+  "organic": [
+    {
+      "title": "Álgebra local y algoritmos - Repositorio Institucional de la Universidad de El Salvador",
+      "link": "https://ri.ues.edu.sv/id/eprint/13910/",
+      "snippet": "Ruiz Mejía, Mario Alexis (2017) Álgebra local y algoritmos. ... explicando en un ejemplo particular cómo se aplica el algoritmo formulado.",
+      "date": "25 jul 2017",
+      "position": 1
+    },
+    {
+      "title": "Algoritmos - ALG-1 - UTEC - StuDocu",
+      "link": "https://www.studocu.com/pt/course/universidad-tecnologica-de-el-salvador/algoritmos/5173837",
+      "snippet": "Estudias Algoritmos ALG-1 en Universidad Tecnológica de El Salvador? En StuDocu encontrarás Mandatory assignments, Practical, Lecture notes, Summaries, ...",
+      "position": 2
+    },
+    {
+      "title": "Algoritmo - Diario El Salvador",
+      "link": "https://diarioelsalvador.com/etiqueta/algoritmo/",
+      "snippet": "Etiqueta: Algoritmo · China busca reglamentar los algoritmos ante la falta de transparencia de los gigantes tecnológicos · La tecnología de reconocimiento facial ...",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAxCNk1F9T1gMJxDmyselgkOUitVxSlpxpl6FnoiETwSKQ3hWxQmxJkQ&s",
+      "position": 3
+    },
+    {
+      "title": "[PDF] ALGORITMOS ALTERNATIVOS PARA LA SIMPLIFICACION DE FUNCIONE EA AS ALrrERNATIVE ALGORITHMS TO SIMP E",
+      "link": "https://ri.ufg.edu.sv/jspui/bitstream/11592/8407/1/Algoritmos%20alternativos%20para%20la%20simplificaci%C3%B3n%20de%20funciones%20booleanas.pdf",
+      "snippet": "Año S, NQ 13, San Salvador, El Salvador, Centro América ... de implementar una serie de algoritmos ... algoritmo basado en Reed Muller que.",
+      "position": 4
+    },
+    {
+      "title": "Informe de validación de algoritmo diagnóstico de sífilis utilizando pruebas rápidas: El Salvador 2012 - IRIS PAHO Home",
+      "link": "https://iris.paho.org/handle/10665.2/54632?show=full",
+      "snippet": "Una de estas estrategias es el de diseñar e implementar algoritmos diagnósticos, que provean una respuesta oportuna y de calidad a todas ...",
+      "date": "9 ago 2021",
+      "position": 5
+    },
+    {
+      "title": "Standout Skills - El Salvador - Un algoritmo es un plan, un proceso lógico de pasos para ...",
+      "link": "https://d.facebook.com/standoutskills/photos/a.878665868945002/1857242241087355/?type=3&source=48",
+      "snippet": "¿Para qué aprender algoritmos? Los algoritmos proveen un alta estimulación intelectual. Guían tu proceso de pensamiento para resolver problemas, son retadores.",
+      "position": 6
+    },
+    {
+      "title": "Algoritmos guia 3.pdf - UNIVERSIDAD DE EL SALVADOR FACULTAD... - Course Hero",
+      "link": "https://www.coursehero.com/file/92276619/Algoritmos-guia-3pdf/",
+      "snippet": "Contiene el promedio de losparciales.Algoritmo narrado (Pseudocódigo):1.Inicio2.Definir notaPar1, notaPar2, notaPar3, Proyectos, Foros, notaFinal Como Real.3.",
+      "position": 7
+    },
+    {
+      "title": "Diplomado en Diseño Avanzado de Algoritmos - TECH El Salvador",
+      "link": "https://www.techtitute.com/sv/informatica/diplomado/diseno-avanzado-algoritmos",
+      "snippet": "Capacítate en el Diseño Avanzado de Algoritmos a través de este posgrado de ... diplomado diseno avanzado algoritmos ... curso diseno avanzado algoritmo.",
+      "position": 8
+    },
+    {
+      "title": "Seguridad y criptografía - Blog TECH El Salvador Universidad Tecnológica",
+      "link": "https://www.techtitute.com/sv/informatica/blog/seguridad-criptografia",
+      "snippet": "Existe una gran variedad de algoritmos de consenso casi tantos como soluciones blockchain. La elección del algoritmo de consenso a utilizar en un blockchain ...",
+      "position": 9
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "searchParameters": {
+    "q": "Brasil Observatorio Algoritmos",
+    "gl": "br",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Quem controla os algoritmos - Relatório Reservado",
+      "link": "https://relatorioreservado.com.br/observatorio/quem-controla-os-algoritmos/",
+      "snippet": "Algoritmos · BBC Brasil · Inteligência Artificial. Observatório. Por Rogério Gatto, cientista da computação e especialista em arquitetura de software.",
+      "position": 1
+    },
+    {
+      "title": "Os algoritmos, a desinformação e a ameaça à democracia - Observatório da Imprensa",
+      "link": "https://www.observatoriodaimprensa.com.br/desinformacao/os-algoritmos-a-desinformacao-e-a-ameaca-a-democracia/",
+      "snippet": "Para entender melhor o uso dos algoritmos de inteligência artificial ... N.D.M – Você acha que o Brasil está mais preparado que em 2018 para ...",
+      "date": "17 ago 2022",
+      "position": 2
+    },
+    {
+      "title": "CNI lança base de dados para aumentar produtividade e competitividade do setor industrial",
+      "link": "https://www.cnnbrasil.com.br/business/cni-lanca-base-de-dados-para-aumentar-produtividade-e-competitividade-do-setor-industrial/",
+      "snippet": "Segundo o presidente da CNI, Robson Braga de Andrade, o observatório trabalha com inteligência artificial e algoritmos capazes de coletar ...",
+      "date": "20 oct 2022",
+      "position": 3
+    },
+    {
+      "title": "Algoritmos - Evidências Covid 19",
+      "link": "http://evidenciascovid19.ibict.br/index.php/tag/algoritmos/",
+      "snippet": "Observatório de Evidências Científicas Covid-19 ... Portal do Governo Brasileiro ... Os princípios do algoritmo foram: segurança dos profissionais e do ...",
+      "position": 4
+    },
+    {
+      "title": "Algoritmos: como funcionam e seu impacto nos negócios - Sebrae SC",
+      "link": "https://www.sebrae-sc.com.br/observatorio/relatorio-de-inteligencia/algoritmos-como-funcionam-e-seu-impacto-nos-negocios",
+      "snippet": "Os algoritmos são tecnologias que vêm contribuindo consideravelmente ... Observatório de negócios ... O que são algoritmos e como funcionam; ...",
+      "date": "3 ago 2022",
+      "position": 5
+    },
+    {
+      "title": "Projeto: Observatório Obstétrico Brasileiro - Laboratório de Data Science - DasLab - UFES",
+      "link": "https://daslab-ufes.github.io/projetos/",
+      "snippet": "Dentro desse contexto, o Portal Brasileiro de Dados Abertos (PBDA) é a ferramenta ... com a assistência de algoritmos de aprendizado de máquina (do inglês, ...",
+      "position": 6
+    },
+    {
+      "title": "Algoritmo une planetas e construção civil — Português (Brasil) - Governo Federal",
+      "link": "https://www.gov.br/capes/pt-br/assuntos/noticias/algoritmo-une-planetas-e-construcao-civil",
+      "snippet": "Com bolsa da CAPES foi para o Observatório de Genebra, na Suíça, ... Trabalhei como engenheiro de software e desenvolvi algoritmos para ...",
+      "date": "19 oct 2022",
+      "position": 7
+    },
+    {
+      "title": "Tecnopopulismo: a influência dos algoritmos na política | CiênciAção – Observatório Interdisciplinar de Divulgação Científica e Cultural - Sites da Unipampa",
+      "link": "https://sites.unipampa.edu.br/cienciacao/2020/10/15/tecnopopulismo-a-influencia-dos-algoritmos-na-politica/",
+      "snippet": "No Brasil, a eleição presidencial de 2018 passou também pelo modo como foi utilizado o aplicativo WhatsApp (MELLO, 2020), com denúncias de ...",
+      "date": "15 oct 2020",
+      "position": 8
+    },
+    {
+      "title": "algoritmos - noomis - Febraban",
+      "link": "https://noomis.febraban.org.br/tag/algoritmos",
+      "snippet": "Observatório Febraban mostra que metade das pessoas vê falta de democracia online e considera a internet no Brasil ainda restrita a uma parcela da população.",
+      "position": 9
+    },
+    {
+      "title": "Jurisprudência | Observatório do Marco Civil da Internet",
+      "link": "https://www.omci.org.br/jurisprudencia/algoritmos/",
+      "snippet": "... \"Trata-se de Ação Civil Pública ajuizada pelo MINISTÉRIO PÚBLICO FEDERAL em face de FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA. em que objetiva a concessão ...",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Site jornalismo"
+    },
+    {
+      "query": "O que é Observatório de Imprensa"
+    },
+    {
+      "query": "Notícias da imprensa"
+    }
+  ]
+}

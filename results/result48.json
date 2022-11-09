@@ -1,0 +1,85 @@
+{
+  "searchParameters": {
+    "q": "Costa Rica Algoritmo Decisiones Automatizadas",
+    "gl": "cr",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Gestión y protección legal de algoritmos en inteligencia artificial para la gestión responsable de datos médicos y la predicción de riesgos de COVID-19 - Delfino.cr",
+      "link": "https://delfino.cr/2022/05/gestion-y-proteccion-legal-de-algoritmos-en-inteligencia-artificial-como-medida-de-enfoque-en-la-gestion-responsable-de-datos-medicos-podria-ser-la-ruta-para-brindar-seguridad-en-los-objetivos-de-pred",
+      "snippet": "Predicción de severidad clínica en pacientes de Costa Rica con Sars-Cov-2 utilizando inteligencia artificial.",
+      "date": "26 may 2022",
+      "position": 1
+    },
+    {
+      "title": "Académicos plantan cara a los retos de la inteligencia artificial - Universidad de Costa Rica",
+      "link": "https://www.ucr.ac.cr/noticias/2022/10/25/academicos-plantan-cara-a-los-retos-de-la-inteligencia-artificial.html",
+      "snippet": "Tenemos el peligro de que tomen unas decisiones que no son correctas y hay que saber orientar a los algoritmos para que no tengan sesgos que ...",
+      "date": "25 oct 2022",
+      "position": 2
+    },
+    {
+      "title": "¿Cómo tomar mejores decisiones con ayuda de algoritmos? | Software ERP",
+      "link": "https://softland.cr/blog/noticias/como-tomar-mejores-decisiones-con-ayuda-de-algoritmos/",
+      "snippet": "La Aurora de Heredia, Costa Rica. Tel: +506 2509-3800 800-SOFTLAND (800-7638-526) Email: informes@softland.cr.",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 3
+    },
+    {
+      "title": "Sistemas de apoyo en la toma de decisiones gratis - Capterra Costa Rica 2022",
+      "link": "https://www.capterra.co.cr/directory/30544/decision-support/pricing/free/software",
+      "snippet": "Qlik Sense es una plataforma de inteligencia empresarial y analíticas visuales que ayuda a las empresas globales a actuar más rápido y trabajar de manera más ...",
+      "position": 4
+    },
+    {
+      "title": "No base todas sus decisiones solo en lo que le dicen los algoritmos - El Financiero",
+      "link": "https://www.elfinancierocr.com/gerencia/todas-decisiones-solo-dicen-algoritmos_0_1123087688.html",
+      "snippet": "Algunos analistas afirman que las decisiones automáticas adoptadas a partir de fórmulas matemáticas permiten \"acciones más rápidas, ...",
+      "date": "17 feb 2017",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Modelo integrado para la toma de decisiones en procesos naturales por medio de Internet de las Cosas - Repositorio TEC",
+      "link": "https://repositoriotec.tec.ac.cr/bitstream/handle/2238/10618/modelo_integrado_toma_decisiones_procesos.pdf?sequence=1",
+      "snippet": "Tecnológico de Costa Rica se acepta la tesis presentada por la candidata a ... automatizada especıficamente para la toma de decisiones.",
+      "date": "25 mar 2019",
+      "position": 6
+    },
+    {
+      "title": "Líderes necesitan entender sus algoritmos - PressReader",
+      "link": "https://www.pressreader.com/costa-rica/el-financiero-costa-rica/20200111/281629602210911",
+      "snippet": "El Financiero (Costa Rica) ... Los algoritmos de aprendizaje automatizado suelen ser conocidos como cajas negras, porque se asemejan a un ...",
+      "date": "11 ene 2020",
+      "position": 7
+    },
+    {
+      "title": "¡En Vivo! Conversatorio: Inteligencia Artificial, algoritmos en la Administración Pública, UPAD, SINIRUBE, protección de datos en la Unión Europea - Facebook",
+      "link": "https://facebook.com/ColAbogadoscr/videos/en-vivo-conversatorio-inteligencia-artificial-algoritmos-en-la-administraci%C3%B3n-p%C3%BA/500175941408077/",
+      "snippet": "By Colegio de Abogados y Abogadas de Costa Rica ...",
+      "date": "18 may 2021",
+      "attributes": {
+        "Duración": "2:43:48",
+        "Publicado": "18 may 2021"
+      },
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDjLxYDef_b1Y5brcli5019tOcKZOgTgU0KwILLcr5kDofz2qyKjngicU",
+      "position": 8
+    },
+    {
+      "title": "Legislación, retos y tendencias del Derecho Digital en Costa Rica para el año 2022",
+      "link": "https://golegalcr.com/derecho-digital-en-costa-rica-para-el-ano-2022/",
+      "snippet": "... especialmente aquella que utiliza algoritmos de decisiones automatizadas y que puedan vulnerar derechos fundamentales de los ciudadanos.",
+      "position": 9
+    },
+    {
+      "title": "[PDF] ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA COMISIÓN PERMANENTE ORDINARIA DE ASUNTOS ECONÓMICOS REFORMA INTEGRAL A LA - cloudfront.net",
+      "link": "https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2022/03/Dictamen_22388DICTAMEN-AFIRMATIVO-UNANIME.pdf",
+      "snippet": "mercado de datos personales y buscando acercar a Costa Rica a las mejores ... utilicen algoritmos para la toma de decisiones automatizada, ...",
+      "position": 10
+    }
+  ]
+}

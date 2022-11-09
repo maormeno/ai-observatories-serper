@@ -1,0 +1,103 @@
+{
+  "searchParameters": {
+    "q": "Colombia Algoritmo Algoritmos",
+    "gl": "co",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Colombia necesita una fábrica nacional de algoritmos",
+      "link": "https://cambiocolombia.com/articulo/tecnologia/colombia-necesita-una-fabrica-nacional-de-algoritmos",
+      "snippet": "La economía colombiana está en mora de decidir si el país será eterno ... Pero también un algoritmo ayudó a los científicos a identificar el ...",
+      "date": "13 mar 2022",
+      "position": 1
+    },
+    {
+      "title": "[PDF] UNIVERSIDAD NACIONAL DE COLOMBIA ALGORITMOS ESTRUCTURADOS",
+      "link": "https://repositorio.unal.edu.co/bitstream/handle/unal/60145/9589532322.pdf?sequence=1&isAllowed=y",
+      "snippet": "7- Elaborar xina algoritmo para calcular el neto a pagar a un empleado de una compañía, en donde se conoce el valor pagado por cada día trabajado y el número de ...",
+      "position": 2
+    },
+    {
+      "title": "Construcción del algoritmo de la suma - Colombia Aprende",
+      "link": "http://www.colombiaaprende.edu.co/contenidos-para-aprender/construccion-del-algoritmo-de-la-suma",
+      "snippet": "Construcción del algoritmo de la suma. Nivel: BÁSICA PRIMARIA; Grado: Grado Primero; Asignatura: Matemáticas. Creditos Derechos de autor.",
+      "date": "1 ago 2016",
+      "position": 3
+    },
+    {
+      "title": "Estudiantes en Colombia desarrollan algoritmo para identificar un tipo de leucemia",
+      "link": "https://www.infobae.com/america/tecno/2022/07/01/estudiantes-en-colombia-desarrollan-algoritmo-para-identificar-un-tipo-de-leucemia/",
+      "snippet": "Este proyecto fue desarrollado con la colaboración de “Arkangel Ai”, una compañía desarrolladora de algoritmos de inteligencia artificial ...",
+      "date": "1 jul 2022",
+      "position": 4
+    },
+    {
+      "title": "¿Qué es el algoritmo? - Caracol Radio",
+      "link": "https://caracol.com.co/programa/2021/05/18/a_vivir_que_son_dos_dias/1621304530_401120.html",
+      "snippet": "El experto en tecnología Wilson Vega nos explica de qué se trata esta palabra tecnológica de moda. · Algoritmos computacionales · Computación ...",
+      "date": "17 may 2021",
+      "position": 5
+    },
+    {
+      "title": "Los algoritmos de las redes lo conocen más de lo que cree, así funcionan - El Colombiano",
+      "link": "https://elcolombiano.com/tecnologia/como-funcionan-los-algoritmos-de-las-redes-sociales-HG14473703",
+      "snippet": "Sin entrar en paranoia, quizá el algoritmo de Spotify puede sugerirle una canción que se ajuste más a su gusto de lo que lo haría un amigo.",
+      "date": "20 ene 2021",
+      "position": 6
+    },
+    {
+      "title": "Los algoritmos saben más de usted que usted mismo - El Colombiano",
+      "link": "https://elcolombiano.com/tecnologia/algoritmos-y-redes-sociales-AK17846723",
+      "snippet": "¿Quién manipula a quién? En palabras sencillas, la definición de algoritmo significa pasos estructurados para cumplir una tarea, como si fuera ...",
+      "date": "21 jun 2022",
+      "position": 7
+    },
+    {
+      "title": "Así funcionan los misteriosos algoritmos de las redes sociales usados en el día a día",
+      "link": "https://www.larepublica.co/empresas/asi-funcionan-los-misteriosos-algoritmos-de-las-redes-sociales-usados-en-el-dia-a-dia-3405119",
+      "snippet": "En el día a día mandan la parada en la red y determinan el modelo de negocio de las compañías. Andrés Mateo Lozano Guzmán. Un algoritmo brinda ...",
+      "date": "16 jul 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKkwwxInnKRNaQElX9od1C0yAGmWKNJ5sMjvac3TJdfRYPu8NqGkhY49I&s",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Manuales/Guías MG22 Administración y gestión de algoritmos de negociación - AMV Colombia",
+      "link": "https://www.amvcolombia.org.co/wp-content/uploads/2018/08/Manual-gu%C3%ADa-algoritmos-de-negociaci%C3%B3n-en-valores.pdf",
+      "snippet": "La crisis tuvo origen en el desbalance que ocasionó un algoritmo de baja frecuencia que fue programado para vender 75.000 contratos de futuros E ...",
+      "date": "2 ago 2018",
+      "position": 9
+    },
+    {
+      "title": "Algoritmos, inteligencia artificial y derecho de la competencia - YouTube",
+      "link": "https://youtube.com/watch?v=hi0d9GInu_0",
+      "snippet": "Universidad Externado de Colombia.",
+      "date": "23 oct 2020",
+      "attributes": {
+        "Duración": "1:38:39",
+        "Publicado": "23 oct 2020"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/hi0d9GInu_0/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3mNeOxbdKEnsCeyn_QOd1ezv8Cfyg",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Cambio Colombia"
+    },
+    {
+      "query": "La resta Colombia aprende"
+    },
+    {
+      "query": "Diagrama de flujo"
+    },
+    {
+      "query": "Algoritmo informática"
+    },
+    {
+      "query": "Algoritmo ejemplos"
+    }
+  ]
+}

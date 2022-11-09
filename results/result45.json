@@ -1,0 +1,85 @@
+{
+  "searchParameters": {
+    "q": "Costa Rica Observatorio Decisiones Automatizadas",
+    "gl": "cr",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Nace el Observatorio Sociojurídico de la Justicia y las Políticas Públicas",
+      "link": "https://www.ucr.ac.cr/noticias/2019/11/26/nace-el-observatorio-sociojuridico-de-la-justicia-y-las-politicas-publicas.html",
+      "snippet": "La iniciativa quiere evidenciar ocurrencias, malas decisiones e ... Jurídicas de la Universidad de Costa Rica presentaron el pasado 25 de ...",
+      "date": "26 nov 2019",
+      "position": 1
+    },
+    {
+      "title": "Costa Rica cuenta con observatorio para la educación inclusiva",
+      "link": "https://www.ucr.ac.cr/noticias/2022/07/21/costa-rica-cuenta-con-observatorio-para-la-educacion-inclusiva.html",
+      "snippet": "El Observatorio Nacional de la Educación Inclusiva de Costa Rica (ONEI) se ... contribuir con información precisa en la toma de decisiones ...",
+      "date": "21 jul 2022",
+      "position": 2
+    },
+    {
+      "title": "Poder Judicial participó en intercambio de experiencias de observatorios de la actividad del poder público en Latinoamérica",
+      "link": "https://pj.poder-judicial.go.cr/index.php/prensa/821-poder-judicial-participo-en-intercambio-de-experiencias-de-observatorios-de-la-actividad-del-poder-publico-en-latinoamerica",
+      "snippet": "Se expuso sobre la plataforma “Observatorio Judicial”. Una actividad que permitió al Poder Judicial de Costa Rica dar a conocer la herramienta ...",
+      "date": "5 oct 2022",
+      "position": 3
+    },
+    {
+      "title": "Política de privacidad – Observatorio de compras Costa Rica",
+      "link": "https://www.observatoriocomprapublica.go.cr/politica-privacidad/",
+      "snippet": "Qué tipo de toma de decisiones automatizada y/o perfilado hacemos con los datos del usuario. Requerimientos regulatorios de revelación de información del ...",
+      "position": 4
+    },
+    {
+      "title": "Costa Rica - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/costa-rica/",
+      "snippet": "Muestra de ello ha sido la reciente decisión de la ... Costa Rica introduce reformas a su Reglamento de Protección de Datos Personales.",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 5
+    },
+    {
+      "title": "Retos del ente regulador en Protección de Datos Personales: perspectivas desde la experiencia en Costa Rica",
+      "link": "https://oiprodat.com/2014/10/24/retos-del-ente-regulador-en-proteccion-de-datos-personales-perspectivas-desde-la-experiencia-en-costa-rica/",
+      "snippet": "Costa Rica no escapa de esta realidad, tal es el caso de los ... al tratamiento automatizado o manual de los datos correspondientes a su ...",
+      "date": "24 oct 2014",
+      "position": 6
+    },
+    {
+      "title": "SIVEI - Ministerio de Salud",
+      "link": "https://www.ministeriodesalud.go.cr/index.php/sistemas-de-informacion/1289-sivei",
+      "snippet": "Ministerio de Salud Digital Costa Rica ... necesarias y de ahí hacia la toma de decisiones que se requiera en los diferentes niveles de gestión. Legislación.",
+      "position": 7
+    },
+    {
+      "title": "Vista de La ciencia de datos como insumo en la toma de decisiones de la política pública costarricense en el marco de la pandemia por Covid 19",
+      "link": "https://ojs.icap.ac.cr/index.php/RCAP/article/view/377/773",
+      "snippet": "The use of data science to deal with Covid 19 in Costa Rica has ... automatizados para identificar patrones y tomar decisiones con una ...",
+      "date": "10 nov 2021",
+      "position": 8
+    },
+    {
+      "title": "PIACT-CEMEDE-UNA-Plataforma Interactiva de Aplicaci  n de Clima Tropical",
+      "link": "https://piact.cenat.ac.cr/",
+      "snippet": "... públicas de Costa Rica. PIACT opera desde el Observatorio Climático del CeNAT y es una herramienta tecnológica al servicio de la toma decisiones de los ...",
+      "position": 9
+    },
+    {
+      "title": "Ciclo de conferencias: Lecciones aprendidas a dos años del Covid-19 en Costa Rica. | By Centro de Investigación Observatorio del Desarrollo, CIOdD",
+      "link": "https://facebook.com/CIOdD.UCR/videos/ciclo-de-conferencias-lecciones-aprendidas-a-dos-a%C3%B1os-del-covid-19-en-costa-rica/1270610266769471/?locale=ne_NP",
+      "snippet": "abstencionismo. जुन २३ तारिक १५:०५ बजे · ३.४ हजार पटक हेरियो. Aileen Fields र अन्य २५ जना.",
+      "date": "3 mar 2022",
+      "attributes": {
+        "Duración": "37:28",
+        "Publicado": "3 mar 2022"
+      },
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsIClErQhyGPZK_7EhBIY1ZrUOBr5fbGWhsu-iaIqhMpRgL6ZHYEA0VFXq",
+      "position": 10
+    }
+  ]
+}

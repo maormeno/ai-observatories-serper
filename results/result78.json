@@ -1,0 +1,104 @@
+{
+  "searchParameters": {
+    "q": "Haiti Algoritmo Decisiones Automatizadas",
+    "gl": "ht",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "Qué son los algoritmos \"de caja negra\" y por qué se han convertido en un misterio urgente por resolver - BBC News Mundo",
+      "link": "https://www.bbc.com/mundo/noticias-45574011",
+      "snippet": "Las decisiones que toman los algoritmos afectan a nuestra vida diaria. ... que las decisiones gubernamentales se vuelven más automatizadas.",
+      "date": "19 sept 2018",
+      "position": 1
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 2
+    },
+    {
+      "title": "Los superjuguetes duran todo el verano - ISDI",
+      "link": "https://www.isdi.education/es/blog/relaciones-laborales-algoritmos-inteligencia-artificial",
+      "snippet": "Así pues, considerando la normativa laboral y la de protección de datos, el uso de los algoritmos y de la I.A, las decisiones automatizadas ...",
+      "date": "5 may 2022",
+      "position": 3
+    },
+    {
+      "title": "Algoritmos, sesgos y discriminación en su uso: A propósito de recientes sentencias sobre el tema | Centro Interamericano de Administraciones Tributarias",
+      "link": "https://www.ciat.org/ciatblog-algoritmos-sesgos-y-discriminacion-en-su-uso-a-proposito-de-recientes-sentencias-sobre-el-tema/",
+      "snippet": "Hoy vivimos en un mundo cada vez más automatizado donde los algoritmos[1] son utilizados para la toma de decisiones basadas en sistemas de ...",
+      "date": "8 feb 2021",
+      "position": 4
+    },
+    {
+      "title": "[PDF] algoritmos inteligentes para la imposición de medidas de aseguramiento en colombia. - Universidad Militar Nueva Granada",
+      "link": "https://repository.unimilitar.edu.co/bitstream/handle/10654/40374/Ordo%C3%B1ezOrdo%C3%B1ezLizethVanessa2021_Presentacion.pdf?sequence=1&isAllowed=y",
+      "snippet": "La inteligencia artificial y los algoritmos predictivos. ... apoyo a decisiones automatizadas en la prevención de riesgos, realizando una evaluación de ...",
+      "position": 5
+    },
+    {
+      "title": "Automatización de trades a través de algoritmos - Bloomberg.com",
+      "link": "https://www.bloomberg.com/latam/automation/",
+      "snippet": "Genere reglas que faciliten la negociación totalmente automatizada. Tome una orden y conviértala en un trade en poco más de un segundo con cero clics. Panorama ...",
+      "position": 6
+    },
+    {
+      "title": "Cuando el algoritmo discrimina - Esglobal",
+      "link": "https://www.esglobal.org/cuando-el-algoritmo-discrimina/",
+      "snippet": "En primer lugar, la toma de decisiones automatizada (o ADM) no debe confundirse con la Inteligencia Artificial. La IA es una tecnología y, como ...",
+      "date": "28 abr 2021",
+      "position": 7
+    },
+    {
+      "title": "¿Existen restricciones en el uso de las decisiones automatizadas? | Comisión Europea",
+      "link": "https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/dealing-citizens/are-there-restrictions-use-automated-decision-making_es",
+      "snippet": "Respuesta. Sí, las personas no deberán ser objeto de una decisión basada únicamente en el tratamiento automatizado (como algoritmos) y que sea jurídicamente ...",
+      "attributes": {
+        "Falta(n)": "Haiti | Debe incluir lo siguiente:Haiti"
+      },
+      "position": 8
+    },
+    {
+      "title": "Riesgos de la Inteligencia Artificial - Protección Data",
+      "link": "https://protecciondata.es/riesgos-inteligencia-artificial/",
+      "snippet": "Ese algoritmo se calcula a partir de diferentes datos, como la ratio de ... En tales casos, se autoriza la decisión automatizada si el interesado dio su ...",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Algoritmo mental"
+    },
+    {
+      "query": "Sesgo de los algoritmos"
+    },
+    {
+      "query": "Algoritmos discriminatorios"
+    },
+    {
+      "query": "5 algoritmos"
+    },
+    {
+      "query": "La mente de Norman"
+    },
+    {
+      "query": "Inteligencia artificial y sesgos de género"
+    },
+    {
+      "query": "Inteligencia artificial psicópata"
+    },
+    {
+      "query": "Ejemplos de algoritmos financieros"
+    }
+  ]
+}

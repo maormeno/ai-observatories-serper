@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Paraguay Algoritmo Algoritmos",
+    "gl": "py",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhBgTYAmJzi4GkQVdN8xR6V6Z6bsobQN9pksDbSlbqGM6N_JC9A2s0tnca0Vk&s"
+  },
+  "organic": [
+    {
+      "title": "Profesores y clases de Algoritmos y estructuras de datos en Paraguay",
+      "link": "https://www.quieroestudiar.com.py/anunciantes?materia=177",
+      "snippet": "Clases particulares de algoritmos, matemáticas y física para alumnos ... Enseña: Matemática, Física, Programación orientada a objetos, Algoritmo, ...",
+      "position": 1
+    },
+    {
+      "title": "Profesores y clases de Algoritmo en Paraguay",
+      "link": "https://www.quieroestudiar.com.py/anunciantes?materia=164",
+      "snippet": "Curso de Programación y Excel. Clases particulares de algoritmos, matemáticas y física para alumnos universitarios, cursillistas, de colegios y escuelas. Enseña ...",
+      "position": 2
+    },
+    {
+      "title": "[PDF] NORMAS DE ALGORITMOS CRIPTOGRÁFICOS DE LA PKI-Paraguay - Dirección General de Firma Digital y Comercio Electrónico",
+      "link": "https://www.acraiz.gov.py/adjunt/DOC-PKI/DOC-PKI-06%20Versi%C3%B3n%202.0.pdf",
+      "snippet": "Normas de Algoritmos. Criptográficos. PKI-Paraguay. Anexo I de la. Resolución Nº. 579/2020. Algoritmo y tamaño de clave. 3DES – 112 bits.",
+      "date": "30 sept 2020",
+      "position": 3
+    },
+    {
+      "title": "[PDF] (PINV18-949) Diseño y análisis experimental de algoritmos evolutivos basados en descomposición del espacio objetivo para prob",
+      "link": "https://datos.conacyt.gov.py/proyectos/pdf/2203",
+      "snippet": "Proveer a la comunidad de un algoritmo evolutivo para la optimización con muchos objetivos capaz de encontrar mejores aproximaciones al conjunto de soluciones.",
+      "position": 4
+    },
+    {
+      "title": "VAVI Algoritmos - San Lorenzo, Paraguay - Yellow.Place",
+      "link": "https://yellow.place/es/vavi-algoritmos-san-lorenzo-paraguay",
+      "snippet": "Enfocado en la informática un programa es un algoritmo interpretado y utilizado por un computador para la resolución de problemas. El curso esta ...",
+      "date": "10 ago 2022",
+      "position": 5
+    },
+    {
+      "title": "Grupo de Investigación Algoritmo y Optimización - A y O - Facultad Politécnica",
+      "link": "https://www.pol.una.py/investigacion/grupos-de-investigacion/algoritmo-y-optimizacion-a-y-o/",
+      "snippet": "Campus, San Lorenzo – Paraguay. Teléfono (+595-21) 588 7000 – C.C. 2111. Políticas de Privacidad; Cookies; Feedback; Mapa del Sitio.",
+      "position": 6
+    },
+    {
+      "title": "[PDF] Algoritmos Evolutivos Multiobjetivo Combinados para la Optimización de la Programación de Bombeo en Sistemas de Suministro de Agua - CNC",
+      "link": "https://www.cnc.una.py/publicaciones/1_53.pdf",
+      "snippet": "Campus Universitario de San Lorenzo – Paraguay ... métodos con un algoritmo heurístico de factibilización que corrige las soluciones no factibles obtenidas ...",
+      "position": 7
+    },
+    {
+      "title": "Algoritmos y estructuras de datos. - Ediciones Técnicas Paraguayas",
+      "link": "https://www.etp.com.py/libro/algoritmos-y-estructuras-de-datos-32842.html",
+      "snippet": "Autor: Joyanes Aguilar, Zahonero Martínez. ISBN: 844814077X. Editorial: McGraw-Hill. Edición: 1. Páginas: 655. Formato: 25x19.5. Cant. tomos: 1. Año: 2004.",
+      "attributes": {
+        "Falta(n)": "Algoritmo | Debe incluir lo siguiente:Algoritmo"
+      },
+      "position": 8
+    },
+    {
+      "title": "Inteligencia artificial: la nueva forma de conseguir empleo en Paraguay",
+      "link": "https://www.iadb.org/es/mejorandovidas/algoritmos-que-te-consiguen-empleo-en-paraguay",
+      "snippet": "Te imaginas que un algoritmo sea quien te encuentre el empleo de tus ... los datos de ocupación y empleo mediante algoritmos de aprendizaje ...",
+      "date": "3 abr 2018",
+      "position": 9
+    }
+  ]
+}

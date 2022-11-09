@@ -1,0 +1,94 @@
+{
+  "searchParameters": {
+    "q": "Bolivia Algoritmo Algoritmos",
+    "gl": "bo",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0Gx7aekSnpKHYKRWHJiB7C_3TSVSnMv2F7H_afjmQEIZsQ69HVaC4Nm6&s"
+  },
+  "organic": [
+    {
+      "title": "Diseño de algoritmo de búsqueda aproximada en lenguas indígenas originarias campesinas - Repositorio UMSA",
+      "link": "https://repositorio.umsa.bo/handle/123456789/7704",
+      "snippet": "En Bolivia existen lenguas indígenas originarias campesinas con alfabetos no estándar y por ello para poder realizar búsqueda aproximada en diccionarios de ...",
+      "position": 1
+    },
+    {
+      "title": "Educa Bolivia: Quinto de Primaria - Razonamiento de algoritmos con fracciones - YouTube",
+      "link": "https://youtube.com/watch?v=lNvMQpIID5w",
+      "snippet": "EducaBolivia #QuintodePrimaria #RazonamientoNivel ✍️ 5to ...",
+      "date": "19 oct 2021",
+      "attributes": {
+        "Duración": "13:51",
+        "Publicado": "19 oct 2021"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/lNvMQpIID5w/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3lvRtZfAsCjWTEBJNqcyqS0ulJb9A",
+      "position": 2
+    },
+    {
+      "title": "Algoritmos con fracciones heterogéneas - YouTube",
+      "link": "https://youtube.com/watch?v=Bn8bLVwbt14",
+      "snippet": "Canal Educativo Bolivia ... Comunitaria Vocacional Tema ...",
+      "date": "27 abr 2022",
+      "attributes": {
+        "Duración": "14:17",
+        "Publicado": "27 abr 2022"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/Bn8bLVwbt14/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3mx2xtEfDtEzbfbRWWkcMp7YD37Gw",
+      "position": 3
+    },
+    {
+      "title": "Aproximaciones sobre algoritmos, su cuestionable empleo y sus proyecciones admisibles como reto del estado constitucional - SciELO Bolivia",
+      "link": "http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2413-28102020000100004",
+      "snippet": "Algoritmo, Predicción, Etica, Utilidad, Constitución. Abstract. Every day, algorithms and the world of the Internet in people's daily life are more and more ...",
+      "position": 4
+    },
+    {
+      "title": "Algoritmos Machine Learning (ML): Predicción de casos COVID-19 en Bolivia - REDIB",
+      "link": "https://redib.org/Record/oai_articulo3484173-algoritmos-machine-learning-ml-predicci%C3%B3n-de-casos-covid-19-en-bolivia",
+      "snippet": "Algoritmos Machine Learning (ML): Predicción de casos COVID-19 en Bolivia ... por otra parte el algoritmo PROPHET se comporta de manera regular, ...",
+      "position": 5
+    },
+    {
+      "title": "Algoritmo Módulo 11 - Siat - Impuestos Nacionales",
+      "link": "https://siatinfo.impuestos.gob.bo/index.php/facturacion-en-linea/algoritmos-utilizados/algoritmo-modulo-11",
+      "snippet": "La cadena de entrada al algoritmo es la concatenación del nit, sucursal, fecha, modalidad, tipo emisión, tipo documento, número factura. Algoritmo Modulo 11 ( ...",
+      "position": 6
+    },
+    {
+      "title": "Comparación del algoritmo nuevo con el algoritmo convencional para diagnóstico de VIH en Bolivia - Redalyc",
+      "link": "https://www.redalyc.org/journal/535/53568432007/html/",
+      "snippet": "En Bolivia, el algoritmo diagnóstico convencional para VIH utiliza como prueba ... de las muestras de acuerdo con ambos algoritmos y la carga viral.",
+      "attributes": {
+        "Especificidad": "100%",
+        "Sensibilidad": "96,3%"
+      },
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfbsJCEH5y40KhD9DU0EIWAELgeyQVaWamKoez9XrfduQM-9RBbHpuLE&s",
+      "position": 7
+    },
+    {
+      "title": "Algoritmos | By De La Union Bolivia Japón - Facebook",
+      "link": "https://facebook.com/delaunionboliviajapon/videos/algoritmos/197733461010367/",
+      "snippet": "Algoritmos. 󰤥 · 󰤦 · 󰤧. More from De La Union Bolivia Japón. 05 ...",
+      "date": "17 abr 2018",
+      "attributes": {
+        "Duración": "3:24",
+        "Publicado": "17 abr 2018"
+      },
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHQDodkSd4qMCjqq7wqgbeAfG1FNOdO2dmU1ZCZACgSKQZWitYUHLRhQWT",
+      "position": 8
+    },
+    {
+      "title": "Los algoritmos y los valores | Ventana Científica - DICYT UAJMS",
+      "link": "https://dicyt.uajms.edu.bo/revistas/index.php/ventana-cientifica/article/view/24",
+      "snippet": "Algoritmos, Axiología, Valor, Valoración ... se partió del siguiente problema: ¿Cuándo un algoritmo es bueno o malo? ... Tarija - Bolivia ...",
+      "date": "9 dic 2021",
+      "position": 9
+    }
+  ]
+}

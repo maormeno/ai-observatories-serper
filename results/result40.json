@@ -1,0 +1,88 @@
+{
+  "searchParameters": {
+    "q": "Bolivia Algoritmo Inteligencia Artificial",
+    "gl": "bo",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "7 ejemplos del uso de la inteligencia artificial en las empresas. | Lenovo Tech Today Bolivia",
+      "link": "https://techtoday.lenovo.com/bo/es/solutions/smb/inteligencia-artificial-empresas",
+      "snippet": "El juego implica un razonamiento lógico puro y siempre se utiliza para demostrar la capacidad de aprendizaje de nuevas tecnologías y algoritmos de inteligencia ...",
+      "position": 1
+    },
+    {
+      "title": "Inteligencia artificial - La Razón | Noticias de Bolivia y el Mundo",
+      "link": "https://www.la-razon.com/voces/2022/06/20/inteligencia-artificial/",
+      "snippet": "Uno de los límites de la IA es que sus algoritmos no pueden realizar los ajustes necesarios para determinar la justicia de una situación. Es un ...",
+      "date": "20 jun 2022",
+      "position": 2
+    },
+    {
+      "title": "Experto en robótica e inteligencia artificial: \"En Bolivia falta modernizar el conocimiento\"",
+      "link": "https://www.noticiasfides.com/cultura-y-farandula/experto-en-robotica-e-inteligencia-artificial-34en-bolivia-falta-modernizar-el-conocimiento-34-401142",
+      "snippet": "El especialista boliviano que trabaja desarrollando algoritmos inteligentes de control de movimiento para convertir máquinas electromecánicas y ...",
+      "date": "28 sept 2019",
+      "position": 3
+    },
+    {
+      "title": "Inteligencia Artificial | SEIDOR Bolivia",
+      "link": "https://www.seidor.com/es-bo/soluciones/inteligencia-artificial",
+      "snippet": "La disponibilidad de enormes conjuntos de datos para entrenar a los sistemas, los avances en el desarrollo de algoritmos y las mejoras en la Inteligencia ...",
+      "position": 4
+    },
+    {
+      "title": "La inteligencia artificial en tu negocio - TecnoPymes Bolivia",
+      "link": "https://tecnopymes.bo/2022/04/06/la-inteligencia-artificial-en-tu-negocio/",
+      "snippet": "La Inteligencia Artificial (IA) de Huawei puede ayudarte a mejorar tu ... lugar de recurrir a la compra de algoritmos por parte de terceros.",
+      "date": "6 abr 2022",
+      "position": 5
+    },
+    {
+      "title": "Aplicación de la inteligencia artificial a la resolución del problema de asignación de estudiantes del departamento de PDI - SciELO Bolivia",
+      "link": "http://www.scielo.org.bo/scielo.php?pid=S1683-07892006000200010&script=sci_arttext",
+      "snippet": "Muchos problemas de este tipo pertenecen a una clase de problemas que presenta una enorme dificultad a los desarrolladores de algoritmos. Las técnicas descritas ...",
+      "position": 6
+    },
+    {
+      "title": "Morales inaugura moderno sistema que desarrolla inteligencia artificial para combatir inseguridad en Bolivia - Ministerio de la Presidencia",
+      "link": "https://presidencia.gob.bo/index.php/prensa/noticias/793-morales-inaugura-moderno-sistema-que-desarrolla-inteligencia-artificial-para-combatir-inseguridad-en-bolivia",
+      "snippet": "De igual manera afirmó que tiene cámaras de reconocimiento facial, que funcionan a través de un algoritmo de inteligencia artificial que permite ...",
+      "date": "20 ago 2019",
+      "position": 7
+    },
+    {
+      "title": "Estrategia de inteligencia artificial - Bolivia por Gissel Velarde, PhD",
+      "link": "https://gvelarde.com/blog/estrategia_de_IA_Bolivia.html",
+      "snippet": "¿Por qué una estrategia 4.0 de inteligencia artificial (IA) es una magnífica oportunidad para Bolivia durante la cuarta revolución industrial?",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rVHabX_GOiFjDPoUoOzA-8IEBLw-y9cG786dkHPCUwe3RY6KfM8R5TI&s",
+      "position": 8
+    },
+    {
+      "title": "Desafíos de la inteligencia artificial en la administración pública de Bolivia — Guardiana",
+      "link": "https://guardiana.com.bo/opinion/desafios-de-la-inteligencia-artificial-en-la-administracion-publica-de-bolivia/",
+      "snippet": "El óptimo funcionamiento de la IA dependerá siempre de la calidad de la conectividad y el diseño de sus algoritmos.",
+      "date": "23 sept 2020",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Empresas de inteligencia artificial en Argentina"
+    },
+    {
+      "query": "Noticias de hoy 20 de junio 2022 Bolivia"
+    },
+    {
+      "query": "Noticias del 21 de junio 2022 Bolivia"
+    },
+    {
+      "query": "Noticias de junio 2022 Bolivia"
+    },
+    {
+      "query": "Noticias 20 de junio 2022"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "searchParameters": {
+    "q": "Panama Algoritmo Decisiones Automatizadas",
+    "gl": "pa",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlpbysUP15Y7yOUiX5XHcqR8_AqhkX-PsO0nhuFxewNdXufA6-BZLKKZs0A&s"
+  },
+  "organic": [
+    {
+      "title": "Algoritmos, activos intangibles claves en la industria financiera - ElCapitalFinanciero.com",
+      "link": "https://elcapitalfinanciero.com/algoritmos-activos-intangibles-claves-en-la-industria-financiera/",
+      "snippet": "En el ámbito del asesoramiento financiero crece la integración de herramientas automáticas para ayudar al cliente en su toma de decisiones ...",
+      "date": "13 mar 2017",
+      "position": 1
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 2
+    },
+    {
+      "title": "(PDF) Decisiones Automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos. | Adrián Palma Ortigosa - Academia.edu",
+      "link": "https://www.academia.edu/38774845/Decisiones_Automatizadas_en_el_RGPD_El_uso_de_algoritmos_en_el_contexto_de_la_protecci%C3%B3n_de_datos",
+      "snippet": "PALABRAS CLAVE: Big data, decisiones automatizadas, inteligencia artificial, evaluación de perfiles, derecho de explicación. Abstract: In this paper is ...",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoJRJHGOp1z7KztmPKGJjeJOh2qDpqhO3oyYiKB-iFKYDkrlhIqCKvUM&s",
+      "position": 3
+    },
+    {
+      "title": "Vista de Aprendizaje automático aplicado al análisis de sentimientos | I+D Tecnológico",
+      "link": "https://revistas.utp.ac.pa/index.php/id-tecnologico/article/view/2833/3975",
+      "snippet": "En este documento, se propone la utilización de técnicas de algoritmos ... Para [6] las opiniones son una parte importante en las decisiones del ser humano, ...",
+      "position": 4
+    },
+    {
+      "title": "1000minds - Opiniones, precios y características - Capterra Panamá 2022",
+      "link": "https://www.capterra.com.pa/software/160817/1000minds-decision-making",
+      "snippet": "1000Minds Decision Making es un paquete de herramientas y procesos en ... Basado en el algoritmo PAPRIKA, 1000Minds sirve para la toma de decisiones de ...",
+      "rating": 5,
+      "ratingCount": 9,
+      "position": 5
+    },
+    {
+      "title": "[PDF] DISEÑO E IMPLEMENTACIÓN DE ALGORITMO PARA LA ASIGNACIÓN DE ESTACIONES DE TRABAJO CON METODOLOGIA DE TARJETAS CON GEL PARA PRU - Revistas Ulatina",
+      "link": "https://revistas.ulatina.edu.pa/index.php/genteclave/article/download/94/112/",
+      "snippet": "la Escuela de Ingeniería Biomédica de la Universidad Latina de Panamá ... Algoritmos para apoyar a la toma de decisiones en salud.",
+      "position": 6
+    },
+    {
+      "title": "Flujos de trabajo en las Salas de Control - Panama 24 Horas",
+      "link": "https://www.panama24horas.com.pa/tecnologia/flujos-de-trabajo-en-las-salas-de-control/",
+      "snippet": "4- Toma de decisiones distribuida: Cuando es momento de realizar ... del flujo de trabajo automatizado: Los algoritmos inteligentes, ...",
+      "date": "25 ago 2021",
+      "position": 7
+    },
+    {
+      "title": "[PDF] Decisiones administrativas automatizadas en materia social: algoritmos en la gestión de la Seguridad Social y en el procedimien - Revistas UC3M",
+      "link": "https://e-revistas.uc3m.es/index.php/LABOS/article/download/6215/4546",
+      "snippet": "Palabras clave: decisiones automatizadas, actuaciones administrativas ... issa.int/html/10/images/ISSA-Report-Panama-2016-es.pdf (consulta 18 marzo 2021).",
+      "position": 8
+    },
+    {
+      "title": "Twitter descarta algoritmo de corte de imágenes por diferencias sobre minorías",
+      "link": "https://destinopanama.com.pa/2021/05/19/twitter-descarta-algoritmo-de-corte-de-imagenes-por-diferencias-sobre-minorias/",
+      "snippet": "Twitter aseguró que estaba descartando un sistema automatizado de recorte ... las decisiones de corte de imágenes en manos de los usuarios.",
+      "date": "19 may 2021",
+      "position": 9
+    }
+  ]
+}

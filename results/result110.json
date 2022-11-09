@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Republica Dominicana Observatorio Algoritmos",
+    "gl": "do",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "El imperio de los algoritmos y el internet de las cosas - República Dominicana - Oficina Nacional de Estadística",
+      "link": "https://osicrd.one.gob.do/index.php?option=com_zoo&task=item&item_id=1993&Itemid=194",
+      "snippet": "El uso de algoritmos en nuestras actividades tiene varias consecuencias ... El presidente del Instituto Dominicano de las Telecomunicaciones ...",
+      "date": "13 ago 2014",
+      "position": 1
+    },
+    {
+      "title": "El imperio de los algoritmos y el internet de las cosas - República Dominicana - Oficina Nacional de Estadística",
+      "link": "https://osicrd.one.gob.do/index.php?option=com_zoo&task=item&item_id=1994&Itemid=194",
+      "snippet": "La minería de datos es esencial en el imperio de los algoritmos. ... El presidente del Instituto Dominicano de las Telecomunicaciones ...",
+      "date": "13 ago 2014",
+      "position": 2
+    },
+    {
+      "title": "¿Cómo operará la IA en la empresa? - Observatorio Nacional de Logística y Transporte de Carga - INTEC",
+      "link": "https://onltrd.org.do/2019/09/como-operara-la-ia-en-la-empresa/",
+      "snippet": "“Estamos en un punto de inflexión en este momento”, indica Anita Schjoll, CEO de Iris.IA. “De repente, todos estos datos, estos algoritmos y ...",
+      "date": "30 sept 2019",
+      "position": 3
+    },
+    {
+      "title": "Observatorio de Políticas Sociales y Desarrollo Archivos - DominicanaSolidaria.org",
+      "link": "https://www.dominicanasolidaria.org/etiqueta/observatorio-de-politicas-sociales-y-desarrollo/",
+      "snippet": "C/Santomé 123, Distrito Nacional, R.D.. Síguenos. © 2016 - Fundación Dominicana Solidaria | Platorma web desarrollada ...",
+      "position": 4
+    },
+    {
+      "title": "Inteligencia artificial y algoritmos prejuiciados - Acento",
+      "link": "https://acento.com.do/opinion/inteligencia-artificial-y-algoritmos-prejuiciados-9110997.html",
+      "snippet": "No soy una experta en inteligencia artificial, pero si algo he concluido es que no es perfecta. Incluso no programándose para discriminar, ...",
+      "date": "26 sept 2022",
+      "position": 5
+    },
+    {
+      "title": "República Dominicana - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/republica-dominicana/",
+      "snippet": "Por Daniel A. López Carballo Según se hacían eco diferentes medios de comunicación, la semana pasada el Senado de la República Dominicana acogía en única ...",
+      "position": 6
+    },
+    {
+      "title": "Entrenamientos : Mejoras en servidores Web y Estándares Abiertos en Rep. Dominicana «",
+      "link": "https://isoc.do/entrenamientos-mejoras-en-servidores-web-y-estandares-abiertos-en-rep-dominicana/",
+      "snippet": "Orden de algoritmos de cifrado. Para establecer el orden preferido debe contratarse el servicio empresarial de CloudFlare, o tener su propio servidor web.",
+      "position": 7
+    },
+    {
+      "title": "Diseño e implementación de plataforma de escaneo y monitoreo de indicadores de ciberseguridad para República Dominicana (Ciber-Observatorio Dominicano)",
+      "link": "https://programafrida.net/archivos/project/diseno-e-implementacion-de-plataforma-de-escaneo-y-monitoreo-de-indicadores-de-ciberseguridad-para-republica-dominicana-ciber-observatorio-dominicano",
+      "snippet": "de Internet en la República Dominicana. En este sentido se recolectó, almacenó, procesó y se ... optimización del algoritmo de escaneo para dificultar la",
+      "position": 8
+    },
+    {
+      "title": "Funglode y el IGLOBAL ofrecieron conferencia sobre las “Implicaciones éticas y sociales de la Inteligencia Artificial\".",
+      "link": "https://funglode.org/funglode-y-el-iglobal-ofrecieron-conferencia-sobre-las-implicaciones-eticas-y-sociales-de-la-inteligencia-artificial/",
+      "snippet": "La actividad, que se desarrolló el miércoles 15, en Funglode, ... El presidente de Funglode y expresidente de la República Dominicana, ...",
+      "date": "21 jun 2022",
+      "position": 9
+    },
+    {
+      "title": "Discurso del Dr. Leonel Fernández ante la OEA en las redes sociales e Internet - Observatorio Político Dominicano",
+      "link": "https://www.opd.org.do/index.php/434-articulos-populares/1822-discurso-del-dr-leonel-fernandez-ante-la-oea-en-las-redes-sociales-e-internet",
+      "snippet": "Tomando como referencia los datos del algoritmo de la empresa TrendinaliaTM,que mide el posicionamiento y cambio de los tópicos de tendencia en Twitter, ...",
+      "position": 10
+    }
+  ]
+}

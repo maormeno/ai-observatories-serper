@@ -1,0 +1,103 @@
+{
+  "searchParameters": {
+    "q": "Mexico Observatorio Algoritmos",
+    "gl": "mx",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLaVrspmnydIa4arVAXbFe_fW7EMaQmBYIiuHKxouTA1Ci_CVGx5M4wCufQ&s"
+  },
+  "organic": [
+    {
+      "title": "La era de los algoritmos — Observatorio | Instituto para el Futuro de la Educación",
+      "link": "https://observatorio.tec.mx/edu-news/la-era-de-los-algoritmos",
+      "snippet": "El algoritmo tiene una entrada de la instrucción y la salida. Y si se juntan estas instrucciones con inteligencia artificial, las máquinas ...",
+      "date": "23 nov 2020",
+      "position": 1
+    },
+    {
+      "title": "algoritmos — Edu News — Observatorio | Instituto para el Futuro de la Educación",
+      "link": "https://observatorio.tec.mx/edu-news/tag/algoritmos",
+      "snippet": "Los algoritmos están presentes en nuestro día a día pero, ¿sabemos qué son y cómo funcionan? Read More. AddThis Sharing Buttons.",
+      "date": "23 nov 2020",
+      "position": 2
+    },
+    {
+      "title": "El Gobierno prepara mecanismos para medir el impacto social de los algoritmos - EL PAÍS",
+      "link": "https://elpais.com/tecnologia/2021-07-22/el-gobierno-prepara-mecanismos-para-medir-el-impacto-social-de-los-algoritmos.html",
+      "snippet": "Dependiente a su vez del Observatorio Nacional de Tecnología y Sociedad (Ontsi), esta entidad será la encargada de desarrollar los indicadores ...",
+      "date": "22 jul 2021",
+      "position": 3
+    },
+    {
+      "title": "INVESTIGADOR DE LA UNAM DESARROLLA ALGORITMO QUE BUSCA PRONOSTICAR SISMOS",
+      "link": "https://unamglobal.unam.mx/investigador-de-la-unam-desarrolla-algoritmo-que-busca-pronosticar-sismos/",
+      "snippet": "... es una herramienta fundamental para analizar grandes cantidades de datos, entre ellos los de sismos registrados en México y el mundo.",
+      "date": "7 sept 2022",
+      "position": 4
+    },
+    {
+      "title": "Estos algoritmos ya deciden si te dan la condicional o si tu denuncia es falsa: Eticas lanza un buscador para conocer las IA que ya inciden en tu vida diaria - Business Insider España",
+      "link": "https://www.businessinsider.es/estos-son-algoritmos-deciden-vida-diaria-944501",
+      "snippet": "Eticas ha lanzado el Observatorio de Impacto Social de Algoritmos, OASI por sus siglas en inglés: en él aparecen ya algoritmos que están ...",
+      "date": "7 oct 2021",
+      "position": 5
+    },
+    {
+      "title": "Desinformación alimentaria, discriminación a mujeres e hipervigilancia gubernamental: todo lo que destapa un observatorio de algoritmos en su último informe",
+      "link": "https://www.businessinsider.es/te-perjudican-estos-113-algoritmos-dia-dia-eticas-1123999",
+      "snippet": "El Observatorio de Algoritmos de Impacto Social de Eticas lanza su primer informe anual, en el que destapan cómo te afectan hasta 113 ...",
+      "date": "13 sept 2022",
+      "position": 6
+    },
+    {
+      "title": "Home | fAIrLAC",
+      "link": "https://fairlac.iadb.org/",
+      "snippet": "La mayor alianza regional para un uso ético y responsable de la tecnología. fAIr LAC es un alianza entre los sectores público y privado, la sociedad civil y ...",
+      "position": 7
+    },
+    {
+      "title": "Destripando algoritmos: un buscador para conocer qué hay detrás de las decisiones de Google, Facebook o Netflix - El Español",
+      "link": "https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/espana/20211008/destripando-algoritmos-buscador-decisiones-google-facebook-netflix/616938814_0.html",
+      "snippet": "Eticas Foundation lanza un observatorio para dar al usuario la información disponible sobre quién los usa, quién los crea o qué amenazas ...",
+      "date": "8 oct 2021",
+      "position": 8
+    },
+    {
+      "title": "Datos, algoritmos y políticas: la redefinición del mundo digital | Publicación - CEPAL",
+      "link": "https://www.cepal.org/es/publicaciones/43477-datos-algoritmos-politicas-la-redefinicion-mundo-digital",
+      "snippet": "En este libro se analizan la Internet de las cosas, las cadenas de bloques y la inteligencia artificial, y su potencial transformador. Se estudian dos elementos ...",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Algoritmo matemático"
+    },
+    {
+      "query": "Algoritmo en redes sociales"
+    },
+    {
+      "query": "Partes de un algoritmo"
+    },
+    {
+      "query": "Algoritmos y diagramas de flujo"
+    },
+    {
+      "query": "10 ejemplos de algoritmos en informática"
+    },
+    {
+      "query": "Algoritmo de TikTok"
+    },
+    {
+      "query": "Tipos de algoritmos ejemplos"
+    },
+    {
+      "query": "Concepto y características de algoritmos"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "searchParameters": {
+    "q": "Uruguay Algoritmo Decisiones Automatizadas",
+    "gl": "uy",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Guía para el estudio de Impacto Algorítmico | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/guia-para-estudio-impacto-algoritmico",
+      "snippet": "... los sistemas automatizados de apoyo a la toma de decisiones. ... En este sentido, los algoritmos de inteligencia artificial (IA) ...",
+      "date": "18 nov 2020",
+      "position": 1
+    },
+    {
+      "title": "Contenidos | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/listado-por-filtro?form_build_id=form-BfJZNvmZUWat7uNYc0JCpFQJDuNEtaK-kZEnvokLlE0&form_id=vote_form&page=337",
+      "snippet": "Origen de los datos del sistema de decisión automatizado 1. ... Sobre el algoritmo ¿El proceso algorítmico será difícil de interpretar o explicar? o Sí o No ...",
+      "position": 2
+    },
+    {
+      "title": "Empresas y Derecho: Uso de algoritmos en el ámbito laboral – Diario El Telégrafo",
+      "link": "https://www.eltelegrafo.com/2022/10/empresas-y-derecho-uso-de-algoritmos-en-el-ambito-laboral/",
+      "snippet": "A su vez, un sistema de decisión automatizada es un proceso automatizado mediante el uso de datos y algoritmos para optimizar la toma de una ...",
+      "date": "11 oct 2022",
+      "position": 3
+    },
+    {
+      "title": "Inteligencia artificial: el desarrollo no será automatizado | la diaria | Uruguay",
+      "link": "https://ladiaria.com.uy/opinion/articulo/2019/6/inteligencia-artificial-el-desarrollo-no-sera-automatizado/",
+      "snippet": "Todos estos procesos pueden hoy –al menos en teoría– ser explorados a través del desarrollo de algoritmos que pueden aprender, clasificar y ...",
+      "date": "22 jun 2019",
+      "position": 4
+    },
+    {
+      "title": "Artículos sobre el Futuro del Trabajo, Formación, Algoritmos, inteligencia artificial, Trabajadores - Fundación Electra",
+      "link": "https://fundacionelectra.org.uy/2021/06/22/articulos-sobre-el-futuro-del-trabajo-formacion-algoritmos-inteligencia-artificial-trabajadores/",
+      "snippet": "La ley obliga a informar sobre decisiones automatizadas en las condiciones de empleo. La ley rider es conocida por haber otorgado la ...",
+      "date": "22 jun 2021",
+      "position": 5
+    },
+    {
+      "title": "Artículos, publicaciones, columnas de opinión - Fundación Electra",
+      "link": "https://fundacionelectra.org.uy/2019/12/26/articulos-publicaciones-columnas-de-opinion/",
+      "snippet": "asociados a un algoritmo/inteligencia artificial dirigiendo el trabajo. ... del trabajo derivada de las decisiones tomadas por una máquina ...",
+      "date": "26 dic 2019",
+      "position": 6
+    },
+    {
+      "title": "Cómo los algoritmos dominan (secretamente) el mundo - Portal 180",
+      "link": "https://www.180.com.uy/articulo/66743_como-los-algoritmos-dominan-secretamente-el-mundo%E2%80%8B",
+      "snippet": "Decisiones automáticas adoptadas a partir de fórmulas matemáticas permiten \"acciones más rápidas, más eficaces para los consumidores, ...",
+      "date": "11 feb 2017",
+      "position": 7
+    },
+    {
+      "title": "Universidad de La República, Uruguay - Understanding Data: Praxis and Politics",
+      "link": "https://datapraxis.net/chapter-uruguay/",
+      "snippet": "... algoritmos y discutiremos cuestiones como la opacidad y el sesgo en los algoritmos, así como las regulaciones para la toma de decisiones automatizadas y ...",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Medicina personalizada, algoritmos predictivos y utilización de sistemas de decisión automatizados en asistencia sanitaria. - El Diario Medico",
+      "link": "https://www.eldiariomedico.com.uy/pdf/Medicina%20Personalizada.pdf",
+      "snippet": "Entre ellos, la posibilidad o no de autorizar decisiones automatizadas o las necesidades de información a los pacientes; problemas relacionados con el diseño y ...",
+      "attributes": {
+        "Falta(n)": "Uruguay | Debe incluir lo siguiente:Uruguay"
+      },
+      "position": 9
+    },
+    {
+      "title": "Curso: Datos, sociedad y política: Un acercamiento crítico a los datos – Departamento de Apoyo Técnico Académico - Universidad de la República | Covid 19",
+      "link": "https://proeva.udelar.edu.uy/datos-sociedad-y-politica-un-acercamiento-critico-a-los-datos/",
+      "snippet": "... y los gobiernos se basan cada vez más en datos y algoritmos ... para la toma de decisiones automatizadas y el análisis predictivo que se ...",
+      "date": "3 mar 2021",
+      "position": 10
+    }
+  ]
+}

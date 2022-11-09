@@ -1,0 +1,108 @@
+{
+  "searchParameters": {
+    "q": "El Salvador Observatorio Algoritmos",
+    "gl": "sv",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLaVrspmnydIa4arVAXbFe_fW7EMaQmBYIiuHKxouTA1Ci_CVGx5M4wCufQ&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio Legislativo - El Diario de Hoy - - tracoda",
+      "link": "http://tracoda.info/observatorio-legislativo-el-diario-de-hoy",
+      "snippet": "Algoritmos de web scraping para descargar dictámenes votados en pleno legislativo, listados de cada votación por dictamen votado, ...",
+      "date": "8 sept 2017",
+      "position": 1
+    },
+    {
+      "title": "Documentos nacionales y regionales - Observatorio COVID-19",
+      "link": "https://observatoriocovid19.sv/biblioteca.html",
+      "snippet": "10, Situación coronavirus El Salvador 14/03/20, Descargar ... 42, Algoritmos interinos para la atención del COVID-19, Descargar.",
+      "position": 2
+    },
+    {
+      "title": "El Salvador - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/tag/el-salvador/",
+      "snippet": "Etiqueta: El Salvador ... Nueva Ley de Delitos Informáticos de El Salvador ... protección de datos, algoritmos y biometría, ¿una nueva retórica?",
+      "position": 3
+    },
+    {
+      "title": ":: DGOA - Dirección General del Observatorio de Amenazas",
+      "link": "https://www.snet.gob.sv/",
+      "snippet": "Sitio web del Observatorio de Amenazas del Ministerio de Medio Ambiente de El Salvador.",
+      "attributes": {
+        "Falta(n)": "Algoritmos | Debe incluir lo siguiente:Algoritmos"
+      },
+      "position": 4
+    },
+    {
+      "title": "Repositorios y registros públicos de algoritmos",
+      "link": "https://forogpp.com/inteligencia-artificial-y-sector-publico/repositorios-y-registros-de-algoritmos/",
+      "snippet": "Chile 1.1 “Algoritmos públicos” – UAI Naturaleza de repositorio: Privado, ... 10.1 Observatorio de Algoritmos con Impacto Social – OASI (eticas foundation).",
+      "position": 5
+    },
+    {
+      "title": "Msc. Walter Campos habla sobre el algorítmo de Markov-Monte Carlo | CMM",
+      "link": "http://cimat.ues.edu.sv/cmm/node/50",
+      "snippet": "... El Salvador · FUDECEN · Novel Coronavirus · Observatorio COVID19 ... Msc. Walter Campos habla sobre el algorítmo de Markov-Monte Carlo.",
+      "date": "19 may 2020",
+      "position": 6
+    },
+    {
+      "title": "Retos del transhumanismo en el trabajo social Inteligencia Artificial vs Inteligencia Emocional - Universidad Pedagógica de El Salvador",
+      "link": "https://www.pedagogica.edu.sv/2022/06/20/retos-del-transhumanismo-en-el-trabajo-social/",
+      "snippet": "Observatorio Educativo UPED ... nueva metodología de intervención basada en algoritmos sociales y con el uso de la Inteligencia Artificial, ...",
+      "date": "20 jun 2022",
+      "position": 7
+    },
+    {
+      "title": "Un observatorio para vigilar algoritmos con impacto social - Newtral",
+      "link": "https://www.newtral.es/observatorio-para-vigilar-algoritmos-con-impacto-social/20211020/",
+      "snippet": "Un observatorio de algoritmos nace de la mano de una consultora que tiene como objetivo vigilar los algoritmos que tienen impacto social.",
+      "date": "20 oct 2021",
+      "attributes": {
+        "Falta(n)": "Salvador | Debe incluir lo siguiente:Salvador"
+      },
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJYtsG-2rZU6GvIF3DhgrnOeMY_1d-xf8UT9T2ZD_obdubD2fz0oONCI&s",
+      "position": 8
+    },
+    {
+      "title": "23 Desde Observatorio ITESM - GIC El Salvador :::::::::::::::::::::::::::::::::::::::::: Grupo de Investigación Contable",
+      "link": "https://grupodeinvestigacioncontable.blogspot.com/2020/11/23-desde-observatorio-itesm.html?m=1",
+      "snippet": "Los algoritmos están presentes en nuestro día a día pero, ¿sabemos qué son y cómo funcionan? Conocer en qué áreas de nuestras vidas se ...",
+      "date": "24 nov 2020",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Onda tropical en El Salvador"
+    },
+    {
+      "query": "Ver lluvias"
+    },
+    {
+      "query": "Imagen SATELITAL MARN"
+    },
+    {
+      "query": "Radar del clima en vivo"
+    },
+    {
+      "query": "Calidad del aire en el Salvador"
+    },
+    {
+      "query": "Lluvia registrada"
+    },
+    {
+      "query": "MARN satélite"
+    },
+    {
+      "query": "Pluviómetro el Salvador"
+    }
+  ]
+}

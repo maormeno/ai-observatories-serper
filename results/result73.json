@@ -1,0 +1,81 @@
+{
+  "searchParameters": {
+    "q": "Haiti Observatorio Inteligencia Artificial",
+    "gl": "ht",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLEe9HijpD_BIMabglzxzR3Rjb2clzbEYiooqg937hYf6LSO6HdKYwOKo0ik&s"
+  },
+  "organic": [
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 1
+    },
+    {
+      "title": "BID y UNESCO lanzan nueva edición del Observatorio de Inteligencia Artificial | IADB",
+      "link": "https://www.iadb.org/es/noticias/bid-y-unesco-lanzan-nueva-edicion-del-observatorio-de-inteligencia-artificial",
+      "snippet": "El BID y la UNESCO actualizan el mayor mapeo de iniciativas de inteligencia artificial de la región orientadas a diseñar políticas públicas ...",
+      "date": "24 ago 2021",
+      "position": 2
+    },
+    {
+      "title": "Un proyecto de formación de Haití para ayudar a los docentes recibe el Premio UNESCO-Hamdan para el desarrollo docente",
+      "link": "https://www.unesco.org/es/articles/un-proyecto-de-formacion-de-haiti-para-ayudar-los-docentes-recibe-el-premio-unesco-hamdan-para-el",
+      "snippet": "Desde 2011, este programa intensivo de tres años ha beneficiado a 8,000 docentes y 350,000 estudiantes en diez departamentos de Haití.",
+      "date": "7 oct 2022",
+      "position": 3
+    },
+    {
+      "title": "Haití: el cambio pasa por la educación | UNESCO",
+      "link": "https://www.unesco.org/es/articles/haiti-el-cambio-pasa-por-la-educacion",
+      "snippet": "En menos de tres años, 1,2 millones de niños han encontrado así el camino a la escuela; se han tomado medidas para mejorar el transporte escolar ...",
+      "date": "21 abr 2022",
+      "position": 4
+    },
+    {
+      "title": "Observatorio de I+D+i UPM",
+      "link": "https://www.upm.es/observatorio/vi/index.jsp?pageac=actividad.jsp&id_actividad=252640",
+      "snippet": "Inteligencia artificial,; Programación matemática ... by means of a large instance based on the Haiti natural disasters in August-September 2008.",
+      "position": 5
+    },
+    {
+      "title": "Web de Jovenel Moïse - CIDOB",
+      "link": "https://www.cidob.org/biografias_de_lideres_politicos/america_central_y_caribe/haiti/jovenel_moise/web_de_jovenel_moise",
+      "snippet": "Biografías de Líderes Políticos. » América Central y Caribe. » Haití ... Puesta en marcha del Observatorio Global de la Inteligencia Artificial Urbana ...",
+      "position": 6
+    },
+    {
+      "title": "Michel Martelly en Twitter - CIDOB",
+      "link": "https://www.cidob.org/biografias_de_lideres_politicos/america_central_y_caribe/haiti/michel_martelly/michel_martelly_en_twitter",
+      "snippet": "Haití. » Michel Martelly. » Michel Martelly en Twitter ... Un observatorio velará por la aplicación ética de la inteligencia artificial ...",
+      "position": 7
+    },
+    {
+      "title": "Contacto - CEEDIA",
+      "link": "https://ceedia.org/contacto/",
+      "snippet": "Centro de Estudios Estratégicos de Derecho de la Inteligencia Artificial. versión en español english version ... Observatorio Inteligencia Artificial.",
+      "position": 8
+    },
+    {
+      "title": "Observatorio IA | Observatorio de Inteligencia Artificial",
+      "link": "https://observatorio-ia.com/",
+      "snippet": "La inteligencia artificial conversacional (AI), a menudo considerada como el punto de mira entre el procesamiento del lenguaje natural (NLP) y la comprensión ...",
+      "attributes": {
+        "Falta(n)": "Haiti | Debe incluir lo siguiente:Haiti"
+      },
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "fAIr LAC Jalisco"
+    }
+  ]
+}

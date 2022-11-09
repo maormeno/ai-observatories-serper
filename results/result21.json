@@ -1,0 +1,104 @@
+{
+  "searchParameters": {
+    "q": "Colombia Observatorio Decisiones Automatizadas",
+    "gl": "co",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9m8V58xM9mJlMKRGGavLomvx2Ift_9MJoQ6MbGV1vM85Cq3kIHAYq4w1cA&s"
+  },
+  "organic": [
+    {
+      "title": "El observatorio de derechos humanos OBSERVA, que hoy nace, nos va a permitir tener la mejor toma de decisiones posible: Duque",
+      "link": "https://derechoshumanos.gov.co/prensa/2022/Paginas/170522-El-observatorio-de-DDHH-OBSERVA.aspx",
+      "snippet": "La plataforma OBSERVA contiene una base de datos y procesos automatizados para recopilar información a partir de múltiples fuentes, procesar los ...",
+      "date": "17 may 2022",
+      "position": 1
+    },
+    {
+      "title": "Colombia – OBSERVA: Observatorio de derechos humanos - Diario Jurídico",
+      "link": "https://www.diariojuridico.com/colombia-observa-observatorio-de-derechos-humanos/",
+      "snippet": "La plataforma OBSERVA contiene una base de datos y procesos automatizados para recopilar información a partir de múltiples fuentes, ...",
+      "date": "19 may 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDET268ca8ue5oYLhQtsdDMi2d-NE-lRONo8G5QhY8Qxyb-oRAldNXJy4&s",
+      "position": 2
+    },
+    {
+      "title": "Duque lanza una plataforma para monitorear los derechos humanos en Colombia",
+      "link": "https://www.swissinfo.ch/spa/colombia-d-humanos_duque-lanza-una-plataforma-para-monitorear-los-derechos-humanos-en-colombia/47602512",
+      "snippet": "OBSERVA contiene una base de datos y procesos automatizados para ... en Colombia y brindar elementos al Estado para la toma de decisiones en ...",
+      "date": "17 may 2022",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Guia-metodologica-observatorio-calidad.pdf - Ministerio de Salud y Protección Social",
+      "link": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/Guia-metodologica-observatorio-calidad.pdf",
+      "snippet": "Observatorio de Calidad de la atención en Salud OCAS. Colombia. Coordinación editorial ... Gestión del conocimiento para la toma de decisiones en salud .",
+      "position": 4
+    },
+    {
+      "title": "Observatorio del Sistema de Ciudades: Una apuesta para la formulación de política pública a partir del conocimiento | Revista Geodata - Infraestructura Colombiana de Datos Espaciales",
+      "link": "https://revistageodata.icde.gov.co/boletin-7/observatorio-del-sistema-de-ciudades-una-apuesta-para-la-formulacion-de-politica-publica",
+      "snippet": "Tiene como propósito generar conocimiento para la toma de decisiones de política pública diferencial por parte de las entidades territoriales y evidenciar el ...",
+      "position": 5
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "Por ello, es necesario evaluar las implicaciones éticas que están asociadas con la ejecución de servicios digitales y decisiones automatizadas ...",
+      "date": "15 ago 2022",
+      "position": 6
+    },
+    {
+      "title": "IMPACTO K 2021: AUTONOMÍA Y DIGNIDAD - Fundación Karisma",
+      "link": "https://web.karisma.org.co/impacto-k-2021-autonomia-y-dignidad/",
+      "snippet": "Accede al sitio web de identidad digital en Colombia. ... cuestionar los sistemas de decisiones automatizadas que produzcan discriminación y ...",
+      "date": "23 may 2022",
+      "position": 7
+    },
+    {
+      "title": "Decisiones automatizadas: problemas y soluciones jurídicas. Más allá de la protección de datos | Revista de Derecho Público: Teoría y método",
+      "link": "http://www.revistasmarcialpons.es/revistaderechopublico/article/view/535",
+      "snippet": "Julián VALERO TORRIJOS, “Inteligencia artificial y contratación del sector público”, Observatorio de Contratación Pública, 27 de enero de 2020.",
+      "date": "23 mar 2021",
+      "position": 8
+    },
+    {
+      "title": "Se masifica la acreditación institucional. ¿Se está perdiendo el encanto?",
+      "link": "https://www.universidad.edu.co/se-masifica-la-acreditacion-institucional-se-esta-perdiendo-el-encanto/",
+      "snippet": "El Observatorio de la Universidad Colombiana ... siguen al margen de las decisiones claves de política pública, cercanía al gobierno y mejor ...",
+      "date": "6 oct 2021",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Que es MOCA en salud"
+    },
+    {
+      "query": "Análisis indicadores Resolución 256"
+    },
+    {
+      "query": "Sispro seguridad del paciente"
+    },
+    {
+      "query": "Indicadores de calidad Ministerio de salud"
+    },
+    {
+      "query": "Plan Nacional de mejoramiento de la calidad en Salud 2022 2027"
+    },
+    {
+      "query": "Indicadores de urgencias Colombia"
+    },
+    {
+      "query": "Indicadores de gestión en salud"
+    },
+    {
+      "query": "Ficha técnica indicadores Laboratorio Clínico"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "searchParameters": {
+    "q": "Paraguay Observatorio Decisiones Automatizadas",
+    "gl": "py",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwEoMMCSj3-OvQ5lcSZHLwgsv0sxZOLFu-5OMjcO0K1U3EmbqYDIGw7UzMQ&s"
+  },
+  "organic": [
+    {
+      "title": "La protección de datos de carácter personal en el Paraguay",
+      "link": "https://oiprodat.com/2020/03/03/la-proteccion-de-datos-de-caracter-personal-en-el-paraguay/",
+      "snippet": "Los avances tecnológicos también han llegado al Paraguay, y si bien en ... utilizándose la información en la toma de decisiones sin tener en ...",
+      "date": "3 mar 2020",
+      "position": 1
+    },
+    {
+      "title": "Observatorio - Poder Judicial - Corte Suprema de Justicia",
+      "link": "https://www.pj.gov.py/observatorio",
+      "snippet": "Observatorio. Sitio Oficial de la Corte Suprema de Justicia. Poder Judicial. República del Paraguay.",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 2
+    },
+    {
+      "title": "[PDF] Observatorios de Políticas Públicas en las Américas",
+      "link": "https://www.oas.org/es/sap/dgpe/pub/observatoriosdepoliticaspublicas_s.pdf",
+      "snippet": "Paraguay. Observatorio de Recursos Humanos en Salud (ORHS) ... En efecto, y considerando que la toma de decisiones en la gestión pública siempre es un ...",
+      "position": 3
+    },
+    {
+      "title": "[PDF] Análisis de los datos que surgen del Registro Obrero Patronal de Paraguay: El desafío para la producción de estadísticas a",
+      "link": "https://www.mtess.gov.py/download_file/4734/2529",
+      "snippet": "para análisis estadísticos y la toma de decisiones de política laboral. ... Observatorio Laboral, comenzó a desarrollar el uso estadístico analítico de ...",
+      "position": 4
+    },
+    {
+      "title": "No hay acuerdo entre partidos sobre cantidad de electores por mesa y porcentaje de urnas electrónicas. - Justicia Electoral · República del Paraguay",
+      "link": "https://tsje.gov.py/noticias/leer/100-no-hay-acuerdo-entre-partidos-sobre-cantidad-de-electores-por-mesa-y-porcentaje-de-urnas-electronicas.html",
+      "snippet": "Últiman Decisiones para el 19 de noviembre. ... Esta modalidad de votación automatizada y tradicional en distintos porcentajes, es a modo de ...",
+      "date": "19 nov 2021",
+      "position": 5
+    },
+    {
+      "title": "Observatorio de Estado de Derecho en el Paraguay",
+      "link": "https://observaestadodederecho.desarrollo.edu.py/",
+      "snippet": "Conoce todos los datos sobre el Sistema de Justicia y sobre nuestra contribución para fortalecer el Estado de Derecho.",
+      "attributes": {
+        "Falta(n)": "Decisiones Automatizadas"
+      },
+      "position": 6
+    },
+    {
+      "title": "[PDF] Demanda ocupacional y Competencias Laborales - Sinafocal - Observatorio",
+      "link": "https://observatorio.sinafocal.gov.py/index.php/download_file/view/344/469",
+      "snippet": "Principales indicadores macroeconómicos del Paraguay . ... y Comunicación, como lo son las máquinas automáticas para el procesamiento de datos, piezas y.",
+      "position": 7
+    },
+    {
+      "title": "[PDF] Versión web - Sinafocal - Observatorio",
+      "link": "https://observatorio.sinafocal.gov.py/index.php/download_file/view/382/495",
+      "snippet": "Consejo Paraguayo de Construcción Sostenible ... Esta decisión se tradujo en una ejecución presupuestaria del Ministerio de Obras Públicas y.",
+      "position": 8
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "Por ello, es necesario evaluar las implicaciones éticas que están asociadas con la ejecución de servicios digitales y decisiones automatizadas ...",
+      "date": "15 ago 2022",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Cuál es finalidad de los observatorio de políticas públicas"
+    },
+    {
+      "query": "Que es un Observatorio social"
+    },
+    {
+      "query": "Observatorio Judicial"
+    },
+    {
+      "query": "Observatorio pj"
+    },
+    {
+      "query": "Jurisprudencia Paraguay"
+    },
+    {
+      "query": "Poder Judicial"
+    },
+    {
+      "query": "Antecedente judicial"
+    },
+    {
+      "query": "Decisiones de la Corte"
+    }
+  ]
+}

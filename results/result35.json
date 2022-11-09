@@ -1,0 +1,84 @@
+{
+  "searchParameters": {
+    "q": "Mexico Algoritmo Algoritmos",
+    "gl": "mx",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "[PDF] ALGORITMOS DE ATENCIÓN CLÍNICA - DGCES",
+      "link": "http://www.calidad.salud.gob.mx/site/calidad/docs/algoritmo_version_completa.pdf",
+      "snippet": "Algoritmos de Atención Clínica ... Secretaría de Marina Armada de México ... Diabetes Mellitus: se ha desarrollado un algoritmo para el manejo de la DM, ...",
+      "position": 1
+    },
+    {
+      "title": "Agoritmos de Atención Clínica | Secretar¿a de Salud | Gobierno | gob.mx",
+      "link": "http://calidad.salud.gob.mx/site/calidad/algoritmos_atencion_clinica.html",
+      "snippet": "Algoritmos de Atención Clínica. Autor: Secretaría de Salud; Fecha de actualización: 19 de marzo de 2019. Dirección General de Calidad y Educación en Salud ...",
+      "position": 2
+    },
+    {
+      "title": "Algoritmos y decisiones judiciales en México - YouTube",
+      "link": "https://youtube.com/watch?v=RVn_B7GrS_U",
+      "snippet": "Acompáñanos a este panel con perspectiva de género ...",
+      "date": "23 feb 2022",
+      "attributes": {
+        "Duración": "1:21:03",
+        "Publicado": "23 feb 2022"
+      },
+      "imageUrl": "https://i.ytimg.com/vi/RVn_B7GrS_U/default.jpg?sqp=-oaymwEECHgQQw&rs=AMzJL3l8EX7fwRxw6f-7iNMRZtvtU965ag",
+      "position": 3
+    },
+    {
+      "title": "Cuando un algoritmo dio vida a una ciudad turística desde cero: así se creó Cancún con un ordenador - Magnet",
+      "link": "https://magnet.xataka.com/un-mundo-fascinante/cuando-algoritmo-dio-vida-a-ciudad-turistica-cero-asi-se-creo-cancun-ordenador",
+      "snippet": "Este cambio no ocurrió por casualidad. En 1968, México usó algoritmos, modelos computarizados y se valió de los mejores cerebros y conocimientos ...",
+      "date": "12 abr 2022",
+      "position": 4
+    },
+    {
+      "title": "¿Qué busca Meta con su cambio de algoritmos? - Forbes México",
+      "link": "https://www.forbes.com.mx/que-busca-meta-con-su-cambio-de-algoritmos/",
+      "snippet": "La introducción del nuevo algoritmo es muy similar al que usa Tik Tok, la red social de mayor crecimiento en el mundo.",
+      "date": "2 ago 2022",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlly5lk3DMtuOa5pH_YdwQso8YxFHPiBQTZ7G8e8wRKJMug-_-VbX63Bs&s",
+      "position": 5
+    },
+    {
+      "title": "Algoritmos en Endocrinología | SMNE",
+      "link": "https://endocrinologia.org.mx/algoritmos-endocrinologia.php",
+      "snippet": "Adrenales, Coralys G. Abreu - Rosario, Algoritmo diagnóstico y terapéutico de. Insuficiencia suprarrenal, Roberto Iván Rodríguez-Moriel y Alma Vergara-López ...",
+      "position": 6
+    },
+    {
+      "title": "Informe de la evaluación inicial de la Implementación de Guías de Práctica Clínica | Secretaría de Salud | Gobierno | gob.mx",
+      "link": "https://www.gob.mx/salud/documentos/informe-de-la-evaluacion-inicial-de-la-implementacion-de-gpc-mediante-los-algoritmos-de-atencion-clinica?state=published",
+      "snippet": "... INICIAL DE LA IMPLEMENTACIÓN DE GPC MEDIANTE LOS ALGORITMOS DE ... de apego por algoritmo y, lo más importante, por recomendación.",
+      "date": "8 dic 2020",
+      "position": 7
+    },
+    {
+      "title": "La era de los algoritmos — Observatorio | Instituto para el Futuro de la Educación",
+      "link": "https://observatorio.tec.mx/edu-news/la-era-de-los-algoritmos",
+      "snippet": "El algoritmo tiene una entrada de la instrucción y la salida. Y si se juntan estas instrucciones con inteligencia artificial, las máquinas ...",
+      "date": "23 nov 2020",
+      "position": 8
+    },
+    {
+      "title": "[PDF] Algoritmos interinos para la atención del COVID-19 - Coordinación de Educación en Salud",
+      "link": "http://educacionensalud.imss.gob.mx/es/system/files/Algoritmos_interinos_COVID19_CTEC.pdf",
+      "snippet": "Algoritmos interinos para la ... Ciudad de México, 2 de Julio 2021 ... Adultos mayores – ver Algoritmo 6; Síntomas refractarios – ver ...",
+      "date": "22 may 2020",
+      "position": 9
+    },
+    {
+      "title": "¡Goya! Investigador de la UNAM desarrolla algoritmo que busca pronosticar sismos",
+      "link": "https://www.elfinanciero.com.mx/ciencia/2022/09/19/simulacro-nacional-2022-investigador-de-la-unam-desarrolla-algoritmo-para-predecir-sismos/?outputType=amp",
+      "snippet": "UNAM busca con algoritmos pronosticar sismos moderados. ... investigadores de la Universidad Nacional Autónoma de México (UNAM) desarrollen ...",
+      "date": "19 sept 2022",
+      "position": 10
+    }
+  ]
+}

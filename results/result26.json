@@ -1,0 +1,80 @@
+{
+  "searchParameters": {
+    "q": "Uruguay Observatorio Algoritmos",
+    "gl": "uy",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Bases para un Observatorio de uso de Inteligencia Artificial en el Estado | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/calendario-actividades/bases-para-observatorio-uso-inteligencia-artificial-estado",
+      "snippet": "Criterios y recomendaciones para las Instituciones públicas que den pautas para la transparencia de Algoritmos en las aplicaciones de uso de IA ...",
+      "date": "19 may 2022",
+      "position": 1
+    },
+    {
+      "title": "Guía para el estudio de Impacto Algorítmico | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento - GUB.UY",
+      "link": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/guia-para-estudio-impacto-algoritmico",
+      "snippet": "En este sentido, los algoritmos de inteligencia artificial (IA) habilitan procesos más eficaces y eficientes, optimizando el uso de los ...",
+      "date": "18 nov 2020",
+      "position": 2
+    },
+    {
+      "title": "Inteligencia artificial: con algoritmos predicen qué liceales pueden abandonar o repetir y harán listas - EL PAÍS Uruguay",
+      "link": "https://www.elpais.com.uy/que-pasa/inteligencia-artificial-algoritmos-predicen-liceales-abandonar-repetir-haran-listas.html",
+      "snippet": "El observatorio funcionara desde 2023, adelanta Maximiliano Maneiro de Agesic. Algoritmos en el liceo. Es un proyecto que arrancó en 2019, en el ...",
+      "date": "21 ago 2022",
+      "position": 3
+    },
+    {
+      "title": "[PDF] 1.6 Observatorio de uso de Inteligencia Artificial en el Estado. - Mirador de Gobierno Abierto",
+      "link": "https://miradordegobiernoabierto.agesic.gub.uy/SigesVisualizador/DocumentosServlet;jsessionid=PQuBRV4ia5ZjFrAp8KdllMYH.node1?DOC_PATH=e394a376-46f1-44c6-a526-47cd8f01dff6_1647487481212&ORG_PK=1&tipoProy=1&DOC_NAME=1.6+Observatorio+de+uso+de+Inteligencia+Artificial+en+el+Estado.pdf",
+      "snippet": "ecosistema de inteligencia artificial en Uruguay. ... transparencia de los algoritmos, integrando aportes de diferentes actores y.",
+      "position": 4
+    },
+    {
+      "title": "Observatorio de Inteligencia Artificial en el Estado - Propuestas - Consulta pública: 5to Plan de Acción Nacional de Gobierno Abierto",
+      "link": "https://plataformaparticipacionciudadana.gub.uy/processes/quinto-planGA/f/17/proposals/116?component_id=17&locale=es&participatory_process_slug=quinto-planGA",
+      "snippet": "Desarrollar criterios y recomendaciones para las Instituciones pública que den pautas para la transparencia de Algoritmos en las ...",
+      "date": "19 nov 2021",
+      "position": 5
+    },
+    {
+      "title": "Cambios en \"Observatorio de Inteligencia Artificial en el Estado\" - Versiones - Propuestas - Consulta pública: 5to Plan de Acción Nacional de Gobierno Abierto",
+      "link": "https://plataformaparticipacionciudadana.gub.uy/processes/quinto-planGA/f/17/proposals/116/versions/1?component_id=17&locale=es&participatory_process_slug=quinto-planGA",
+      "snippet": "Desarrollar criterios y recomendaciones para las Instituciones pública que den pautas para la transparencia de Algoritmos en las ...",
+      "date": "19 nov 2021",
+      "position": 6
+    },
+    {
+      "title": "La técnica que permite saber todo sobre los clientes sin poner en riesgo su privacidad",
+      "link": "https://observatorioti.cuti.org.uy/ventana-ti/foco-en-uruguay/la-tecnica-que-permite-saber-todo-sobre-los-clientes-sin-poner-en-riesgo-su-privacidad/",
+      "snippet": "El Observatorio TI es una iniciativa de Cuti para mejorar la productividad del sector TIC en Uruguay mediante la generación de conocimiento ...",
+      "date": "30 sept 2021",
+      "position": 7
+    },
+    {
+      "title": "Reflexiones sobre la inteligencia artificial y la bibliotecología - Palabra clave (La Plata)",
+      "link": "https://www.palabraclave.fahce.unlp.edu.ar/article/view/pce159/15276",
+      "snippet": "Facultad de Información y Comunicación, Uruguay ... Los sistemas multiagentes son utilizados en IA con “algoritmos evolutivos” basados en la ...",
+      "date": "1 abr 2022",
+      "position": 8
+    },
+    {
+      "title": "Algoritmos que reproducen el comportamiento humano - Universidad Católica del Uruguay",
+      "link": "https://ucu.edu.uy/es/algoritmos-que-reproducen-el-comportamiento-humano",
+      "snippet": "Actividad para estudiantes de bachillerato sobre el procesamiento y reconocimiento de objetos en imágenes utilizando inteligencia ...",
+      "date": "26 oct 2018",
+      "position": 9
+    },
+    {
+      "title": "Inteligencia artificial para predecir la fuga de estudiantes - PressReader",
+      "link": "https://www.pressreader.com/uruguay/el-pais-uruguay/20220821/281492165112723",
+      "snippet": "DISEÑAN UN OBSERVATORIO DE ALGORITMOS EN EL ESTADO. Por estos días la Administración Nacional ... ¿Cuánto ha avanzado Uruguay en la materia?",
+      "date": "21 ago 2022",
+      "position": 10
+    }
+  ]
+}

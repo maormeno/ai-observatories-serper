@@ -1,0 +1,82 @@
+{
+  "searchParameters": {
+    "q": "Mexico Observatorio Decisiones Automatizadas",
+    "gl": "mx",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohQ60k_SbXL4_GPlPYM1wzaaFJUX2EPhSEm2h-uSY9LhJjsH4n4NDjXXSSN8&s"
+  },
+  "organic": [
+    {
+      "title": "Declaración de México D. F. - Observatorio Iberoamericano de Protección de Datos",
+      "link": "https://oiprodat.com/declaracion-de-mexico-d-f/",
+      "snippet": "A partir de ellos puede contarse con instrumentos para tomar mejores decisiones con información amplia y detallada y predecir algunas cosas.",
+      "position": 1
+    },
+    {
+      "title": "¿EdTech perjudica los derechos digitales del estudiantado? - Observatorio de Innovación Educativa - Tecnológico de Monterrey",
+      "link": "https://observatorio.tec.mx/edu-news/edtech-derechos-digitales",
+      "snippet": "Además, existen sistemas como los basados en modelos estadísticos, perfiles algorítmicos y toma de decisiones automatizada que perpetuan ...",
+      "date": "23 sept 2022",
+      "position": 2
+    },
+    {
+      "title": "Destripando algoritmos: un buscador para conocer qué hay detrás de las decisiones de Google, Facebook o Netflix - El Español",
+      "link": "https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/espana/20211008/destripando-algoritmos-buscador-decisiones-google-facebook-netflix/616938814_0.html",
+      "snippet": "Eticas Foundation lanza un observatorio para dar al usuario la ... más sobre los algoritmos que toman decisiones de manera automatizada que ...",
+      "date": "8 oct 2021",
+      "position": 3
+    },
+    {
+      "title": "Estudios Jurídicos sobre Derecho y Tecnología - Informe 2020 - 2021",
+      "link": "https://www.juridicas.unam.mx/informe-2020-2021/detalle/318",
+      "snippet": "Observatorio Regulación de la Economía Digitalizada ... y las tesis de maestría La protección de datos personales y decisiones automatizadas en México.",
+      "position": 4
+    },
+    {
+      "title": "La discriminación en una sociedad automatizada: Contribuciones desde América Latina",
+      "link": "https://rchdt.uchile.cl/index.php/RCHDT/article/view/58793",
+      "snippet": "... sistemas de inteligencia artificial de toma de decisiones automatizadas?, ... Directora del Observatorio para la Transparencia e Inclusión Algorítmica ...",
+      "position": 5
+    },
+    {
+      "title": "Instalan cinco estaciones Meteorológicas para ampliar la red de Monitoreo en Morelos",
+      "link": "https://www.gob.mx/conagua/prensa/instalan-cinco-estaciones-meteorologicas-para-ampliar-la-red-de-monitoreo-en-morelos",
+      "snippet": "Cinco nuevas estaciones meteorológicas automáticas fueron instaladas en Morelos para generar en ... Tres Marías, el observatorio de Cuernavaca y Zacatepec.",
+      "position": 6
+    },
+    {
+      "title": "[PDF] hola, mundo: la inteligencia artificial y su uso en el sector público | oecd",
+      "link": "https://www.oecd.org/gov/innovative-government/hola-mundo-la-inteligencia-artificial-y-su-uso-en-el-sector-publico.pdf",
+      "snippet": "El Observatorio de Innovación en el Sector Público (Observatory of Public Sector ... Directiva sobre la toma de decisiones automatizada.",
+      "date": "28 ago 2019",
+      "position": 7
+    },
+    {
+      "title": "Autonomía en la toma de decisiones | Observatorio de Igualdad de Género",
+      "link": "https://oig.cepal.org/es/autonomias/autonomia-la-toma-decisiones",
+      "snippet": "La autonomía en la toma de decisiones se refiere a la presencia de las mujeres en los distintos niveles de los poderes del Estado y a las medidas orientadas ...",
+      "attributes": {
+        "Falta(n)": "Automatizadas | Debe incluir lo siguiente:Automatizadas"
+      },
+      "position": 8
+    },
+    {
+      "title": "[PDF] REQUISITOS BÁSICOS PARA LA CREACIÓN DEL OBSERVATORIO DE SEGURIDAD VIAL EN EL TRANSPORTE DE CARGA Y PASAJEROS",
+      "link": "https://www.imt.mx/archivos/publicaciones/publicaciontecnica/pt352.pdf",
+      "snippet": "confiable que contribuya a la toma de decisiones en el mejoramiento de seguridad vial en las carreteras federales; es decir, la información ...",
+      "date": "21 mar 2011",
+      "position": 9
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Innovación tec de Monterrey"
+    }
+  ]
+}

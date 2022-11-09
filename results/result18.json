@@ -1,0 +1,83 @@
+{
+  "searchParameters": {
+    "q": "Brasil Algoritmo Decisiones Automatizadas",
+    "gl": "br",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxy0VwViR8qc8YV2VGuiUiblUNEWvi7UbMdM05tx-mp5k6f7wEpKgMZljeg&s"
+  },
+  "organic": [
+    {
+      "title": "Uso del algoritmo COMPAS en el proceso penal y los riesgos a los derechos humanos - SciELO",
+      "link": "https://www.scielo.br/j/rbdpp/a/6W9b8CHYbXcsc6qczDxCSfr/",
+      "snippet": "inteligencia artificial; justicia penal; algoritmos; derechos humanos ... para la toma de decisiones automatizadas de la agencia estatal con el fin de que ...",
+      "position": 1
+    },
+    {
+      "title": "INTELIGÊNCIA ARTIFICIAL, ESTADO E DECISÕES AUTOMATIZADAS - Assis e Mendes Advogados - Direito Digital, Empresarial e LGPD - Proteção de Dados",
+      "link": "https://assisemendes.com.br/inteligencia-artificial-estado-e-decisoes-automatizadas/",
+      "snippet": "Já se discutiu no Brasil a possibilidade de utilização de algoritmos não somente para informatizar a estrutura do judiciário (como de fato tem acontecido), ...",
+      "attributes": {
+        "Falta(n)": "Decisiones | Debe incluir lo siguiente:Decisiones"
+      },
+      "position": 2
+    },
+    {
+      "title": "Algoritmos parciales - Revista Pesquisa Fapesp",
+      "link": "https://revistapesquisa.fapesp.br/es/algoritmos-parciales/",
+      "snippet": "En Brasil, también se intentó introducir en 2019 una ley que contempla la revisión humana de las decisiones automatizadas. Un ciudadano que se sintiera ...",
+      "position": 3
+    },
+    {
+      "title": "A relação entre as decisões automatizadas e a discriminação algorítmica à luz da LGPD",
+      "link": "https://www.migalhas.com.br/depeso/354141/as-decisoes-automatizadas-e-a-discriminacao-algoritmica-a-luz-da-lgpd",
+      "snippet": "Entretanto, apesar dos algoritmos exibirem um aspecto igualitário, é fato que a programação inicial, as bases de dados de treinamento e os ...",
+      "date": "1 nov 2021",
+      "attributes": {
+        "Falta(n)": "Decisiones | Debe incluir lo siguiente:Decisiones"
+      },
+      "position": 4
+    },
+    {
+      "title": "[PDF] Inteligencia Artificial: Decisiones Automatizadas en Cataluña - Gencat",
+      "link": "https://apdcat.gencat.cat/web/.content/03-documentacio/intelligencia_artificial/documents/Informe-IA-es.pdf",
+      "snippet": "Los algoritmos de decisión automatizada y la inteligencia artificial son conceptos fuertemente relacionados. Es cierto que es posible diseñar un algoritmo que ...",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Algoritmos y desigualdades - Derechos Digitales",
+      "link": "https://www.derechosdigitales.org/wp-content/uploads/algoritmo_desigualdad_cast.pdf",
+      "snippet": "para que las decisiones automatizadas no afecten a los derechos funda- ... (ITS RIO, Brasil), Alejandro Delgado (Comisión de Regulación de Comunicaciones, ...",
+      "position": 6
+    },
+    {
+      "title": "[PDF] CEPI FGV Direito SP BRIEFING TEMÁTICO #9",
+      "link": "https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/31435/BT9_ES.pdf?sequence=2",
+      "snippet": "2) Los pedidos de producción de prueba pericial en los algoritmos de ... la revisión y la explicabilidad de las decisiones automatizadas, lo.",
+      "date": "22 abr 2021",
+      "position": 7
+    },
+    {
+      "title": "Algoritmos no processo de Decisões automatizadas e a LGPD - SLAP.law",
+      "link": "https://slap.law/decisoes-automatizadas-algoritmos-e-a-lgpd/?utm_source=rss&utm_medium=rss&utm_campaign=decisoes-automatizadas-algoritmos-e-a-lgpd",
+      "snippet": "Já no Brasil, a LGPD é um pouco diferente. Após vetos pelo Poder Executivo, ficou excluído do texto original a obrigatoriedade da intervenção ...",
+      "date": "7 abr 2021",
+      "attributes": {
+        "Falta(n)": "Decisiones | Debe incluir lo siguiente:Decisiones"
+      },
+      "position": 8
+    },
+    {
+      "title": "Cómo reclamar que una entidad use un algoritmo para tomar decisiones que nos afectan",
+      "link": "https://maldita.es/malditatecnologia/20220110/reclamar-entidad-algoritmo-decisiones/",
+      "snippet": "Son decisiones que puede estar tomando un algoritmo en función del ... a la decisión automatizada y la explicabilidad de los algoritmos”.",
+      "date": "10 ene 2022",
+      "position": 9
+    }
+  ]
+}

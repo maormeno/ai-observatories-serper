@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Ecuador Algoritmo Decisiones Automatizadas",
+    "gl": "ec",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "knowledgeGraph": {
+    "title": "Imágenes",
+    "type": "Ver todos",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHJXj1ndDCMxSyorOp_l8rWSzk2FiQp_QtZf998dcQ-V67nLvptr8sLD1&s"
+  },
+  "organic": [
+    {
+      "title": "El sesgo de la IA despierta intereses regulatorios - AEI",
+      "link": "https://www.aei.ec/sesgo-ia-despierta-intereses-regulatorios/",
+      "snippet": "Se descubrió que el algoritmo de Google para detectar el discurso de odio en ... de decisiones automatizadas basadas en datos personales (como algoritmos ...",
+      "position": 1
+    },
+    {
+      "title": "Inteligencia Artificial, algoritmos y libertad de expresión | Universitas",
+      "link": "https://revistas.ups.edu.ec/index.php/universitas/article/view/34.2021.08",
+      "snippet": "... protectoras de las condiciones laborales de supervisores humanos sobre las decisiones automatizadas de remoción de contenido.",
+      "date": "22 feb 2021",
+      "position": 2
+    },
+    {
+      "title": "Implicaciones jurídicas del algoritmo: derechos intelectuales y privacidad - revistas - UASB",
+      "link": "https://revistas.uasb.edu.ec/index.php/foro/article/download/2804/2623?inline=1",
+      "snippet": "El presente trabajo, pretende reflexionar sobre los algoritmos, su naturaleza ... Sistemas como la inteligencia artificial, decisiones automatizadas y el ...",
+      "position": 3
+    },
+    {
+      "title": "Los algoritmos son política - Ecuador Today",
+      "link": "https://ecuadortoday.media/2021/04/10/los-algoritmos-son-politica/",
+      "snippet": "Un algoritmo no hace más que reproducir desigualdades inherentes al ... Sus decisiones discriminatorias pueden provenir de los posibles ...",
+      "date": "10 abr 2021",
+      "position": 4
+    },
+    {
+      "title": "Algoritmo de deserción de clientes - ACTUARIA",
+      "link": "https://actuaria.com.ec/es/algoritmo-de-desercion-de-clientes/",
+      "snippet": "Toma de decisiones basada principalmente en experiencia e intuición y no en datos reales y objetivos. Información que llega tarde y no siempre a las personas ...",
+      "position": 5
+    },
+    {
+      "title": "[PDF] Inteligencia Artificial, algoritmos y libertad de expresión - SciELO Ecuador",
+      "link": "http://scielo.senescyt.gob.ec/pdf/uni/n34/1390-3837-uni-34-00177.pdf",
+      "snippet": "humanos sobre las decisiones automatizadas de remoción de contenido. Por su parte, entendemos que las redes sociales deben presentar ...",
+      "date": "1 mar 2021",
+      "position": 6
+    },
+    {
+      "title": "Una mirada hacia el futuro de los gobiernos: La transparencia algorítmica y sus implicaciones | CAF",
+      "link": "https://www.caf.com/es/conocimiento/visiones/2022/08/una-mirada-hacia-el-futuro-de-los-gobiernos-la-transparencia-algoritmica-y-sus-implicaciones/",
+      "snippet": "A partir de la aplicación de algoritmos predictivos, ... con la ejecución de servicios digitales y decisiones automatizadas de gobierno, ...",
+      "date": "15 ago 2022",
+      "position": 7
+    },
+    {
+      "title": "CMS People - Decisiones automatizadas, algoritmos... | Facebook",
+      "link": "https://es-es.facebook.com/cmspeople/posts/decisiones-automatizadas-algoritmos-inform%C3%A1ticos-m%C3%A1quinas-que-toman-decisiones-p/10153190972943058/",
+      "snippet": "Banco Pichincha, la mayor entidad financiera de Ecuador, cuenta con más de 290 puntos de atención,... Mucho Mejor Ecuador.",
+      "position": 8
+    },
+    {
+      "title": "Inteligencia Artificial, algoritmos y libertad de expresión - Repositorio Digital de Consejo de Comunicacion",
+      "link": "https://repositorio.consejodecomunicacion.gob.ec/handle/CONSEJO_REP/1880?locale=en",
+      "snippet": "Title: Inteligencia Artificial, algoritmos y libertad de expresión ... de supervisores humanos sobre las decisiones automatizadas de remoción de contenido.",
+      "position": 9
+    }
+  ]
+}

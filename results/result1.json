@@ -1,0 +1,104 @@
+{
+  "searchParameters": {
+    "q": "Chile Observatorio Inteligencia Artificial",
+    "gl": "cl",
+    "hl": "es-419",
+    "autocorrect": false,
+    "type": "search"
+  },
+  "organic": [
+    {
+      "title": "Chile presenta la primera Política Nacional de Inteligencia Artificial",
+      "link": "https://www.minciencia.gob.cl/noticias/chile-presenta-la-primera-politica-nacional-de-inteligencia-artificial/",
+      "snippet": "Desde el Observatorio del Cerro Calán, el ministro de Ciencia, ... La inteligencia artificial (IA) está inserta en nuestras rutinas diarias ...",
+      "date": "28 oct 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN06NsQssHY3cNkZW_T5TytCSTkzKguTq-y3Ks5gXOQKsHUHTJxQiAMk&s",
+      "position": 1
+    },
+    {
+      "title": "Política Nacional de Inteligencia Artificial",
+      "link": "https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/",
+      "snippet": "Esta hoja de ruta está construida en torno a tres ejes: factores habilitantes, uso y desarrollo de Inteligencia Artificial en Chile y aspectos de ética y ...",
+      "position": 2
+    },
+    {
+      "title": "Observatorio Inteligencia Latinoamérica (Chile) - CEEDIA",
+      "link": "https://ceedia.org/observatorio-inteligencia-artificial-latinoamerica-chile/",
+      "snippet": "AR BO BR CL CO EC FK GF GY PY PE SR UY VE. Chile. Políticas e institucionales; Regulaciones éticas y legales. Septiembre, 2019. Inteligencia artificial para ...",
+      "position": 3
+    },
+    {
+      "title": "inteligencia artificial archivos - Observatorio Cultural",
+      "link": "http://observatorio.cultura.gob.cl/index.php/tag/inteligencia-artificial/",
+      "snippet": "Experiencias pioneras de algoritmos de recomendación en el campo de las artes desarrolladas en Chile – Denis Parra · Read More · Observatorio Cultural 38.",
+      "position": 4
+    },
+    {
+      "title": "OptIA: Home",
+      "link": "https://optia.cl/",
+      "snippet": "Observatorio Público para la Transparencia e Inclusión Algorítmica. ... de inteligencia artificial y tecnologías digitales sobre la sociedad chilena, ...",
+      "position": 5
+    },
+    {
+      "title": "Observatorio | fAIrLAC",
+      "link": "https://fairlac.iadb.org/observatorio",
+      "snippet": "The Oxford Initiative. La Iniciativa de Oxford busca usar la inteligencia artificial (IA) para apoyar y promover los Objetivos de Desarrollo Sostenible (ODS) de ...",
+      "position": 6
+    },
+    {
+      "title": "Disrupción e Inteligencia Artificial - Observatorio Sdad. Digital, FEN UChile - Unegocios",
+      "link": "https://unegocios.uchile.cl/eventos/disrupcion-e-inteligencia-artificial/",
+      "snippet": "Desafíos de la inteligencia artificial y casos desarrollados por Cognitiva aplicados en Chile ... Caso Ripley Marketing Place y Aplicaciones de negocio con Watson ...",
+      "position": 7
+    },
+    {
+      "title": "ESO y Microsoft trabajarán con inteligencia artificial para potenciar la astronomía",
+      "link": "https://www.eso.org/public/chile/announcements/annlocal20004-es-cl/",
+      "snippet": "En línea con los recientes anuncios de Microsoft en Chile, ... del Observatorio Paranal de ESO a través de Inteligencia Artificial (IA).",
+      "date": "10 dic 2020",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPn-BeAOPkbywcFg2a7dRnkMoAeEeDPqT9y2JtXYndSo5Z67mNhK_mKVk&s",
+      "position": 8
+    },
+    {
+      "title": "ALeRCE, el proyecto astronómico chileno que escudriñará el cielo y sus misterios con inteligencia artificial | 24horas",
+      "link": "https://www.24horas.cl/tendencias/ciencia-tecnologia/alerce-el-proyecto-astronomico-chileno-que-escudrinara-el-cielo-y-sus-misterios-con-inteligencia-artificial-4933682",
+      "snippet": "... de macrodatos e inteligencia artificial, tras transformarse en uno de los intermediadores del futuro observatorio Vera C. Rubin, ...",
+      "date": "21 ago 2021",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PeSNIpVIsuH_wfha4tm9EVE1NR0eh5pBbVyQkFlo0vtXyN5l7H8zWnI&s",
+      "position": 9
+    },
+    {
+      "title": "UdeC integra el único proyecto chileno elegido para procesar datos de nuevo observatorio",
+      "link": "https://www.diarioconcepcion.cl/ciencia-y-sociedad/2021/08/13/udec-integra-el-unico-proyecto-chileno-elegido-para-procesar-datos-de-nuevo-observatorio.html",
+      "snippet": "La iniciativa se creó en 2017 y usa algoritmos de inteligencia artificial para detectar y clasificar objetos y eventos en el Universo de ...",
+      "date": "13 ago 2021",
+      "position": 10
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Política Nacional de Inteligencia Artificial Chile"
+    },
+    {
+      "query": "Ley inteligencia artificial Chile"
+    },
+    {
+      "query": "Programas de Inteligencia en Chile"
+    },
+    {
+      "query": "Centro de Inteligencia Artificial"
+    },
+    {
+      "query": "Se proyecta la inteligencia artificial en Chile"
+    },
+    {
+      "query": "Tecnología en Chile"
+    },
+    {
+      "query": "Política inteligencia artificial Chile"
+    },
+    {
+      "query": "I+D+i Chile"
+    }
+  ]
+}
