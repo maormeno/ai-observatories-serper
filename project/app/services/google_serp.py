@@ -26,5 +26,6 @@ def google_serp_to_json(
 
 
 def request_search_json_to_file(query_result, file_name="google_serp.json"):
+    print(query_result)
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump(query_result, f, indent=2, ensure_ascii=False)

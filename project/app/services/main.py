@@ -1,5 +1,5 @@
-from make_search import *
-from xlsx_writer import *
+from app.services.make_search import *
+from app.services.xlsx_writer import *
 import time
 
 
