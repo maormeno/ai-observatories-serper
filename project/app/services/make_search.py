@@ -1,4 +1,6 @@
-from google_serp import *
+from app.services.google_serp import *
+from app.models import Link
+from django.utils import timezone
 
 
 def make_search():
@@ -34,5 +36,23 @@ def make_search():
                 i += 1
                 query = f"{country} {kw1} {kw2}"
                 result = google_serp_to_json(query, code)
-                request_search_json_to_file(result, f"results/result{str(i)}.json")
+                # request_search_json_to_file(result, f"results/result{str(i)}.json")
+                generate_link_models(result, kw1, kw2, country)
+                break
                 print(f"Query: {query} - Result: DONE")
+
+
+def generate_link_models(result, kw1, kw2, country):
+    for resource in result["organic"]:
+        title = resource["title"]
+        link = resource["link"]
+        link, created = Link.objects.get_or_create(
+            source=link,
+            title=title,
+            country=country,
+            keyword1=kw1,
+            keyword2=kw2,
+            created_at=timezone.now(),
+            updated_at=timezone.now(),
+        )
+        link.save()
