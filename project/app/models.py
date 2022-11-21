@@ -8,5 +8,3 @@ class Link(models.Model):
     keyword1 = models.CharField(max_length=256)
     keyword2 = models.CharField(max_length=256)
     label = models.CharField(max_length=64)
-    
-    
