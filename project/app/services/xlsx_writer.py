@@ -1,5 +1,6 @@
 import xlsxwriter
 import json
+from app.models import Link
 
 
 def xlsx_writer():
