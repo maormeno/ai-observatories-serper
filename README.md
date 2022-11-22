@@ -4,10 +4,13 @@
 
 
 ## .env Variables
-DB_NAME
-DB_USER
-DB_PASSWORD
-DB_HOST
+`DB_NAME`
+
+`DB_USER`
+
+`DB_PASSWORD`
+
+`DB_HOST`
 
 ## Run BACKEND in virtual environment
 
@@ -19,7 +22,11 @@ DB_HOST
 
 `python3 project/manage.py runserver`
 
+
 ## Run Frontend
 `cd webapp`
+
 `yarn`
+
 `yarn start`
+
