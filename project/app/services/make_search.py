@@ -26,7 +26,7 @@ def make_search():
         "Republica Dominicana": "do",
         "Venezuela": "ve",
     }
-    keywords_1 = ["Observatorio", "Algoritmo"]
+    keywords_1 = ["Observatorio", "Repositorio"]
     keywords_2 = ["Inteligencia Artificial", "Algoritmos", "Decisiones Automatizadas"]
 
     i = 0
@@ -38,7 +38,6 @@ def make_search():
                 result = google_serp_to_json(query, code)
                 # request_search_json_to_file(result, f"results/result{str(i)}.json")
                 generate_link_models(result, kw1, kw2, country)
-                break
                 print(f"Query: {query} - Result: DONE")
 
 
@@ -47,12 +46,13 @@ def generate_link_models(result, kw1, kw2, country):
         title = resource["title"]
         link = resource["link"]
         link, created = Link.objects.get_or_create(
-            source=link,
-            title=title,
-            country=country,
-            keyword1=kw1,
-            keyword2=kw2,
-            created_at=timezone.now(),
-            updated_at=timezone.now(),
+            url=link,
         )
+        if created:
+            link.title = title
+            link.country = country
+            link.keyword1 = kw1
+            link.keyword2 = kw2
+            link.created_at = timezone.now()
+            link.updated_at = timezone.now()
         link.save()
