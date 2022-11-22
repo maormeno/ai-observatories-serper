@@ -1,5 +1,5 @@
 .env
-.DS_Store
+.DS_store
 env
 __pycache__
 ~$resultados_busqueda.xlsx
