@@ -8,7 +8,11 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Link from '@mui/material/Link';
 import TagLinkModal from './TagLinkModal';
-import { getLinksBatchRequest, labelLinkRequest } from '../functions/requests';
+import {
+  getLinksBatchRequest,
+  getTestLinksRequest,
+  labelLinkRequest,
+} from '../functions/requests';
 
 interface Column {
   id: 'url' | 'title' | 'country' | 'keyword1' | 'keyword2';
@@ -50,121 +54,120 @@ interface Data {
   updatedAt: string;
 }
 
-function createData(
-  id: string,
-  url: string,
-  title: string,
-  country: string,
-  keyword1: string,
-  keyword2: string,
-  label: string,
-  createdAt: string,
-  updatedAt: string
-): Data {
-  return {
-    id,
-    url,
-    country,
-    keyword1,
-    keyword2,
-    title,
-    label,
-    createdAt,
-    updatedAt,
-  };
-}
+// function createData(
+//   id: string,
+//   url: string,
+//   title: string,
+//   country: string,
+//   keyword1: string,
+//   keyword2: string,
+//   label: string,
+//   createdAt: string,
+//   updatedAt: string
+// ): Data {
+//   return {
+//     id,
+//     url,
+//     country,
+//     keyword1,
+//     keyword2,
+//     title,
+//     label,
+//     createdAt,
+//     updatedAt,
+//   };
+// }
 
-const dummyRows = [
-  createData(
-    '1',
-    'https://www.google.com',
-    'title1 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    'yes',
-    'created',
-    'updated'
-  ),
-  createData(
-    '2',
-    'https://www.google.com',
-    'title2 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    'no',
-    'created',
-    'updated'
-  ),
-  createData(
-    '3',
-    'https://www.google.com',
-    'title3 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    '',
-    'created',
-    'updated'
-  ),
-  createData(
-    '4',
-    'https://www.google.com',
-    'title4 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    'no',
-    'created',
-    'updated'
-  ),
-  createData(
-    '5',
-    'https://www.google.com',
-    'title5 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    'maybe',
-    'created',
-    'updated'
-  ),
-  createData(
-    '6',
-    'https://www.google.com',
-    'title6 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    'academic',
-    'created',
-    'updated'
-  ),
-  createData(
-    '7',
-    'https://www.google.com',
-    'title6 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    '',
-
-    'created',
-    'updated'
-  ),
-  createData(
-    '8',
-    'https://www.google.com',
-    'title6 valuee',
-    'Argentina',
-    'keyword1 valuee',
-    'keyword2 valuee',
-    '',
-    'created',
-    'updated'
-  ),
-];
+// const dummyRows = [
+//   createData(
+//     '1',
+//     'https://www.google.com',
+//     'title1 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     'yes',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '2',
+//     'https://www.google.com',
+//     'title2 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     'no',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '3',
+//     'https://www.google.com',
+//     'title3 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     '',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '4',
+//     'https://www.google.com',
+//     'title4 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     'no',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '5',
+//     'https://www.google.com',
+//     'title5 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     'maybe',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '6',
+//     'https://www.google.com',
+//     'title6 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     'academic',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '7',
+//     'https://www.google.com',
+//     'title6 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     '',
+//     'created',
+//     'updated'
+//   ),
+//   createData(
+//     '8',
+//     'https://www.google.com',
+//     'title6 valuee',
+//     'Argentina',
+//     'keyword1 valuee',
+//     'keyword2 valuee',
+//     '',
+//     'created',
+//     'updated'
+//   ),
+// ];
 
 const labelStyle = (label: string) => {
   switch (label) {
@@ -187,19 +190,31 @@ const Links = () => {
   const [selectedLink, setSelectedLink] = React.useState<Data>();
 
   React.useEffect(() => {
-    // setRows(poblateTable(dummyRows));
-    getLinksBatchRequest({ size: 10 }).then((response: Data[]) => {
+    // getLinksBatchRequest({ size: 10 }).then((response: Data[]) => {
+    //   setRows(poblateTable(response));
+    // });
+    getTestLinksRequest(1).then((response: Data[]) => {
       setRows(poblateTable(response));
     });
   }, []);
 
   function poblateTable(rows: Data[]) {
+    console.log(rows);
     let yesRows = rows.filter((row) => row.label === 'yes');
     let noRows = rows.filter((row) => row.label === 'no');
     let maybeRows = rows.filter((row) => row.label === 'maybe');
     let academicRows = rows.filter((row) => row.label === 'academic');
-    let emptyRows = rows.filter((row) => row.label === '');
-    return [...emptyRows, ...yesRows, ...noRows, ...maybeRows, ...academicRows];
+    let emptyRows = rows.filter(
+      (row) => row.label === null || row.label === ''
+    );
+    let returnRows = [
+      ...emptyRows,
+      ...yesRows,
+      ...noRows,
+      ...maybeRows,
+      ...academicRows,
+    ];
+    return returnRows;
   }
 
   const linkClickHandle = (link: Data): any => {
@@ -210,9 +225,9 @@ const Links = () => {
   const handleTagLink = (answer: string) => {
     const newRows = rows.map((row) => {
       if (row.id === selectedLink?.id) {
-        // labelLinkRequest(row.id, answer).then((response) => {
-        //   console.log(response);
-        // });
+        labelLinkRequest({ linkId: row.id, label: answer }).then((response) => {
+          console.log(response);
+        });
         return { ...row, label: answer };
       }
       return row;
@@ -223,7 +238,7 @@ const Links = () => {
   };
 
   return (
-    <Paper sx={{ width: '100%', overflow: 'hidden' }}>
+    <Paper sx={{ width: '100%' }}>
       <TableContainer>
         <Table stickyHeader>
           <TableHead>
@@ -250,7 +265,12 @@ const Links = () => {
                       <TableCell
                         key={column.id}
                         align={column.align}
-                        sx={{ backgroundColor: labelStyle(row['label']) }}
+                        sx={{
+                          backgroundColor: labelStyle(row['label']),
+                          maxWidth: '200px',
+                          textOverflow: 'ellipsis',
+                          overflow: 'hidden',
+                        }}
                       >
                         {column.id === 'url' ? (
                           <Link
@@ -258,6 +278,11 @@ const Links = () => {
                             target="_blank"
                             rel="noopener noreferrer"
                             onClick={() => linkClickHandle(row)}
+                            style={{
+                              textOverflow: 'ellipsis',
+                              overflow: 'hidden',
+                              whiteSpace: 'nowrap',
+                            }}
                           >
                             {value}
                           </Link>
@@ -273,7 +298,11 @@ const Links = () => {
           </TableBody>
         </Table>
       </TableContainer>
-      <TagLinkModal open={open} handleTagLink={handleTagLink} />
+      <TagLinkModal
+        open={open}
+        handleTagLink={handleTagLink}
+        link={selectedLink?.url}
+      />
     </Paper>
   );
 };

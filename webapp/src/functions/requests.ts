@@ -12,22 +12,30 @@ interface ILabelLinkRequest {
 
 export const getLinksBatchRequest = async (request: IGetLinksBatchRequest) => {
   const { size } = request;
-  const response = await axios.get(`http://127.0.0.1:8000/api/links/${size}/`);
-  console.log(response);
+  const response = await axios.get(`http://127.0.0.1:8000/api/links/${size}`, {
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  });
+  return response.data['links'];
+};
+export const getTestLinksRequest = async (half: number) => {
+  const response = await axios.get(
+    `http://127.0.0.1:8000/api/links/test/${half}`,
+    {
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }
+  );
   return response.data['links'];
 };
 
 export const labelLinkRequest = async (request: ILabelLinkRequest) => {
   const { linkId, label } = request;
-  const response = await axios.put(`localhost:8000/api/link/${linkId}`, {
+  const response = await axios.put(`http://127.0.0.1:8000/api/link/${linkId}`, {
     label,
   });
+  console.log(response);
   return response.status;
 };
-
-// const exportFunctions = {
-//   getLinksBatchRequest,
-//   labelLinkRequest,
-// };
-
-// export default exportFunctions;

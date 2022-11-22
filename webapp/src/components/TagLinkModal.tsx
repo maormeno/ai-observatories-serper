@@ -14,11 +14,12 @@ const style = {
 
 interface ITagLinkModal {
   open: boolean;
+  link: string | undefined;
   handleTagLink: (answer: string) => void;
 }
 
 const TagLinkModal = (props: ITagLinkModal) => {
-  const { open, handleTagLink } = props;
+  const { open, handleTagLink, link } = props;
 
   return (
     <div>
@@ -33,6 +34,14 @@ const TagLinkModal = (props: ITagLinkModal) => {
             ¿Es una colección de algoritmos para la toma de decisiones
             automatizadas?
           </Typography>
+          <Typography
+            sx={{
+              textAlign: 'center',
+              fontSize: 9,
+            }}
+          >
+            {link}
+          </Typography>
           <div
             style={{
               marginTop: '30px',
@@ -43,7 +52,7 @@ const TagLinkModal = (props: ITagLinkModal) => {
               sx={{ backgroundColor: '#60D660', color: 'black' }}
               onClick={() => handleTagLink('yes')}
             >
-              Yes
+              Sí
             </Button>
             <Button
               sx={{
@@ -63,7 +72,7 @@ const TagLinkModal = (props: ITagLinkModal) => {
               }}
               onClick={() => handleTagLink('maybe')}
             >
-              Maybe
+              Quizás
             </Button>
           </div>
           <div style={{ textAlign: 'center', marginTop: '20px' }}>
@@ -78,18 +87,18 @@ const TagLinkModal = (props: ITagLinkModal) => {
               Academic
             </Button>
           </div>
-          {/* <div style={{ textAlign: 'center', marginTop: '20px' }}>
+          <div style={{ textAlign: 'center', marginTop: '20px' }}>
             <Button
               sx={{
                 marginLeft: '20px',
-                backgroundColor: '#ff781f',
+                backgroundColor: 'white',
                 color: 'black',
               }}
-              onClick={() => handleTagLink(null)}
+              onClick={() => handleTagLink('')}
             >
-              Academic
+              UNLABEL
             </Button>
-          </div> */}
+          </div>
         </Box>
       </Modal>
     </div>
