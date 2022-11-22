@@ -184,13 +184,13 @@ const labelStyle = (label: string) => {
 const Links = () => {
   const [rows, setRows] = React.useState<Data[]>([]);
   const [open, setOpen] = React.useState(false);
-  const [selectedLink, setSelectedLink] = React.useState<Data | null>(null);
+  const [selectedLink, setSelectedLink] = React.useState<Data>();
 
   React.useEffect(() => {
-    setRows(poblateTable(dummyRows));
-    // getLinksBatchRequest({ size: 10 }).then((response: Data[]) => {
-    //   setRows(poblateTable(response));
-    // });
+    // setRows(poblateTable(dummyRows));
+    getLinksBatchRequest({ size: 10 }).then((response: Data[]) => {
+      setRows(poblateTable(response));
+    });
   }, []);
 
   function poblateTable(rows: Data[]) {
@@ -257,7 +257,7 @@ const Links = () => {
                             href={value}
                             target="_blank"
                             rel="noopener noreferrer"
-                            onClick={linkClickHandle(row)}
+                            onClick={() => linkClickHandle(row)}
                           >
                             {value}
                           </Link>

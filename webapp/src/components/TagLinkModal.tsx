@@ -78,6 +78,18 @@ const TagLinkModal = (props: ITagLinkModal) => {
               Academic
             </Button>
           </div>
+          {/* <div style={{ textAlign: 'center', marginTop: '20px' }}>
+            <Button
+              sx={{
+                marginLeft: '20px',
+                backgroundColor: '#ff781f',
+                color: 'black',
+              }}
+              onClick={() => handleTagLink(null)}
+            >
+              Academic
+            </Button>
+          </div> */}
         </Box>
       </Modal>
     </div>
