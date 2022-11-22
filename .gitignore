@@ -3,3 +3,4 @@
 env
 __pycache__
 ~$resultados_busqueda.xlsx
+__pycache__/
