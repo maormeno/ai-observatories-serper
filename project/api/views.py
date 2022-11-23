@@ -101,6 +101,7 @@ def get_link(request, id):
       try:
         link = Link.objects.get(pk=id)
         return Response(
+
             {
                 "id": link.pk,
                 "url": link.url,
@@ -116,6 +117,7 @@ def get_link(request, id):
       except:
         print("ERROR")
         return Response(f"Link with id {id} not found", status=404)
+
     try:
         link = Link.objects.get(pk=id)
         body = request.data["label"]

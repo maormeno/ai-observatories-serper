@@ -9,8 +9,8 @@ class Link(models.Model):
     keyword2 = models.CharField(max_length=256)
     created_at = models.DateField(default=None, null=True)
     updated_at = models.DateTimeField(null=True)
-    label = models.CharField(max_length=64, null=True)
-    owner = models.CharField(max_length=64, null=True)
+    label = models.CharField(max_length=64, null=True, default="")
+    owner = models.CharField(max_length=64, null=True, default="")
 
     class Meta:
         select_on_save = True
