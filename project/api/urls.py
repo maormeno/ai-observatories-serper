@@ -1,12 +1,7 @@
 from django.urls import path
 
-from api.views import (
-    get_all_links,
-    get_link,
-    get_link_batch,
-    get_random_link,
-    get_test_links,
-)
+from api.views import get_all_links, get_link, get_link_batch, get_random_link, get_test_links
+
 
 urlpatterns = [
     path("link", get_random_link),
