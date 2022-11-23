@@ -1,96 +1,41 @@
-import xlsxwriter
 import json
+import pandas as pd
 from app.models import Link
+import xlsxwriter
 
 
 def xlsx_writer():
-    # Create an new Excel file and add a worksheet.
-    workbook = xlsxwriter.Workbook("resultados_busqueda.xlsx")
-    worksheet = workbook.add_worksheet()
+    links_df = pd.DataFrame(Link.objects.all().values())
+    links_df["created_at"] = links_df["created_at"].apply(
+        lambda a: pd.to_datetime(a).date()
+    )
+    links_df["updated_at"] = links_df["updated_at"].apply(
+        lambda a: pd.to_datetime(a).date()
+    )
+    writer = pd.ExcelWriter("resultados_busqueda.xlsx", engine="xlsxwriter")
+    links_df.style.apply(highlight_rows, axis=1).to_excel(writer, sheet_name="Sheet1")
+    workbook = writer.book
+    worksheet = writer.sheets["Sheet1"]
 
-    # Widen the first column to make the text clearer.
-    worksheet.set_column("A:A", 20)
-    worksheet.set_column("B:B", 18)
-    worksheet.set_column("C:C", 23)
-    # countries = ["Chile", "Argentina", "Uruguay"]
-    countries = [
-        "Chile",
-        "Argentina",
-        "Brasil",
-        "Colombia",
-        "Uruguay",
-        "Mexico",
-        "Bolivia",
-        "Costa Rica",
-        "Cuba",
-        "Ecuador",
-        "El Salvador",
-        "Guatemala",
-        "Haiti",
-        "Honduras",
-        "Nicaragua",
-        "Panama",
-        "Paraguay",
-        "Peru",
-        "Republica Dominicana",
-        "Venezuela",
-    ]
-    worksheet.write(
-        0,
-        0,
-        "Lo que hay que preguntarse: ¿es una coleccion de algoritmos para la toma de decisiones automatizadas?",
+    border_fmt = workbook.add_format({"bottom": 1, "top": 1, "left": 1, "right": 1})
+    worksheet.conditional_format(
+        xlsxwriter.utility.xl_range(0, 0, len(links_df), len(links_df.columns)),
+        {"type": "no_errors", "format": border_fmt},
     )
-    worksheet.write(
-        0,
-        3,
-        "Tiempo demora",
-    )
-    worksheet.write(
-        0,
-        4,
-        "Quien",
-    )
-    worksheet.write(
-        0,
-        5,
-        "Fecha",
-    )
-    worksheet.write(
-        0,
-        6,
-        "Link Resultado busqueda",
-    )
-    for i in range(7, 17):
-        worksheet.write(0, i, f"Link{i - 6}")
+    writer.save()
 
-    for country in countries:
-        worksheet.write((countries.index(country)) * 6 + 1, 0, country)
-        worksheet.write((countries.index(country)) * 6 + 1, 1, "Observatorio")
-        worksheet.write(
-            (countries.index(country)) * 6 + 1, 2, "Inteligencia Artificial"
-        )
-        worksheet.write((countries.index(country)) * 6 + 1 + 1, 2, "Algoritmos")
-        worksheet.write(
-            (countries.index(country)) * 6 + 2 + 1, 2, "Decisiones Automatizadas"
-        )
-        worksheet.write((countries.index(country)) * 6 + 3 + 1, 1, "Repositorio")
-        worksheet.write(
-            (countries.index(country)) * 6 + 3 + 1, 2, "Inteligencia Artificial"
-        )
-        worksheet.write((countries.index(country)) * 6 + 4 + 1, 2, "Algoritmos")
-        worksheet.write(
-            (countries.index(country)) * 6 + 5 + 1, 2, "Decisiones Automatizadas"
-        )
 
-    starting_row = 1
-    for i in range(1, 121):
-        with open(
-            f"results/result{i}.json", "r", encoding="utf-8"
-        ) as json_response_file:
-            json_data = json.load(json_response_file)
-            link_list = json_data["organic"]
-            for link in link_list:
-                worksheet.write(starting_row, link_list.index(link) + 7, link["link"])
-            starting_row += 1
+def highlight_rows(row):
 
-    workbook.close()
+    val = row.loc["label"]
+    if val == "yes":
+        color = "#60D660"
+    elif val == "no":
+        color = "#D66460"
+    elif val == "maybe":
+        color = "#F0E666"
+    elif val == "academic":
+        color = "#ff781f"
+    else:
+        color = "#FFFFFF"
+    return ["background-color: {}".format(color) for r in row]
