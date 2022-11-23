@@ -18,7 +18,7 @@ interface Column {
   id: 'url' | 'title' | 'country' | 'keyword1' | 'keyword2';
   label: string;
   minWidth?: number;
-  align?: 'left';
+  align?: 'center';
   format?: (value: number) => string;
 }
 
@@ -29,16 +29,16 @@ const columns: readonly Column[] = [
     label: 'Title',
     minWidth: 100,
   },
-  { id: 'country', label: 'País', minWidth: 100 },
+  { id: 'country', label: 'País', minWidth: 40 },
   {
     id: 'keyword1',
     label: 'keywoard1',
-    minWidth: 110,
+    minWidth: 50,
   },
   {
     id: 'keyword2',
     label: 'keyword2',
-    minWidth: 110,
+    minWidth: 50,
   },
 ];
 
@@ -199,7 +199,6 @@ const Links = () => {
   }, []);
 
   function poblateTable(rows: Data[]) {
-    console.log(rows);
     let yesRows = rows.filter((row) => row.label === 'yes');
     let noRows = rows.filter((row) => row.label === 'no');
     let maybeRows = rows.filter((row) => row.label === 'maybe');
