@@ -10,6 +10,7 @@ class Link(models.Model):
     created_at = models.DateField(default=None, null=True)
     updated_at = models.DateTimeField(null=True)
     label = models.CharField(max_length=64, null=True, default="")
+    interesting = models.IntegerField(default=0, null=True)
     owner = models.CharField(max_length=64, null=True, default="")
 
     class Meta:

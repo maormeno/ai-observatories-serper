@@ -107,7 +107,7 @@ def xlsx_writer():
         3551,
         3651,
     ]
-    links_df = pd.DataFrame(Link.objects.filter(pk__in=test_ids[:50]).values())
+    links_df = pd.DataFrame(Link.objects.filter(pk__in=test_ids).values())
     links_df["created_at"] = links_df["created_at"].apply(
         lambda a: pd.to_datetime(a).date()
     )
