@@ -108,13 +108,15 @@ def xlsx_writer():
         3651,
     ]
     links_df = pd.DataFrame(Link.objects.filter(pk__in=test_ids).values())
+
     links_df["created_at"] = links_df["created_at"].apply(
         lambda a: pd.to_datetime(a).date()
     )
     links_df["updated_at"] = links_df["updated_at"].apply(
         lambda a: pd.to_datetime(a).date()
     )
-    writer = pd.ExcelWriter("resultados_busqueda.xlsx", engine="xlsxwriter")
+    
+    writer = pd.ExcelWriter(f"resultados_busqueda_{file_info}.xlsx", engine="xlsxwriter")
     links_df.style.apply(highlight_rows, axis=1).to_excel(writer, sheet_name="Sheet1")
     workbook = writer.book
     worksheet = writer.sheets["Sheet1"]
