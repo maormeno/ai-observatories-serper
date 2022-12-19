@@ -35,13 +35,11 @@ const columns: readonly Column[] = [
     id: 'keyword1',
     label: 'keywoard1',
     minWidth: 50,
-
   },
   {
     id: 'keyword2',
     label: 'keyword2',
     minWidth: 50,
-
   },
 ];
 

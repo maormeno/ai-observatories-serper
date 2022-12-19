@@ -33,9 +33,23 @@ export const getTestLinksRequest = async (half: number) => {
 
 export const labelLinkRequest = async (request: ILabelLinkRequest) => {
   const { linkId, label } = request;
-  const response = await axios.put(`http://127.0.0.1:8000/api/link/${linkId}`, {
-    label,
-  });
-  console.log(response);
-  return response.status;
+  if (label === 'interesting') {
+    const response = await axios.put(
+      `http://127.0.0.1:8000/api/link/${linkId}`,
+      {
+        label: 'no',
+        interesting: 1,
+      }
+    );
+    return response.status;
+  } else {
+    const response = await axios.put(
+      `http://127.0.0.1:8000/api/link/${linkId}`,
+      {
+        label,
+        interesting: 0,
+      }
+    );
+    return response.status;
+  }
 };

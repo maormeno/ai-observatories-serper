@@ -57,7 +57,19 @@ const TagLinkModal = (props: ITagLinkModal) => {
             <Button
               sx={{
                 marginLeft: '20px',
-                backgroundColor: '#D66460',
+                backgroundColor: '#F0E666',
+                color: 'black',
+              }}
+              onClick={() => handleTagLink('maybe')}
+            >
+              Quizás
+            </Button>
+          </div>
+          <div style={{ textAlign: 'center', marginTop: '30px' }}>
+            <Button
+              sx={{
+                marginLeft: '20px',
+                backgroundColor: 'red',
                 color: 'black',
               }}
               onClick={() => handleTagLink('no')}
@@ -67,24 +79,12 @@ const TagLinkModal = (props: ITagLinkModal) => {
             <Button
               sx={{
                 marginLeft: '20px',
-                backgroundColor: '#F0E666',
+                backgroundColor: '#bb3719',
                 color: 'black',
               }}
-              onClick={() => handleTagLink('maybe')}
+              onClick={() => handleTagLink('interesting')}
             >
-              Quizás
-            </Button>
-          </div>
-          <div style={{ textAlign: 'center', marginTop: '20px' }}>
-            <Button
-              sx={{
-                marginLeft: '20px',
-                backgroundColor: '#ff781f',
-                color: 'black',
-              }}
-              onClick={() => handleTagLink('academic')}
-            >
-              Academic
+              Interesting
             </Button>
           </div>
           <div style={{ textAlign: 'center', marginTop: '20px' }}>
